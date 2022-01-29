@@ -69,6 +69,25 @@
     "title": "Vikunja",
     "type": 3
   },
+	  {
+    "categories": ["Media Server"],
+    "description": "Helps you organize your *Ahem* ...more MATURE Media material....",
+    "env": [
+      {
+        "label": "PORT",
+        "name": "PORT"
+      }
+    ],
+    "logo": "https://dashy.to/img/dashy.png",
+    "name": "Stash",
+    "platform": "linux",
+    "repository": {
+      "stackfile": "Template/Stack/stash.yml",
+      "url": "https://github.com/mycroftwilde/portainer_templates"
+    },
+    "title": "Stash",
+    "type": 3
+  },  
 		 {
     "categories": ["Chat Server"],
     "description": "Rocket.Chat Server",
