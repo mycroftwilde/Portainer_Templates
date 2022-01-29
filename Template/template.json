@@ -543,22 +543,6 @@
 	     {
       "categories": ["Dashboard Server"],
       "description": "Helps you organize your self-hosted services by making them accessible from a single place.",
-      "env": [
-        {
-          "default": "1000",
-          "label": "PUID",
-          "name": "PUID"
-        },
-        {
-          "default": "1000",
-          "label": "PGID",
-          "name": "PGID"
-        },
-        {
-          "label": "PORT",
-          "name": "PORT"
-        }
-      ],
       "logo": "https://dashy.to/img/dashy.png",
       "name": "Dashy",
       "platform": "linux",
