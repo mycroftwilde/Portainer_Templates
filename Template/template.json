@@ -544,7 +544,7 @@
       "platform": "linux",
       "repository": {
         "stackfile": "Template/Stack/dashy.yml",
-        "url": "https://github.com/mycroftwilde//portainer_templates"
+        "url": "https://github.com/xneo1/portainer_templates"
       },
       "title": "Dashy",
       "type": 3
