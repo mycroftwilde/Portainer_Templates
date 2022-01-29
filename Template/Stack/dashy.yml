@@ -7,8 +7,8 @@ services:
     image: lissy93/dashy
     container_name: Dashy
     # Pass in your config file below, by specifying the path on your host machine
-#    volumes:
-#       - /portainer/Files/AppData/Config/Dashy:/app/public
+    volumes:
+       - /portainer/Files/AppData/Config/Dashyo:/app/public
     ports:
       - 4000:80
     # Set any environmental variables
