@@ -89,6 +89,10 @@ In addition to this, here is LearnLinuxTV's full Proxmox VE Video Course on YouT
 
   * sudo apt-get install cifs-utils
 
+  If you want to Install GIT: 
+
+  * sudo apt install git-all
+
   Install and test Docker:
 
   * sudo apt install docker.io
