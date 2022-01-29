@@ -9,6 +9,7 @@ services:
     # Pass in your config file below, by specifying the path on your host machine
     volumes:
        - /portainer/Files/AppData/Config/Dashy:/app/public/conf
+       - /portainer/Files/AppData/Config/Dashy/icons:/app/public/item-icons/icons
     ports:
       - 4000:80
     # Set any environmental variables
