@@ -80,6 +80,7 @@
     ],
     "logo": "https://dashy.to/img/dashy.png",
     "name": "Stash",
+    "note": "## Keep configs, scrapers, and plugins here. </p><p> - /portainer/Files/AppData/Config/stash:/root/.stash </p><p> ## Point this at your collection. </p><p> - ./data:/data </p><p> ## This is where your stash's metadata lives </p><p> - /portainer/Files/AppData/Config/stashmeta:/metadata </p><p> ## Any other cache content. </p><p> - /portainer/Files/AppData/Config/stashcache:/cache </p><p> ## Where to store generated content (screenshots,previews,transcodes,sprites) </p><p> - /portainer/Files/AppData/Config/stashgenerated:/generated",
     "platform": "linux",
     "repository": {
       "stackfile": "Template/Stack/stash.yml",
