@@ -200,6 +200,7 @@ In addition to this, here is LearnLinuxTV's full Proxmox VE Video Course on YouT
   * [Hotio.Dev](https://hotio.dev/)
 
   * [PfSense](https://www.pfsense.org/download/)
+     * Note - to help with multicast traffic accross vlans for IoT devices and servers like Home Assistant the following package can be installed, and then configured: avahi
 
   * [Awesome Self-Hosted's Git Page](https://github.com/awesome-selfhosted/awesome-selfhosted)
   
