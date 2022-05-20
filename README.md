@@ -38,6 +38,7 @@ I would also like to eventually add the following container templates in the fut
 * [Draw.io](https://www.draw.io)
 * [BalenaEther](https://www.balena.io/etcher/)
 * [Rufus](http://rufus.ie/en/)
+* [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/)
  
 ### Supplimental YouTube Videos:
 
