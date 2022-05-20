@@ -217,6 +217,8 @@ In addition to this, here is LearnLinuxTV's full Proxmox VE Video Course on YouT
 
   * [Local Habitica Docker Sever Setup Instructions](https://habitica.fandom.com/wiki/Setting_up_Habitica_Locally_on_Docker)
 
+  * [Proxmox Helper Scripts from TTech](https://tteck.github.io/Proxmox/)
+
 
  ## A Note about Dashboard Servers
 
