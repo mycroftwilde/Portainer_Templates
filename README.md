@@ -219,6 +219,20 @@ In addition to this, here is LearnLinuxTV's full Proxmox VE Video Course on YouT
 
   * [Proxmox Helper Scripts from TTech](https://tteck.github.io/Proxmox/)
 
+ ## ** Helpful Youtube Channels for Self-Hosting **
+ 
+   * [DBTech](https://www.youtube.com/c/DBTechYT)
+   
+   * [Techno Dad Life](https://www.youtube.com/channel/UCX2Vhc0LIzSS9aMzhGFZ7PA)
+   
+   * [Techno Tim](https://www.youtube.com/channel/UCOk-gHyjcWZNj3Br4oxwh0A)
+   
+   * [Lawrence Systems](https://www.youtube.com/user/TheTecknowledge)
+   
+   * [Learn Linux TV](https://www.youtube.com/user/JtheLinuxguy)
+   
+   * [Craft Computing](https://www.youtube.com/channel/UCp3yVOm6A55nx65STpm3tXQ)
+
 
  ## A Note about Dashboard Servers
 
