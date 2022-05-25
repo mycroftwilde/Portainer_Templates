@@ -168,7 +168,7 @@ In addition to this, here is LearnLinuxTV's full Proxmox VE Video Course on YouT
 
    4. Quick access list of general Linux/Ubuntu Commands
 
-## In the Browser Setup: 
+## Portainer: In the Browser Setup: 
 
   You Should now be able to navigate to the IP of the VM or Ubuntu Machine, going to the portainer port 9000  http://IPADress:9000
 
