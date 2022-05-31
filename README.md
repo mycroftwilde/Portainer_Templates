@@ -6,6 +6,8 @@ New Updates:
 
 I will be adding a list section for other Portainer Templates, both the Git Repository and the Json link. It should be added within the next day or two.  
 
+I will also be cleaning up this README file for easier readability in the near future. 
+
 Previous Updates: 
 
 Added more items from various other portainer templates, and catagorized based on my own needs, after searching the forks from Qballjos. 
