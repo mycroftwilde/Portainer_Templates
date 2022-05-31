@@ -49,6 +49,20 @@ Below is a YouTube playlist on various subjects around selfhosting. Some items, 
 In addition to this, here is LearnLinuxTV's full Proxmox VE Video Course on YouTube: 
 
 [Course](https://youtube.com/playlist?list=PLT98CRl2KxKHnlbYhtABg6cF50bYa8Ulo)
+
+ ### ** Helpful Youtube Channels for Self-Hosting **
+ 
+   * [DBTech](https://www.youtube.com/c/DBTechYT)
+   
+   * [Techno Dad Life](https://www.youtube.com/channel/UCX2Vhc0LIzSS9aMzhGFZ7PA)
+   
+   * [Techno Tim](https://www.youtube.com/channel/UCOk-gHyjcWZNj3Br4oxwh0A)
+   
+   * [Lawrence Systems](https://www.youtube.com/user/TheTecknowledge)
+   
+   * [Learn Linux TV](https://www.youtube.com/user/JtheLinuxguy)
+   
+   * [Craft Computing](https://www.youtube.com/channel/UCp3yVOm6A55nx65STpm3tXQ)
   
 ## New Proxmox Host - Prep
 
@@ -218,20 +232,6 @@ In addition to this, here is LearnLinuxTV's full Proxmox VE Video Course on YouT
   * [Local Habitica Docker Sever Setup Instructions](https://habitica.fandom.com/wiki/Setting_up_Habitica_Locally_on_Docker)
 
   * [Proxmox Helper Scripts from TTech](https://tteck.github.io/Proxmox/)
-
- ## ** Helpful Youtube Channels for Self-Hosting **
- 
-   * [DBTech](https://www.youtube.com/c/DBTechYT)
-   
-   * [Techno Dad Life](https://www.youtube.com/channel/UCX2Vhc0LIzSS9aMzhGFZ7PA)
-   
-   * [Techno Tim](https://www.youtube.com/channel/UCOk-gHyjcWZNj3Br4oxwh0A)
-   
-   * [Lawrence Systems](https://www.youtube.com/user/TheTecknowledge)
-   
-   * [Learn Linux TV](https://www.youtube.com/user/JtheLinuxguy)
-   
-   * [Craft Computing](https://www.youtube.com/channel/UCp3yVOm6A55nx65STpm3tXQ)
 
 
  ## A Note about Dashboard Servers
