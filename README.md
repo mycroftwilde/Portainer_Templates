@@ -50,19 +50,19 @@ In addition to this, here is LearnLinuxTV's full Proxmox VE Video Course on YouT
 
 [Course](https://youtube.com/playlist?list=PLT98CRl2KxKHnlbYhtABg6cF50bYa8Ulo)
 
- ### ** Helpful Youtube Channels for Self-Hosting **
+ ### Helpful Youtube Channels for Self-Hosting:
  
-   * [DBTech](https://www.youtube.com/c/DBTechYT)
+ [DBTech](https://www.youtube.com/c/DBTechYT)
    
-   * [Techno Dad Life](https://www.youtube.com/channel/UCX2Vhc0LIzSS9aMzhGFZ7PA)
+ [Techno Dad Life](https://www.youtube.com/channel/UCX2Vhc0LIzSS9aMzhGFZ7PA)
    
-   * [Techno Tim](https://www.youtube.com/channel/UCOk-gHyjcWZNj3Br4oxwh0A)
+ [Techno Tim](https://www.youtube.com/channel/UCOk-gHyjcWZNj3Br4oxwh0A)
    
-   * [Lawrence Systems](https://www.youtube.com/user/TheTecknowledge)
+ [Lawrence Systems](https://www.youtube.com/user/TheTecknowledge)
    
-   * [Learn Linux TV](https://www.youtube.com/user/JtheLinuxguy)
+ [Learn Linux TV](https://www.youtube.com/user/JtheLinuxguy)
    
-   * [Craft Computing](https://www.youtube.com/channel/UCp3yVOm6A55nx65STpm3tXQ)
+ [Craft Computing](https://www.youtube.com/channel/UCp3yVOm6A55nx65STpm3tXQ)
   
 ## New Proxmox Host - Prep
 
