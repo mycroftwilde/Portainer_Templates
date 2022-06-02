@@ -1,7 +1,5 @@
 # Alternative Portainer Templates List
 
-## 
-
 xneo1: https://raw.githubusercontent.com/xneo1/portainer_templates/master/Template/template.json
 
 technorabilia: https://raw.githubusercontent.com/technorabilia/portainer-templates/main/lsio/templates/templates-2.0.json
@@ -22,4 +20,4 @@ Default Portainer Template: https://raw.githubusercontent.com/portainer/template
 
 If you know of other active template lists that should be added please let me know. 
 
-[Back to the Main Repository Page](https://github.com/mycroftwilde/portainer_templates)
+### [Back to the Main Repository Page](https://github.com/mycroftwilde/portainer_templates)
