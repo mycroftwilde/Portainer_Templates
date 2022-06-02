@@ -288,7 +288,7 @@ Previous Authors
 See also the list of [contributors](https://github.com/Qballjos/portainer_templates/graphs/contributors) who participated in this project.
 
 #
-<img width="725" alt="4" src="https://raw.githubusercontent.com/mycroftwilde/portainer_templates/master/branding/images/LogoBanner2.png">
+<img width="940" alt="4" src="https://raw.githubusercontent.com/mycroftwilde/portainer_templates/master/branding/images/LogoBanner2.png">
 
 # My Notes
 
