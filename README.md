@@ -240,7 +240,6 @@ In addition to this, here is LearnLinuxTV's full Proxmox VE Video Course on YouT
 
   * [Proxmox Helper Scripts from TTech](https://tteck.github.io/Proxmox/)
 
-<img width="725" alt="4" src="https://raw.githubusercontent.com/mycroftwilde/portainer_templates/master/branding/images/LogoBanner2.png">
 
  ## A Quick Note about Home Signage Servers
 
@@ -289,6 +288,8 @@ Previous Authors
 See also the list of [contributors](https://github.com/Qballjos/portainer_templates/graphs/contributors) who participated in this project.
 
 #
+<img width="725" alt="4" src="https://raw.githubusercontent.com/mycroftwilde/portainer_templates/master/branding/images/LogoBanner2.png">
+
 # My Notes
 
 Other Templates that items were discovered/pulled from will be added when time allows. A various list of other templates have been noted below where some items have been sourced. 
