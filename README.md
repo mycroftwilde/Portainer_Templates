@@ -1,9 +1,7 @@
 # Portainer Version 2 Template and Self-Hosting Cookbook
 
-
-<p align="center">
 ![BannerLogo](/branding/images/Banner.png?raw=true "Banner")
-</p>
+
 ## Updates: 
 
 I have added a list section for other Portainer Templates. You can access it here: [List](https://github.com/mycroftwilde/portainer_templates/tree/master/TemplatesList) 
