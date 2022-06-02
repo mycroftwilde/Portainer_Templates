@@ -1,4 +1,4 @@
-# Portainer V2 Template and Self-Hosting Cookbook
+# Portainer Version 2 Template and Self-Hosting Cookbook
 
 ## Update: 
 
