@@ -32,6 +32,10 @@ Self-Hosted Pro: https://raw.githubusercontent.com/SelfhostedPro/selfhosted_temp
 
 - https://github.com/SelfhostedPro/selfhosted_templates
 
+OliverCullimore: https://raw.githubusercontent.com/OliverCullimore/portainer-templates/master/templates.json
+
+- https://github.com/OliverCullimore/portainer-templates
+
 Default Portainer Template: https://raw.githubusercontent.com/portainer/templates/master/templates-2.0.json
 
 ## Note: 
