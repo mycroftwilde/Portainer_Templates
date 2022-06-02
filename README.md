@@ -1,6 +1,6 @@
 # WiP - Portiner V2 Template after Forking from Qballjos - WiP
 
-## New Updates: 
+## New Update: 
 
 I have added a list section for other Portainer Templates, for easy reference. You can access it here: [List](https://github.com/mycroftwilde/portainer_templates/tree/master/TemplatesList) 
 
