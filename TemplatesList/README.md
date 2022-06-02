@@ -42,4 +42,9 @@ Default Portainer Template: https://raw.githubusercontent.com/portainer/template
 
 If you know of other active template lists that should be added please let me know. 
 
-### [Back to the Main Repository Page](https://github.com/mycroftwilde/portainer_templates)
+#
+#### [Table of Contents](https://github.com/mycroftwilde/portainer_templates/blob/master/TableOfContents)
+#### [Main Repository Page](https://github.com/mycroftwilde/portainer_templates)
+
+
+
