@@ -287,9 +287,8 @@ Previous Authors
 
 See also the list of [contributors](https://github.com/Qballjos/portainer_templates/graphs/contributors) who participated in this project.
 
-
-# My Notes
 #
+# My Notes
 ![BannerLogoMid](/branding/images/Banner.png?raw=true "BannerMid")
 #
 Other Templates that items were discovered/pulled from will be added when time allows. A various list of other templates have been noted below where some items have been sourced. 
