@@ -91,7 +91,7 @@
       * Enter Applicable Passwords  
 ##
 [Portainer: In the Browser Setup](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Portainer)
-
+##
    ### Further Ubuntu Setup items to be Added at a Later Time:
 
    1. Adding a public SSH Key to your Server 
