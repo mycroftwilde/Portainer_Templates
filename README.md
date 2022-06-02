@@ -1,4 +1,4 @@
-# Mycroft's Portainer V2 Template and Self-Hosting Cookbook
+# Portainer V2 Template and Self-Hosting Cookbook
 
 ## Update: 
 
