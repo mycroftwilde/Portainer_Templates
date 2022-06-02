@@ -247,7 +247,7 @@ Often you can create a server version of something you'd like to display on a wa
 
 [Instructions](https://blog.dakboard.com/diy-wall-display/)
 
- ## An Idea Regarding Personal Dashboards
+ ## A Quick Idea Regarding Personal Dashboards
  
  I've found, when it comes to building a main personal web dashboard, that none of the options did everything I wanted it to. So, I started nesting dashboards together. 
  
@@ -266,7 +266,7 @@ Here is an example of one of the other menu items open within the Dashboard.
  <img width="940" alt="3" src="https://user-images.githubusercontent.com/84437811/150927181-d4403a26-b626-4f16-b029-ec7dd38983a3.png">
 
 
- # Adding Further Containers: What I'm currently looking for
+ ## Adding Further Containers: What I'm currently looking for
  
  I'm currently wanting to add the following containers 
 
