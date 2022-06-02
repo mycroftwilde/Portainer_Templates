@@ -4,7 +4,8 @@
 
 I have added a list section for other Portainer Templates. You can access it here: [List](https://github.com/mycroftwilde/portainer_templates/tree/master/TemplatesList) 
 
-I am also working on a table of contents to easier access specific content. You can access it here: [Table of Contents](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents). I will remove duplicate content in the near future for ease of use as I better format this main page.  
+I am also working on a table of contents to easier access specific content. You can access it here: [Table of Contents](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents). 
+  - I will remove duplicate content in the near future for ease of use as I better format this main page.  
 #
 #### Previous Updates: 
 
