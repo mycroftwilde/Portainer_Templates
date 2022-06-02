@@ -21,4 +21,8 @@
 [Portainer: In the Browser Setup](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Portainer)
 
 #
+[Acknowledgements and Notes](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/acknowledgements)
+#
+[Mental Health](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/acknowledgements)
+#
 #### [Main Repository Page](https://github.com/mycroftwilde/portainer_templates)
