@@ -304,7 +304,9 @@ Other Templates that items were discovered/pulled from will be added when time a
 [xneo1](https://raw.githubusercontent.com/xneo1/portainer_templates/master/Template/template.json)
 
 #
-<img width="940" alt="4" src="https://raw.githubusercontent.com/mycroftwilde/portainer_templates/master/branding/images/LogoBanner2.png">
+
+<img width="780" alt="4" src="https://raw.githubusercontent.com/mycroftwilde/portainer_templates/master/branding/images/LogoBanner2.png">
+
 # Mental Health
 
  As a side note, not related, I'm a large advocate of Mental Health. If you are having a rough time right now, please see my Mental Health Youtube Playlist:
