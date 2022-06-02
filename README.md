@@ -53,7 +53,7 @@ In addition to this, here is LearnLinuxTV's full Proxmox VE Video Course on YouT
 
 [Course](https://youtube.com/playlist?list=PLT98CRl2KxKHnlbYhtABg6cF50bYa8Ulo)
 
- ### Helpful Youtube Channels for Self-Hosting:
+ ## Helpful Youtube Channels for Self-Hosting:
  
  [DBTech](https://www.youtube.com/c/DBTechYT)
    
