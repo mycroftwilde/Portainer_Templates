@@ -1,4 +1,4 @@
-## ** From the Forked Authors Notes ** 
+## From the Forked Authors Notes
 
 Previous Authors
 * **NASHosted** - *Current Work* - [NASHOSTED](https://github.com/nashosted)
