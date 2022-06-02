@@ -288,7 +288,8 @@ Previous Authors
 See also the list of [contributors](https://github.com/Qballjos/portainer_templates/graphs/contributors) who participated in this project.
 
 #
-<img width="940" alt="4" src="https://raw.githubusercontent.com/mycroftwilde/portainer_templates/master/branding/images/LogoBanner2.png">
+![BannerLogoMid](/branding/images/Banner.png?raw=true "BannerMid")
+
 
 # My Notes
 
@@ -303,7 +304,7 @@ Other Templates that items were discovered/pulled from will be added when time a
 [xneo1](https://raw.githubusercontent.com/xneo1/portainer_templates/master/Template/template.json)
 
 #
-![BannerLogoMid](/branding/images/Banner.png?raw=true "BannerMid")
+<img width="940" alt="4" src="https://raw.githubusercontent.com/mycroftwilde/portainer_templates/master/branding/images/LogoBanner2.png">
 # Mental Health
 
  As a side note, not related, I'm a large advocate of Mental Health. If you are having a rough time right now, please see my Mental Health Youtube Playlist:
