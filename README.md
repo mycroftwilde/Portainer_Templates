@@ -1,6 +1,6 @@
 # Portainer Version 2 Template and Self-Hosting Cookbook
 
-![BannerLogo](/branding/images/Banner.png?raw=true "Banner")
+![BannerLogo](/branding/images/LogoBanner1.png?raw=true "Banner")
 
 ## Updates: 
 
