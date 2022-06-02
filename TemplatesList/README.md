@@ -15,3 +15,5 @@ Qballjos: https://raw.githubusercontent.com/Qballjos/portainer_templates/master/
 Self-Hosted Pro: https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/portainer-2.0/Template/template.json
 
 Default Portainer Template: https://raw.githubusercontent.com/portainer/templates/master/templates-2.0.json
+
+[Back to the Main README](https://github.com/mycroftwilde/portainer_templates/blob/master/README.md)
