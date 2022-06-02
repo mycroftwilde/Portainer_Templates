@@ -247,7 +247,7 @@ Often you can create a server version of something you'd like to display on a wa
 
 [Instructions](https://blog.dakboard.com/diy-wall-display/)
 
-
+![BannerLogoMid](/branding/images/Banner.png?raw=true "BannerMid")
 
  ## An Idea Regarding Personal Dashboards
  
