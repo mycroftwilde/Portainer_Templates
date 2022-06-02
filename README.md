@@ -240,6 +240,7 @@ In addition to this, here is LearnLinuxTV's full Proxmox VE Video Course on YouT
 
   * [Proxmox Helper Scripts from TTech](https://tteck.github.io/Proxmox/)
 
+<img width="725" alt="4" src="https://raw.githubusercontent.com/mycroftwilde/portainer_templates/master/branding/images/LogoBanner2.png">
 
  ## A Quick Note about Home Signage Servers
 
