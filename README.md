@@ -1,11 +1,11 @@
 # Portainer Version 2 Template and Self-Hosting Cookbook
 
-## Update: 
+### Update: 
 
 I have added a list section for other Portainer Templates, for easy reference. You can access it here: [List](https://github.com/mycroftwilde/portainer_templates/tree/master/TemplatesList) 
 
 
-## Previous Updates: 
+### Previous Updates: 
 
 Added more items from various other portainer templates, and catagorized based on my own needs, after searching the forks from Qballjos. 
 
