@@ -4,7 +4,6 @@
 
 I have added a list section for other Portainer Templates, for easy reference. You can access it here: [List](https://github.com/mycroftwilde/portainer_templates/tree/master/TemplatesList) 
 
-I will also be cleaning up this README file for easier readability in the near future. 
 
 ## Previous Updates: 
 
