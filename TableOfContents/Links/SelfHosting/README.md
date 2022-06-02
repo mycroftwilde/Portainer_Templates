@@ -1,4 +1,4 @@
-## ** Helpful Links for Self-Hosting **
+## Helpful Links for Self-Hosting 
  
   * [LinuxServer.io](https://www.linuxserver.io/)
 
