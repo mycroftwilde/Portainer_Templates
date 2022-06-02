@@ -1,4 +1,4 @@
-## New Ubuntu Server/VM Setup Instructions - Prep
+## New Ubuntu Server/VM Setup Instructions
 
 ### Where to get the OS image:
 
