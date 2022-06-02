@@ -6,7 +6,7 @@
 
 * [Ubuntu Server](https://ubuntu.com/download/server)
 
-#
+
 ### Commands to prep your system, after Install:
 
   Update the system:
@@ -59,7 +59,7 @@
   
   [Reference for the above](https://docs.portainer.io/v/ce-2.6/start/install/agent/docker/linux)
 
-#
+
 
    ## Supplemental steps for a PiHole Container, Ubtuntu Server
    
@@ -77,7 +77,7 @@
 
    * 208.67.222.222
    * 208.67.220.220
-##
+
    ## Supplimental Setup Notes
    
    Commands for Mapping a Network Share, after installing the CFIS Utilities
@@ -91,7 +91,7 @@
       * Enter Applicable Passwords  
 ##
 [Portainer: In the Browser Setup](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Portainer)
-##
+
    ### Further Ubuntu Setup items to be Added at a Later Time:
 
    1. Adding a public SSH Key to your Server 
