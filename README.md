@@ -247,8 +247,6 @@ Often you can create a server version of something you'd like to display on a wa
 
 [Instructions](https://blog.dakboard.com/diy-wall-display/)
 
-![BannerLogoMid](/branding/images/Banner.png?raw=true "BannerMid")
-
  ## An Idea Regarding Personal Dashboards
  
  I've found, when it comes to building a main personal web dashboard, that none of the options did everything I wanted it to. So, I started nesting dashboards together. 
@@ -288,6 +286,10 @@ Previous Authors
 * **tbiering** - *Termplate cleanup and typo fixes* - [tbiering](https://github.com/tbiering)
 
 See also the list of [contributors](https://github.com/Qballjos/portainer_templates/graphs/contributors) who participated in this project.
+
+#
+
+![BannerLogoMid](/branding/images/Banner.png?raw=true "BannerMid")
 
 # My Notes
 
