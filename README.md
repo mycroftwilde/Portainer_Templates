@@ -2,7 +2,7 @@
 
 ## Update: 
 
-I have added a list section for other Portainer Templates, for easy reference. You can access it here: [List](https://github.com/mycroftwilde/portainer_templates/tree/master/TemplatesList) 
+I have added a list section for other Portainer Templates. You can access it here: [List](https://github.com/mycroftwilde/portainer_templates/tree/master/TemplatesList) 
 
 
 ### Previous Updates: 
