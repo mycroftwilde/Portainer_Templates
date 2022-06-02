@@ -251,8 +251,6 @@ Often you can create a server version of something you'd like to display on a wa
 
  ## An Idea Regarding Personal Dashboards
  
- ![Logo1](/branding/images/Logo1.png?raw=true "Logo1")
- 
  I've found, when it comes to building a main personal web dashboard, that none of the options did everything I wanted it to. So, I started nesting dashboards together. 
  
  For the below setup example, I've nested both Organizr and Flame, inside of Muximux. 
