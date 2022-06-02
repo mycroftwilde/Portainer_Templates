@@ -2,6 +2,8 @@
 
 https://github.com/mycroftwilde/portainer_templates/blob/master/branding/images/Banner.png
 
+![Alt text](/branding/images/Banner.png?raw=true "Optional Title")
+
 ## Updates: 
 
 I have added a list section for other Portainer Templates. You can access it here: [List](https://github.com/mycroftwilde/portainer_templates/tree/master/TemplatesList) 
