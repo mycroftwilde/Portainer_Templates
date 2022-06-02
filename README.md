@@ -241,7 +241,7 @@ In addition to this, here is LearnLinuxTV's full Proxmox VE Video Course on YouT
   * [Proxmox Helper Scripts from TTech](https://tteck.github.io/Proxmox/)
 
 
- ## A Note about Dashboard Servers
+ ### A Quick Note about Dashboard Servers
 
 Often you can create a server version of something you'd like to display on a wall display at home, and then use a raspberry pi to connect to that webpage on boot automatically. You can use this set of instructions, and just substitute out the dakboard specific elements, and use it to setup a raspberry pi to connect automatically to one of your running dashboard containers' URL. 
 
