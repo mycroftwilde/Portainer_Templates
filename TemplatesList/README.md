@@ -6,6 +6,8 @@ https://raw.githubusercontent.com/mycroftwilde/portainer_templates/master/Templa
 
 xneo1: https://raw.githubusercontent.com/xneo1/portainer_templates/master/Template/template.json
 
+https://github.com/xneo1/portainer_templates
+
 technorabilia: https://raw.githubusercontent.com/technorabilia/portainer-templates/main/lsio/templates/templates-2.0.json
 
 mikestraney: https://raw.githubusercontent.com/mikestraney/portainer-templates/master/templates.json
