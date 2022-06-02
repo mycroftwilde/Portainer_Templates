@@ -4,7 +4,7 @@
 
 - New Updates: 
 
-I will be adding a list section for other Portainer Templates, both the Git Repository and the Json link. It should be added within the next day or two.  
+I have added a list section for other Portainer Templates, for easy reference. You can access it here: [List](https://github.com/mycroftwilde/portainer_templates/tree/master/TemplatesList) 
 
 I will also be cleaning up this README file for easier readability in the near future. 
 
