@@ -1,4 +1,4 @@
-# * Mental Health *
+# Mental Health
 
  As a side note, not related, I'm a large advocate of Mental Health. If you are having a rough time right now, please see my Mental Health Youtube Playlist:
  
