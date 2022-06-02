@@ -101,6 +101,8 @@
 
    4. Quick access list of general Linux/Ubuntu Commands
 
+##
+[Portainer: In the Browser Setup](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Portainer)
 #
 #### [Table of Contents](https://github.com/mycroftwilde/portainer_templates/blob/master/TableOfContents)
 #### [Main Repository Page](https://github.com/mycroftwilde/portainer_templates)
