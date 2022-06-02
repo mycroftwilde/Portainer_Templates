@@ -289,7 +289,7 @@ See also the list of [contributors](https://github.com/Qballjos/portainer_templa
 
 #
 # My Notes
-![BannerLogoMid](/branding/images/Banner.png?raw=true "BannerMid")
+
 #
 Other Templates that items were discovered/pulled from will be added when time allows. A various list of other templates have been noted below where some items have been sourced. 
 
@@ -308,5 +308,6 @@ Other Templates that items were discovered/pulled from will be added when time a
  
  [Mental Health Youtube Playlist](https://youtube.com/playlist?list=PLGk2on7ccZONCobYxwGdvwMcF43gIKmqk)
  
-
+#
+![BannerLogoMid](/branding/images/Banner.png?raw=true "BannerMid")
 
