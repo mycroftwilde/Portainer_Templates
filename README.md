@@ -1,8 +1,8 @@
 # Portainer Version 2 Template and Self-Hosting Cookbook
 
-https://github.com/mycroftwilde/portainer_templates/blob/master/branding/images/Banner.png
 
-![Alt text](/branding/images/Banner.png?raw=true "Optional Title")
+
+![BannerLogo](/branding/images/Banner.png?raw=true "Banner")
 
 ## Updates: 
 
