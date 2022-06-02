@@ -1,12 +1,12 @@
 # WiP - Portiner V2 Template after Forking from Qballjos - WiP
 
-# New Updates: 
+## New Updates: 
 
 I have added a list section for other Portainer Templates, for easy reference. You can access it here: [List](https://github.com/mycroftwilde/portainer_templates/tree/master/TemplatesList) 
 
 I will also be cleaning up this README file for easier readability in the near future. 
 
-# Previous Updates: 
+## Previous Updates: 
 
 Added more items from various other portainer templates, and catagorized based on my own needs, after searching the forks from Qballjos. 
 
@@ -33,7 +33,7 @@ I would also like to eventually add the following container templates in the fut
   Further to the above, Catagory Placement work will be on-going...Some images will also be updated, and the code formatting will be adjusted for cleanliness... I feel tired already... hahaha 
  
  
-### Useful Supplimental Software Links: 
+## Useful Supplimental Software Links: 
 
 * [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/)
 * [mRemoteNG](https://mremoteng.org/)
@@ -44,7 +44,7 @@ I would also like to eventually add the following container templates in the fut
 * [Rufus](http://rufus.ie/en/)
 * [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/)
  
-### Supplimental YouTube Videos:
+## Supplimental YouTube Videos:
 
 Below is a YouTube playlist on various subjects around selfhosting. Some items, like the Proxmox install, have various videos on the same general subject. This has been done in case one presenter is preferable over another, and so things can be compared, if needed.  
 
