@@ -23,6 +23,6 @@
 #
 [Acknowledgements and Notes](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/acknowledgements)
 #
-[Mental Health](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/acknowledgements)
+[Mental Health](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/MentalHealth)
 #
 #### [Main Repository Page](https://github.com/mycroftwilde/portainer_templates)
