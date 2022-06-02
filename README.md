@@ -209,7 +209,7 @@ In addition to this, here is LearnLinuxTV's full Proxmox VE Video Course on YouT
 <img width="725" alt="4" src="https://user-images.githubusercontent.com/84437811/150959906-96752d7c-f49f-4d45-88e0-cfe9e99c8269.png">
 
 
- ## ** Helpful Links and URLs for Self-Hosting **
+ ## Helpful Links and URLs for Self-Hosting
  
   * [LinuxServer.io](https://www.linuxserver.io/)
 
@@ -274,7 +274,7 @@ Here is an example of one of the other menu items open within the Dashboard.
 
   If you'd like to assist with the above, please get into contact and I'll see about adding the applicable code to expand the list 
   
-  Note: any supplimental setup notes can be placed in the description -> Habitica, I'm thinking, would probably need this.
+  Note: any supplimental setup notes can be placed in the description within portainer. 
 
 # ** From the Forked Authors Notes ** 
 
@@ -302,7 +302,7 @@ Other Templates that items were discovered/pulled from will be added when time a
 
 #
 ![BannerLogoMid](/branding/images/Banner.png?raw=true "BannerMid")
-# * Mental Health *
+# Mental Health
 
  As a side note, not related, I'm a large advocate of Mental Health. If you are having a rough time right now, please see my Mental Health Youtube Playlist:
  
