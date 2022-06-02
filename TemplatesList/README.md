@@ -16,6 +16,6 @@ Self-Hosted Pro: https://raw.githubusercontent.com/SelfhostedPro/selfhosted_temp
 
 Default Portainer Template: https://raw.githubusercontent.com/portainer/templates/master/templates-2.0.json
 
-
+If you know of other active template lists that should be added please let me know. 
 
 [Back to the Main Repository Page](https://github.com/mycroftwilde/portainer_templates)
