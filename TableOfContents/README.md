@@ -14,11 +14,11 @@
 
 ##
 
-[Proxmox - New Host](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Proxmox/NewHost)
+[1. Proxmox - New Host](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Proxmox/NewHost)
 
-[Proxmox - Ubuntu VM Setup](https://github.com/mycroftwilde/portainer_templates/blob/master/TableOfContents/Proxmox/UbuntuVM)
+[2. Proxmox - Ubuntu VM Setup](https://github.com/mycroftwilde/portainer_templates/blob/master/TableOfContents/Proxmox/UbuntuVM)
 
-[Portainer: In the Browser Setup](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Portainer)
+[3. Portainer: In the Browser Setup](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Portainer)
 
 #
 [Acknowledgements and Notes](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/acknowledgements)
