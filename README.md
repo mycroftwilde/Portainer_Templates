@@ -290,7 +290,6 @@ See also the list of [contributors](https://github.com/Qballjos/portainer_templa
 #
 # My Notes
 
-#
 Other Templates that items were discovered/pulled from will be added when time allows. A various list of other templates have been noted below where some items have been sourced. 
 
 [technorabilia](https://raw.githubusercontent.com/technorabilia/portainer-templates/main/lsio/templates/templates-2.0.json)
@@ -301,13 +300,13 @@ Other Templates that items were discovered/pulled from will be added when time a
 
 [xneo1](https://raw.githubusercontent.com/xneo1/portainer_templates/master/Template/template.json)
 
-
+#
+![BannerLogoMid](/branding/images/Banner.png?raw=true "BannerMid")
 # * Mental Health *
 
  As a side note, not related, I'm a large advocate of Mental Health. If you are having a rough time right now, please see my Mental Health Youtube Playlist:
  
  [Mental Health Youtube Playlist](https://youtube.com/playlist?list=PLGk2on7ccZONCobYxwGdvwMcF43gIKmqk)
  
-#
-![BannerLogoMid](/branding/images/Banner.png?raw=true "BannerMid")
+
 
