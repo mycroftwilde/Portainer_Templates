@@ -1,4 +1,4 @@
-# WiP - Portiner V2 Template after Forking from Qballjos - WiP
+# Mycroft's Portiner V2 Template and Self-Hosting Cookbook
 
 ## Update: 
 
