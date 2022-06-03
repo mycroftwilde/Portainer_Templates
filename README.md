@@ -239,6 +239,8 @@ In addition to this, here is LearnLinuxTV's full Proxmox VE Video Course on YouT
   * [Local Habitica Docker Sever Setup Instructions](https://habitica.fandom.com/wiki/Setting_up_Habitica_Locally_on_Docker)
 
   * [Proxmox Helper Scripts from TTech](https://tteck.github.io/Proxmox/)
+  
+  * [Self-Hosting Weekly Roundup by: NAS HOSTED](https://noted.lol/tag/weekly-roundup/)
 
 
  ## A Quick Note about Home Signage Servers
