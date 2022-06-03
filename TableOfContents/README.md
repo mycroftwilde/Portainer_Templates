@@ -4,6 +4,15 @@
 
 ##
 
+
+##General Setup Steps to Self-Host
+
+1. [Proxmox - New Host](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Proxmox/NewHost)
+
+2. [Proxmox - Ubuntu VM Setup](https://github.com/mycroftwilde/portainer_templates/blob/master/TableOfContents/Proxmox/UbuntuVM)
+
+3. [Portainer: In the Browser Setup](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Portainer)
+##
 [Portainer Template List](https://github.com/mycroftwilde/portainer_templates/tree/master/TemplatesList)
 
 ##
@@ -12,13 +21,7 @@
 
 [Helpfuls links for Self-Hosting](https://github.com/mycroftwilde/portainer_templates/blob/master/TableOfContents/Links/SelfHosting/README.md)
 
-##
 
-1. [Proxmox - New Host](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Proxmox/NewHost)
-
-2. [Proxmox - Ubuntu VM Setup](https://github.com/mycroftwilde/portainer_templates/blob/master/TableOfContents/Proxmox/UbuntuVM)
-
-3. [Portainer: In the Browser Setup](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Portainer)
 
 #
 [Acknowledgements and Notes](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/acknowledgements)
