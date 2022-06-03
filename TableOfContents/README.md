@@ -4,8 +4,7 @@
 
 ##
 
-
-##General Setup Steps to Self-Host
+General Setup Steps to Self-Host
 
 1. [Proxmox - New Host](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Proxmox/NewHost)
 
