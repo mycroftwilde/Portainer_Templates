@@ -208,6 +208,9 @@ In addition to this, here is LearnLinuxTV's full Proxmox VE Video Course on YouT
 
 <img width="725" alt="4" src="https://user-images.githubusercontent.com/84437811/150959906-96752d7c-f49f-4d45-88e0-cfe9e99c8269.png">
 
+ ## Portainer: Updating Docker Containers 
+
+For updating Containers you can see [wundertech's instructions here](https://www.wundertech.net/how-to-update-a-docker-container-using-portainer)
 
  ## Helpful Links and URLs for Self-Hosting
  
