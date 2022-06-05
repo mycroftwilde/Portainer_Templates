@@ -48,12 +48,12 @@
         "description": "Audiobook Server",
         "env": [
           {
-            "default": "99",
+            "default": "1000",
             "label": "PUID",
             "name": "PUID"
           },
           {
-            "default": "100",
+            "default": "1000",
             "label": "PGID",
             "name": "PGID"
           }
@@ -81,7 +81,7 @@
           },
 	          {
             "bind": "/path/to/Metadata",
-            "container": "/audiobooks"
+            "container": "/metadata"
           }
         ]
       },  
