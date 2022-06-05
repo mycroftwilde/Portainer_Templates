@@ -2,7 +2,7 @@
 
 ![BannerLogo](/branding/images/LogoBanner1.png?raw=true "Banner")
 
-## Updates: 
+## New Updates: 
 
 #### Brand new Updates!
 
