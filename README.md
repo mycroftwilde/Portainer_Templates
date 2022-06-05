@@ -18,7 +18,7 @@ I am also working on a table of contents to easier access specific content. You 
   (Please note: The most up to date information will still reside on this main page until the full transition to the Table of Contents format.)
   
 #
-#### Previous Updates: 
+## Previous Updates: 
 
 [See Here](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Updates/Previous)
  
