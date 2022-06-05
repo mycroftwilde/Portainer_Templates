@@ -44,9 +44,7 @@
 		},
  {
     "categories": ["Game Server"],
-    "description": "Cartridge is a convenient browser for your game collection with easy file downloads and automatically imported metadata and images. This project is designed to be self-hosted on your local server.
-
-Cartridge is currently in development and not yet ready for use. Stay tuned! ",
+    "description": "Cartridge is a convenient browser for your game collection with easy file downloads and automatically imported metadata and images. This project is designed to be self-hosted on your local server.",
     "logo": "https://raw.githubusercontent.com/jamjnsn/cartridge/main/static/images/logo-full.png",
     "note": "Cartridge",
     "platform": "linux",
