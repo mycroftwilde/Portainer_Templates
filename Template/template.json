@@ -59,7 +59,7 @@
           }
         ],
         "image": "ghcr.io/advplyr/audiobookshelf:latest",
-        "logo": "https://github.com/mycroftwilde/portainer_templates/master/Images/AudioBookshelfLogo.png",
+        "logo": "https://raw.githubusercontent.com/mycroftwilde/portainer_templates/master/Images/AudioBookshelfLogo.png",
         "name": "Audiobookshelf",
         "platform": "linux",
         "ports": ["13378:80/tcp"],
