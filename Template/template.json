@@ -43,6 +43,52 @@
 			"restart_policy": "unless-stopped"
 		},
 
+		        {
+        "categories": ["Audiobook Server"],
+        "description": "Audiobook Server",
+        "env": [
+          {
+            "default": "99",
+            "label": "PUID",
+            "name": "PUID"
+          },
+          {
+            "default": "100",
+            "label": "PGID",
+            "name": "PGID"
+          }
+        ],
+        "image": "ghcr.io/advplyr/audiobookshelf:latest",
+        "logo": "https://raw.githubusercontent.com/advplyr/audiobookshelf/master/images/banner.svg",
+        "name": "Audiobookshelf",
+        "platform": "linux",
+        "ports": ["13378:80/tcp"],
+        "restart_policy": "unless-stopped",
+        "title": "Audiobookshelf",
+        "type": 1,
+        "volumes": [
+          {
+            "bind": "/portainer/Files/AppData/Config/Audiobookshelf",
+            "container": "/config"
+          },
+          {
+            "bind": "/path/to/audiobooks",
+            "container": "/audiobooks"
+          },
+		          {
+            "bind": "/path/to/podcasts",
+            "container": "/podcasts"
+          },
+	          {
+            "bind": "/path/to/Metadata",
+            "container": "/audiobooks"
+          }
+        ]
+      },  
+	  
+	  
+	  
+	  
 	  
 	  {
     "categories": ["Family App Server"],
