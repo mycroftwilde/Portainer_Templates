@@ -44,7 +44,7 @@
 		},
 
 		        {
-        "categories": ["Audiobook Server"],
+        "categories": ["Library Server"],
         "description": "Audiobook Server",
         "env": [
           {
