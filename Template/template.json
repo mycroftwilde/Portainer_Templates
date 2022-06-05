@@ -42,19 +42,19 @@
 			],
 			"restart_policy": "unless-stopped"
 		},
- {
-    "categories": ["Game Server"],
-    "description": "Cartridge is a convenient browser for your game collection with easy file downloads and automatically imported metadata and images. This project is designed to be self-hosted on your local server.",
-    "logo": "https://raw.githubusercontent.com/jamjnsn/cartridge/main/static/images/logo-full.png",
-    "note": "Cartridge",
-    "platform": "linux",
-    "repository": {
-      "stackfile": "Template/Stack/cartridge.yml",
-      "url": "https://github.com/mycroftwilde/portainer_templates"
-    },
-    "title": "Cartridge",
-    "type": 3
-  },  
+		 {
+		    "categories": ["Game Server"],
+		    "description": "Cartridge is a convenient browser for your game collection with easy file downloads and automatically imported metadata and images. This project is designed to be self-hosted on your local server.",
+		    "logo": "https://raw.githubusercontent.com/jamjnsn/cartridge/main/static/images/logo-full.png",
+		    "note": "Cartridge",
+		    "platform": "linux",
+		    "repository": {
+		      "stackfile": "Template/Stack/cartridge.yml",
+		      "url": "https://github.com/mycroftwilde/portainer_templates"
+		    },
+		    "title": "Cartridge",
+		    "type": 3
+		  },  
 		        {
         "categories": ["Library Server"],
         "description": "Audiobook Server",
