@@ -17,7 +17,7 @@ I have added a list section for other Portainer Templates. You can access it her
 I am also working on a table of contents to easier access specific content. You can access it here: [Table of Contents](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents). 
   (Please note: The most up to date information will still reside on this main page until the full transition to the Table of Contents format.)
   
-#
+
 ## Previous Updates: 
 
 [See Here](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Updates/Previous)
