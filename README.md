@@ -212,6 +212,10 @@ In addition to this, here is LearnLinuxTV's full Proxmox VE Video Course on YouT
 
 For updating Containers you can see [wundertech's instructions here](https://www.wundertech.net/how-to-update-a-docker-container-using-portainer)
 
+ ## Portainer and Docker-Compose: Stacks 
+
+To use Docker-Compose within Portainer you will use the Stack Feature. Instructions can be found here: [Portainers Blog Post](https://www.portainer.io/blog/stacks-docker-compose-the-portainer-way)
+
  ## Helpful Links and URLs for Self-Hosting
  
   * [LinuxServer.io](https://www.linuxserver.io/)
