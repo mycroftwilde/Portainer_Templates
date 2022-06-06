@@ -310,5 +310,11 @@ Other Templates that items were discovered/pulled from will be added when time a
  
  [Mental Health Youtube Playlist](https://youtube.com/playlist?list=PLGk2on7ccZONCobYxwGdvwMcF43gIKmqk)
  
+ Healthy Gamer GG is also a good channel for Mental Health related topics. 
+ 
+ You can find the channel via the link [here](https://www.youtube.com/c/HealthyGamerGG)
+ 
+ Always remember - You Matter! 
+ 
 
 
