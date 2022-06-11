@@ -204,6 +204,16 @@ For updating Containers you can see [wundertech's instructions here](https://www
 
 To use Docker-Compose within Portainer you will use the Stack Feature. Instructions can be found here: [Portainers Blog Post](https://www.portainer.io/blog/stacks-docker-compose-the-portainer-way)
 
+ ## Using Proxmox with Thin Clients
+ 
+ The YouTube Channel [apalrd's adventures](https://www.youtube.com/channel/UCIgNWXsJcFwvFptmUic6wSw) has a geat playlist of videos regarding using Promxmox with Thin Clients. 
+ 
+ [The YouTube Playlist]
+ 
+ Access to this information can also be found on his Blog: [The apalrd's adventures Blog - Thin Client Section](https://www.apalrd.net/projects/2022/thin_client/)
+ 
+ You can also check out his website [Here](https://www.apalrd.net/)
+
  ## Helpful Links and URLs for Self-Hosting
  
   * [LinuxServer.io](https://www.linuxserver.io/)
