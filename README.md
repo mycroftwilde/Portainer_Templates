@@ -10,7 +10,7 @@ I have added a section for Proxmox and Thin Clients, as well as links to externa
 
 #### A number of container templates have been added, sourced from xneo1's template
 
-### Please check out his work and Star it! 
+### Please check out Xneo1's work and Star it! 
 
 Find his portainer template [Here](https://raw.githubusercontent.com/xneo1/portainer_templates/master/Template/template.json)
 
