@@ -43,6 +43,78 @@
 			"restart_policy": "unless-stopped"
 		},
 	      {
+      "categories": ["Network Server"],
+      "description": "NetBox is an infrastructure resource modeling (IRM) application designed to empower network automation. Initially conceived by the network engineering team at DigitalOcean, NetBox was developed specifically to address the needs of network and infrastructure engineers.",
+      "image": "netboxcommunity/netbox:latest",
+      "logo": "https://github.com/xneo1/portainer_templates/raw/master/Images/netbox_icon.svg",
+      "name": "netbox",
+      "platform": "linux",
+      "ports": ["8000:80/tcp"],
+      "restart_policy": "always",
+      "title": "Netbox",
+      "type": 1
+    },
+    {
+      "categories": ["Dashboard Server"],
+      "description": "Freeboard is a turn-key HTML-based 'engine' for dashboards. Besides a nice looking layout engine, it provides a plugin architecture for creating datasources (which fetch data) and widgets (which display data)— freeboard then does all the work to connect the two together.",
+      "logo": "https://raw.githubusercontent.com/xneo1/portainer_templates/master/Images/freeboard.jpg",
+      "name": "freeboard",
+      "repository": {
+	    "stackfile": "Template/Stack/freeboard.yml",
+	    "url": "https://github.com/xneo1/portainer_templates"
+      },
+      "platform": "linux",
+      "ports": ["8000:80/tcp"],
+      "restart_policy": "always",
+      "title": "Freeboard",
+      "type": 3
+    },
+    {
+      "categories": ["Finance Server"],
+      "description": "Ghostfolio is an open source wealth management software built with web technology.",
+      "logo": "https://avatars.githubusercontent.com/u/82473144?s=200",
+      "name": "Ghostfolio",
+      "repository": {
+	    "stackfile": "Template/Stack/ghostfolio.yml",
+	    "url": "https://github.com/xneo1/portainer_templates"
+      },
+      "platform": "linux",
+      "ports": ["3663:80/tcp"],
+      "restart_policy": "always",
+      "title": "Ghostfolio",
+      "type": 3
+    },
+    {
+      "categories": ["Tools"],
+      "description": "A self-hosted bookmark management tool.",
+      "logo": "https://github.com/beromir/Servas/raw/main/docs/images/home.png",
+      "name": "Servas",
+      "repository": {
+	    "stackfile": "Template/Stack/servas.yml",
+	    "url": "https://github.com/xneo1/portainer_templates"
+      },
+      "platform": "linux",
+      "ports": ["8456:80/tcp"],
+      "restart_policy": "always",
+      "title": "Servas",
+      "type": 3
+    },
+    {
+      "categories": ["Tools"],
+      "description": "wallabag is a web application allowing you to save web pages for later reading. Click, save and read it when you want.",
+      "logo": "https://www.wallabag.org/user/themes/boxify/img/logo-wallabag.svg",
+      "name": "Wallabag",
+      "repository": {
+	    "stackfile": "Template/Stack/wallabag.yml",
+	    "url": "https://github.com/xneo1/portainer_templates"
+      },
+      "platform": "linux",
+      "ports": ["8234:80/tcp"],
+      "restart_policy": "always",
+      "title": "Wallabag",
+      "type": 3
+    },
+	      {
       "categories": ["Usenet Server"],
       "description": "Prowlarr is a indexer manager/proxy built on the popular arr .net/reactjs base stack to integrate with your various PVR apps. Prowlarr supports both Torrent Trackers and Usenet Indexers. It integrates seamlessly with Sonarr, Radarr, Lidarr, and Readarr offering complete management of your indexers with no per app Indexer setup required (we do it all).",
       "env": [
