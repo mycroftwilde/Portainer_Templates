@@ -4,13 +4,15 @@
 
 ## New Updates: 
 
-### Brand new Updates!
+## Brand new Updates!
 
 I have added a section for Proxmox and Thin Clients, as well as links to external resources in that section.
 
 A couple of container templates have been added, sourced from my Notes Section. You should really check out xneo1's template :) 
 
 Find it [Here](https://raw.githubusercontent.com/xneo1/portainer_templates/master/Template/template.json)
+
+#
 
 ### Sort of new Updates! 
 
