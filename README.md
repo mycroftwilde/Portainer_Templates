@@ -6,13 +6,15 @@
 
 ### Brand new Updates!
 
+I have added a section for Proxmox and Thin Clients, as well as links to external resources in that section.
+
+### Sort of new Updates! 
+
 Previous Updates have been moved off of the main page for cleanliness and I have linked a new MD file for the previous updates. 
 
 I have added Audiobookshelf to the Docker Template and it seems to work, but I haven't tested extensively. 
 
 Some new Resource links have been added to this main page. I forgot to note that therefore I'm adding a note now. :) 
-
-### Sort of new Updates! 
 
 I have added a list section for other Portainer Templates. You can access it here: [List of Portainer Templates](https://github.com/mycroftwilde/portainer_templates/tree/master/TemplatesList) 
 
