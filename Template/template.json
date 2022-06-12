@@ -42,7 +42,36 @@
 			],
 			"restart_policy": "unless-stopped"
 		},
-	  
+	      {
+      "categories": ["Network Server"],
+      "description": "WIFI / LAN intruder detector",
+      "env": [
+        {
+          "default": "1000",
+          "label": "PUID",
+          "name": "PUID"
+        },
+        {
+          "default": "100",
+          "label": "PGID",
+          "name": "PGID"
+        }
+      ],
+      "image": "jokobsk/pi.alert",
+      "logo": "https://raw.githubusercontent.com/pucherot/Pi.Alert/main/docs/img/1_devices.jpg",
+      "name": "pi.alert",
+      "platform": "linux",
+      "ports": ["20211:20211/udp"],
+      "restart_policy": "always",
+      "title": "Pi.alert",
+      "type": 1,
+      "volumes": [
+        {
+          "bind": "/portainer/Files/AppData/Config/pi.alert",
+          "container": "/config"
+        }
+      ]
+    },
 	      {
       "categories": ["Notes Server"],
       "description": "Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases",
