@@ -42,6 +42,36 @@
 			],
 			"restart_policy": "unless-stopped"
 		},
+	  
+	      {
+      "categories": ["Notes Server"],
+      "description": "Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases",
+       "env": [
+        {
+          "default": "/home/node/trilium-data",
+          "label": "TRILIUM_DATA_DIR",
+          "name": "TRILIUM_DATA_DIR"
+        },
+        {
+          "label": "PORT",
+          "name": "PORT"
+        }
+      ],
+      "image": "zadam/trilium:latest",
+      "logo": "https://www.saashub.com/images/app/service_logos/55/2901389fab77/large.png?1561117248",
+      "name": "trilium",
+      "platform": "linux",
+      "ports": ["3388:8080/tcp"],
+      "restart_policy": "unless-stopped",
+      "title": "Trilium",
+      "type": 1,
+      "volumes": [
+        {
+          "bind": "/portainer/Files/AppData/Config/trilium-data",
+          "container": "/home/node/trilium-data"
+        }
+      ]
+    },
 	      {
       "categories": ["Smart Home"],
       "description": "A complete and local NVR designed for Home Assistant with AI object detection. Uses OpenCV and Tensorflow to perform realtime object detection locally for IP cameras.", 
