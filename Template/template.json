@@ -42,18 +42,6 @@
 			],
 			"restart_policy": "unless-stopped"
 		},
-	      {
-      "categories": ["Network Server"],
-      "description": "NetBox is an infrastructure resource modeling (IRM) application designed to empower network automation. Initially conceived by the network engineering team at DigitalOcean, NetBox was developed specifically to address the needs of network and infrastructure engineers.",
-      "image": "netboxcommunity/netbox:latest",
-      "logo": "https://github.com/xneo1/portainer_templates/raw/master/Images/netbox_icon.svg",
-      "name": "netbox",
-      "platform": "linux",
-      "ports": ["8000:80/tcp"],
-      "restart_policy": "always",
-      "title": "Netbox",
-      "type": 1
-    },
     {
       "categories": ["Dashboard Server"],
       "description": "Freeboard is a turn-key HTML-based 'engine' for dashboards. Besides a nice looking layout engine, it provides a plugin architecture for creating datasources (which fetch data) and widgets (which display data)— freeboard then does all the work to connect the two together.",
