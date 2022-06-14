@@ -8,6 +8,8 @@
 
 #### 6/14/2022 - I've added the MeshCentral Docker Image by: gurucomputing
 
+#
+
 I have added a section for Proxmox and Thin Clients, as well as links to external resources in that section.
 
 A number of container templates have been added -> sourced from xneo1's template
