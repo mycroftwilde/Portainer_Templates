@@ -73,13 +73,13 @@
       }
     ],
     "logo": "https://raw.githubusercontent.com/mycroftwilde/portainer_templates/master/Images/meshc.png",
-    "note": "Mesh Central",
+    "note": "MeshCentral",
     "platform": "linux",
     "repository": {
       "stackfile": "Template/Stack/mesh.yml",
       "url": "https://github.com/mycroftwilde/portainer_templates"
     },
-    "title": "Mesh Central",
+    "title": "MeshCentral",
     "type": 3
   },
     {
