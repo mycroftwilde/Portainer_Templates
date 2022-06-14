@@ -43,7 +43,7 @@
 			"restart_policy": "unless-stopped"
 		},
 	   {
-    "categories": ["Management Server"],
+    "categories": ["Management Utility Server"],
     "description": "Remote Management Server",
     "env": [
       {
