@@ -10,5 +10,5 @@ services:
       - ./container-data/meshcentral-backup:/meshcentral/meshcentral-backup
       - /etc/localtime:/etc/localtime:ro
     ports:
-      - 80:80
-      - 443:443
+      - ${PORT8}:80
+      - ${PORT4}:443
