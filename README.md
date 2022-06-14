@@ -26,15 +26,11 @@ His Github Repo Page: [xneo1's Portainer Template Repo Page](https://github.com/
 
 ## Sort-of New Updates! 
 
-Previous Updates have been moved off of the main page for cleanliness and I have linked a new MD file for the previous updates. 
+#### Previous Updates have been moved off of the main page for cleanliness and I have linked a new MD file for the previous updates. 
 
 #
 
 I have added Audiobookshelf to the Docker Template and it seems to work, but I haven't tested extensively. 
-
-#
-
-Some new Resource links have been added to this main page. I forgot to note that therefore I'm adding a note now. :) 
 
 #
 
@@ -43,6 +39,7 @@ I have added a list section for other Portainer Templates. You can access it her
 I am also working on a table of contents to easier access specific content. You can access it here: [Table of Contents](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents). 
   (Please note: The most up to date information will still reside on this main page until the full transition to the Table of Contents format.)
   
+Various new Resource Links have been added to this main page.
 
 ## Previous Updates: 
 
