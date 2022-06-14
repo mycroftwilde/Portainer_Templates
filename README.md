@@ -26,10 +26,6 @@ His Github Repo Page: [xneo1's Portainer Template Repo Page](https://github.com/
 
 ## Sort-of New Updates! 
 
-#### Previous Updates have been moved off of the main page for cleanliness and I have linked a new MD file for the previous updates. 
-
-#
-
 I have added Audiobookshelf to the Docker Template and it seems to work, but I haven't tested extensively. 
 
 #
