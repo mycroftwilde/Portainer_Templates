@@ -42,6 +42,46 @@
 			],
 			"restart_policy": "unless-stopped"
 		},
+	   {
+    "categories": ["Management Server"],
+    "description": "Remote Management Server",
+    "env": [
+      {
+        "default": "/portainer/Files/AppData/MeshCentral/Config",
+        "label": "Config Container Bind",
+        "name": "CONFIG"
+      },
+      {
+        "default": "/portainer/Files/AppData/MeshCentral/Files",
+        "label": "Files Container Bind",
+        "name": "FILES"
+      },
+      {
+        "default": "/portainer/Files/AppData/MeshCentral/Backup",
+        "label": "Backup Container Bind",
+        "name": "BACK"
+      },
+      {
+        "default": "443",
+        "label": "Container Port 443",
+        "name": "PORT4"
+      },
+      {
+        "default": "80",
+        "label": "Container Port 80",
+        "name": "PORT8"
+      }
+    ],
+    "logo": "https://raw.githubusercontent.com/mycroftwilde/portainer_templates/master/Images/meshc.png",
+    "note": "Mesh Central",
+    "platform": "linux",
+    "repository": {
+      "stackfile": "Template/Stack/mesh.yml",
+      "url": "https://github.com/mycroftwilde/portainer_templates"
+    },
+    "title": "Mesh Central",
+    "type": 3
+  },
     {
       "categories": ["Dashboard Server"],
       "description": "Freeboard is a turn-key HTML-based 'engine' for dashboards. Besides a nice looking layout engine, it provides a plugin architecture for creating datasources (which fetch data) and widgets (which display data)— freeboard then does all the work to connect the two together.",
