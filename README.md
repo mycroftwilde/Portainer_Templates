@@ -2,9 +2,7 @@
 
 ![BannerLogo](/branding/images/LogoBanner1.png?raw=true "Banner")
 
-## New Updates: 
-
-## Brand New Updates!
+## Brand New Updates:
 
 #### 6/14/2022 - I've added the MeshCentral Docker Image by: gurucomputing
 
@@ -24,7 +22,7 @@ His Github Repo Page: [xneo1's Portainer Template Repo Page](https://github.com/
 
 #
 
-## Sort-of New Updates! 
+## Sort-of New Updates: 
 
 I have added Audiobookshelf to the Docker Template and it seems to work, but I haven't tested extensively. 
 
