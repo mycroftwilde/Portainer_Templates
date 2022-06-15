@@ -4,7 +4,7 @@
 
 ## Brand New Updates:
 
-#### 6/14/2022 - I've added the MeshCentral Docker Image by: gurucomputing
+#### 6/14/2022 - I've added the MeshCentral Docker Image by: gurucomputing to the Portainer Template. I've also added the Dockerholics Github Repo link to the Self-Hosting Links section. 
 
 #
 
@@ -226,6 +226,8 @@ To use Docker-Compose within Portainer you will use the Stack Feature. Instructi
  ## Helpful Links and URLs for Self-Hosting
  
   * [LinuxServer.io](https://www.linuxserver.io/)
+ 
+  * [Dockerholics Github Page](https://github.com/petersem/dockerholics)
 
   * [Porkbun](https://porkbun.com)
 
