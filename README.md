@@ -4,6 +4,8 @@
 
 ## Brand New Updates:
 
+#### 6/15/2022 - Added Pwndrop, Authentik, and Apprise-API. All code was obtained from the already noted template lists. Xneo1 and technorabilia. Future notations additions from other templates will just feature the template list I created. If a new template was used as a source it will be added and noted, however. 
+
 #### 6/14/2022 - I've added the MeshCentral Docker Image by: gurucomputing to the Portainer Template. 
 
 #### 6/14/2022 - I've added the Dockerholics Github Repo link to the Self-Hosting Links section. 
