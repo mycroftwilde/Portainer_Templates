@@ -1,7 +1,36 @@
 {
   "version": "2",
   "templates": [
- 				{
+ 				    {
+      "categories": ["Authentication Server"],
+      "description": "Authentik is an open-source Identity Provider focused on flexibility and versatility",
+      "env": [
+        {
+          "default": "1000",
+          "label": "PUID",
+          "name": "PUID"
+        },
+        {
+          "default": "1000",
+          "label": "PGID",
+          "name": "PGID"
+        },
+        {
+          "label": "PORT",
+          "name": "PORT"
+        }
+      ],
+      "logo": "https://goauthentik.io/img/icon_left_brand.svg",
+      "name": "Authentik",
+      "platform": "linux",
+      "repository": {
+        "stackfile": "Template/Stack/authentik.yml",
+        "url": "https://github.com/xneo1/portainer_templates"
+      },
+      "title": "Authentik",
+      "type": 3
+    },  
+	  {
 			"type": 1,
 			"title": "Apprise-api",
 			"name": "Apprise-api",
@@ -1011,7 +1040,7 @@
 			"restart_policy": "unless-stopped"
 		},
     {
-      "categories": ["Authentication"],
+      "categories": ["Authentication Server"],
       "description": "An open-source authentication and authorization server providing 2-factor authentication and single sign-on (SSO) for your applications via a web portal.",
       "env": [
         {
