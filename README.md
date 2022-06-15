@@ -10,9 +10,9 @@
 
 #
 
-I have added a section for Proxmox and Thin Clients, as well as links to external resources in that section.
+#### June, 2022 - I have added a section for Proxmox and Thin Clients, as well as links to external resources in that section.
 
-A number of container templates have been added -> sourced from [Xneo1's Template](https://raw.githubusercontent.com/xneo1/portainer_templates/master/Template/template.json)
+#### June, 2022 - A number of container templates have been added -> sourced from [Xneo1's Template](https://raw.githubusercontent.com/xneo1/portainer_templates/master/Template/template.json)
 
 His Github Repo Page: [xneo1's Portainer Template Repo Page](https://github.com/xneo1/portainer_templates) 
 
@@ -20,14 +20,14 @@ His Github Repo Page: [xneo1's Portainer Template Repo Page](https://github.com/
 
 ## Sort-of New Updates: 
 
-I have added Audiobookshelf to the Docker Template and it seems to work, but I haven't tested extensively. 
+#### June, 2022 - I have added Audiobookshelf to the Docker Template and it seems to work, but I haven't tested extensively. 
 
-I have added a list section for other Portainer Templates. You can access it here: [List of Portainer Templates](https://github.com/mycroftwilde/portainer_templates/tree/master/TemplatesList) 
+#### June, 2022 - I have added a list section for other Portainer Templates. You can access it here: [List of Portainer Templates](https://github.com/mycroftwilde/portainer_templates/tree/master/TemplatesList) 
 
-I am also working on a table of contents to easier access specific content. You can access it here: [Table of Contents](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents). 
+#### June, 2022 - Various new Resource Links have been added to this main page.
+
+#### June, 2022 - I am also working on a table of contents to easier access specific content. You can access it here: [Table of Contents](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents). 
   (Please note: The most up to date information will still reside on this main page until the full transition to the Table of Contents format.)
-  
-Various new Resource Links have been added to this main page.
 
 ## Previous Updates: 
 
