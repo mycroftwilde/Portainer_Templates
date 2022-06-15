@@ -20,7 +20,7 @@
           "name": "PORT"
         }
       ],
-      "logo": "https://goauthentik.io/img/icon_left_brand.svg",
+      "logo": "https://raw.githubusercontent.com/mycroftwilde/portainer_templates/master/Images/goauthentik.png",
       "name": "Authentik",
       "platform": "linux",
       "repository": {
