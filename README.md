@@ -10,8 +10,6 @@
 
 I have added a section for Proxmox and Thin Clients, as well as links to external resources in that section.
 
-
-
 A number of container templates have been added -> sourced from xneo1's template
 
 Find his portainer template [Here](https://raw.githubusercontent.com/xneo1/portainer_templates/master/Template/template.json)
@@ -20,13 +18,9 @@ His Github Repo Page: [xneo1's Portainer Template Repo Page](https://github.com/
 
 #### Please check out Xneo1's work and Star it! 
 
-
-
 ## Sort-of New Updates: 
 
 I have added Audiobookshelf to the Docker Template and it seems to work, but I haven't tested extensively. 
-
-#
 
 I have added a list section for other Portainer Templates. You can access it here: [List of Portainer Templates](https://github.com/mycroftwilde/portainer_templates/tree/master/TemplatesList) 
 
