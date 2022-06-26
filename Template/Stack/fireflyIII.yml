@@ -8,6 +8,7 @@ services:
       - ${UPLOAD}:/var/www/html/storage/upload
     ports:
       - ${PORT}:8080
+      - 917:80
     depends_on:
       - db
   db:
