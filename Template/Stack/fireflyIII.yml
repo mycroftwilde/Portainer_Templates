@@ -6,7 +6,6 @@ services:
     restart: always
     volumes:
       - ${UPLOAD}:/var/www/html/storage/upload
-    env_file: .env
     ports:
       - ${PORT}:8080
     depends_on:
