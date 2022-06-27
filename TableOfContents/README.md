@@ -11,6 +11,19 @@ General Setup Steps to Self-Host
 2. [Proxmox - Ubuntu VM Setup](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Proxmox/UbuntuVM)
 
 3. [Portainer: In the Browser Setup](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Portainer)
+
+##
+
+Portainer Instructions
+
+#### Portainer: Updating Docker Containers
+
+For updating Containers you can see [wundertech's instructions here](https://www.wundertech.net/how-to-update-a-docker-container-using-portainer)
+
+#### Portainer and Docker-Compose: Stacks
+
+To use Docker-Compose within Portainer you will use the Stack Feature. Instructions can be found here: [Portainers Blog Post](https://www.portainer.io/blog/stacks-docker-compose-the-portainer-way)
+
 ##
 [Portainer Template List](https://github.com/mycroftwilde/portainer_templates/tree/master/TemplatesList)
 
