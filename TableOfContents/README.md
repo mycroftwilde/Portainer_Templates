@@ -14,7 +14,7 @@
 
 ##
 
-[Portainer Template List](https://github.com/mycroftwilde/portainer_templates/tree/master/TemplatesList)
+#### [Portainer Template List](https://github.com/mycroftwilde/portainer_templates/tree/master/TemplatesList)
 
 ##
 
