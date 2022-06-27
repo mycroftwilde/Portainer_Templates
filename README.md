@@ -2,7 +2,7 @@
 
 ![BannerLogo](/branding/images/LogoBanner1.png?raw=true "Banner")
 
-### [Table of Contents](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents). 
+### [Table of Contents](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents)
 
 #
 
