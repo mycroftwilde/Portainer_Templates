@@ -52,7 +52,7 @@ His Github Repo Page: [xneo1's Portainer Template Repo Page](https://github.com/
 
 ## Alternative Self-Hosting Cookbooks
 
-* [Tborychowski's Self-Hosted Cookbook](https://github.com/tborychowski/self-hosted-cookbook)
+* [Tborychowski's Docker Compose Self-Hosted Cookbook](https://github.com/tborychowski/self-hosted-cookbook)
 
 ## Windows 11
 
