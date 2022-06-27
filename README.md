@@ -4,6 +4,8 @@
 
 # [Table of Contents](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents)
 
+## Updates: 
+
 ### Brand New Updates: 
 
 #### 6/27/2022 - Moving the Main Page over to the Table of Contents Format. A link to the previous Main Page has been added on this main page, for now. 
