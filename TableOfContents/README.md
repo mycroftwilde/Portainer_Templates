@@ -32,15 +32,15 @@ To use Docker-Compose within Portainer you will use the Stack Feature. Instructi
 
 ### Resources
 
-#### [Useful Windows 11 Client Setup Tools](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Windows/README.md)
+#### 1. [Useful Windows 11 Client Setup Tools](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Windows/README.md)
 
-#### [Useful Supplimental Software Links](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/SoftwareLinks)
+#### 2. [Useful Supplimental Software Links](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/SoftwareLinks)
 
-#### [Helpfuls links for Self-Hosting](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Links/SelfHosting/README.md)
+#### 3. [Helpfuls links for Self-Hosting](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Links/SelfHosting/README.md)
 
-#### [Alternative Self-Hosting Cookbooks](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Alternative)
+#### 4. [Alternative Self-Hosting Cookbooks](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Alternative)
 
-#### [Proxmox and Thin Clients](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Proxmox/ThinClients)
+#### 5. [Proxmox and Thin Clients](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Proxmox/ThinClients)
 
 #
 #### [Acknowledgements and Notes](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/acknowledgements)
