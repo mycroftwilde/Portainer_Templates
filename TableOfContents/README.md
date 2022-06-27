@@ -4,7 +4,7 @@
 
 ##
 
-General Setup Steps to Self-Host
+#### General Setup Steps to Self-Host
 
 1. [Proxmox - New Host](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Proxmox/NewHost)
 
@@ -14,13 +14,13 @@ General Setup Steps to Self-Host
 
 ##
 
-Portainer Instructions
+#### Portainer Instructions
 
-#### Portainer: Updating Docker Containers
+#### 1. Portainer: Updating Docker Containers
 
 For updating Containers you can see [wundertech's instructions here](https://www.wundertech.net/how-to-update-a-docker-container-using-portainer)
 
-#### Portainer and Docker-Compose: Stacks
+#### 2. Portainer and Docker-Compose: Stacks
 
 To use Docker-Compose within Portainer you will use the Stack Feature. Instructions can be found here: [Portainers Blog Post](https://www.portainer.io/blog/stacks-docker-compose-the-portainer-way)
 
