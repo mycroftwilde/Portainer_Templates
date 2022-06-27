@@ -2,7 +2,7 @@
 
 ![BannerLogoMid](/branding/images/Banner.png?raw=true "BannerMid")
 
-# Table of Contents
+## Table of Contents
 
 ###  [What Do I Need to Self-Host?](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Intro)
 
@@ -36,7 +36,7 @@ For updating Containers you can see [wundertech's instructions here](https://www
 
 To use Docker-Compose within Portainer you will use the Stack Feature. Instructions can be found here: [Portainers Blog Post](https://www.portainer.io/blog/stacks-docker-compose-the-portainer-way)
 
-#
+##
 
 ### Resources
 
