@@ -2,8 +2,6 @@
 
 ![BannerLogoMid](/branding/images/Banner.png?raw=true "BannerMid")
 
-## Table of Contents
-
 ###  [What Do I Need to Self-Host?](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Intro)
 
 ##
