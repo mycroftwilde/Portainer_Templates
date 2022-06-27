@@ -59,5 +59,4 @@ In addition to this, here is LearnLinuxTV's full Proxmox VE Video Course on YouT
   * [Self-Hosting Weekly Roundup by: NAS HOSTED](https://noted.lol/tag/weekly-roundup/)
 
 #
-#### [Table of Contents](https://github.com/mycroftwilde/portainer_templates/blob/master/TableOfContents)
 #### [Main Repository Page](https://github.com/mycroftwilde/portainer_templates)
