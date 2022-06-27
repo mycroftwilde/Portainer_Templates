@@ -16,13 +16,13 @@ General Setup Steps to Self-Host
 
 ##
 
-[Useful Windows 11 Client Setup Tools](https://github.com/mycroftwilde/portainer_templates/tree/dev/TableOfContents/Windows/README.md)
+[Useful Windows 11 Client Setup Tools](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Windows/README.md)
 
 [Useful Supplimental Software Links](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/SoftwareLinks)
 
-[Helpfuls links for Self-Hosting](https://github.com/mycroftwilde/portainer_templates/blob/master/TableOfContents/Links/SelfHosting/README.md)
+[Helpfuls links for Self-Hosting](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Links/SelfHosting/README.md)
 
-[Alternative Self-Hosting Cookbooks](https://github.com/mycroftwilde/portainer_templates/tree/dev/TableOfContents/Alternative)
+[Alternative Self-Hosting Cookbooks](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Alternative)
 
 #
 [Acknowledgements and Notes](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/acknowledgements)
