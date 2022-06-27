@@ -8,6 +8,10 @@
 
 ##
 
+### [Updates Log](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Updates/Previous)
+
+##
+
 ### General Setup Steps to Self-Host
 
 1. [Proxmox - New Host](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Proxmox/NewHost)
