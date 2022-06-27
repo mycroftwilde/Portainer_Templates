@@ -4,7 +4,7 @@
 
 ![BannerLogoMid](/branding/images/Banner.png?raw=true "BannerMid")
 
-## Updates
+### Updates
 
 #### Brand New Updates: 
 
@@ -12,11 +12,11 @@
 
 #### Previous Updates: 
 
-#### [See Here](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Updates/Previous)
+### [See Here](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Updates/Previous)
 
 #### Previous Main Page: 
 
-#### [See Here](https://github.com/mycroftwilde/portainer_templates/tree/master/Previous)
+### [See Here](https://github.com/mycroftwilde/portainer_templates/tree/master/Previous)
 
 #
 <img width="780" alt="4" src="https://raw.githubusercontent.com/mycroftwilde/portainer_templates/master/branding/images/LogoBanner2.png">
