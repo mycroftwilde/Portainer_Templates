@@ -4,17 +4,15 @@
 
 ![BannerLogoMid](/branding/images/Banner.png?raw=true "BannerMid")
 
-### Updates
-
-#### Brand New Updates: 
+### Brand New Updates: 
 
 #### 6/27/2022 - Moving the Main Page over to the Table of Contents Format. A link to the previous Main Page has been added on this main page, for now. 
 
-#### Previous Updates: 
+### Previous Updates: 
 
 ### [See Here](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Updates/Previous)
 
-#### Previous Main Page: 
+### Previous Main Page: 
 
 ### [See Here](https://github.com/mycroftwilde/portainer_templates/tree/master/Previous)
 
