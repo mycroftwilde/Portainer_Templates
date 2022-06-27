@@ -1,7 +1,5 @@
 # Portainer Version 2 Template and Self-Hosting Cookbook
 
-## [Table of Contents](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents)
-
 ![BannerLogoMid](/branding/images/Banner.png?raw=true "BannerMid")
 
 ### Recent Updates: 
@@ -12,7 +10,8 @@
 
 #### Previous Main Page: [See Here](https://github.com/mycroftwilde/portainer_templates/tree/master/Previous)
 
-#
+## [Table of Contents](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents)
+
 <img width="780" alt="4" src="https://raw.githubusercontent.com/mycroftwilde/portainer_templates/master/branding/images/LogoBanner2.png">
 
 # Mental Health
