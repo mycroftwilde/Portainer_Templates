@@ -1,3 +1,23 @@
+# Newer Updates:
+
+#### 6/26/2022 - Added a section for alternative Self-Hosting Cookbooks
+
+#### 6/24/2022 - Added a Windows 11 section for Debloating apps, etc
+
+#### 6/15/2022 - Added Pwndrop, Authentik, and Apprise-API. All code was obtained from the already noted template lists. Xneo1 and technorabilia. Future notations additions from other templates will just feature the template list I created. If a new template was used as a source it will be added and noted, however. 
+
+#### 6/14/2022 - I've added the MeshCentral Docker Image by: gurucomputing to the Portainer Template. 
+
+#### 6/14/2022 - I've added the Dockerholics Github Repo link to the Self-Hosting Links section. 
+
+#### June, 2022 - I have added a section for Proxmox and Thin Clients, as well as links to external resources in that section.
+
+#### June, 2022 - A number of container templates have been added -> sourced from [Xneo1's Template](https://raw.githubusercontent.com/xneo1/portainer_templates/master/Template/template.json)
+
+His Github Repo Page: [xneo1's Portainer Template Repo Page](https://github.com/xneo1/portainer_templates) 
+
+#### Please check out Xneo1's work and Star it! 
+
 # Sort-of New Updates: 
 
 #### June, 2022 - I have added Audiobookshelf to the Docker Template and it seems to work, but I haven't tested extensively. 
