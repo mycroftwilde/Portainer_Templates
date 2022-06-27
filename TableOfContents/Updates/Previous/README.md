@@ -1,3 +1,13 @@
+# Sort-of New Updates: 
+
+#### June, 2022 - I have added Audiobookshelf to the Docker Template and it seems to work, but I haven't tested extensively. 
+
+#### June, 2022 - I have added a list section for other Portainer Templates. You can access it here: [List of Portainer Templates](https://github.com/mycroftwilde/portainer_templates/tree/master/TemplatesList) 
+
+#### June, 2022 - Various new Resource Links have been added to this main page.
+
+#### June, 2022 - I am also working on a table of contents to easier access specific content. You can access it here: [Table of Contents](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents). 
+
 # Previous Updates:
 
 Added more items from various other portainer templates, and catagorized based on my own needs, after searching the forks from Qballjos.
