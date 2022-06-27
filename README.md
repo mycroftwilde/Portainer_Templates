@@ -2,7 +2,7 @@
 
 ## [Table of Contents](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents)
 
-![BannerLogo](/branding/images/LogoBanner1.png?raw=true "Banner")
+<img width="780" alt="4" src="https://raw.githubusercontent.com/mycroftwilde/portainer_templates/master/branding/images/LogoBanner2.png">
 
 #
 
@@ -14,16 +14,12 @@
 
 #### [See Here](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Updates/Previous)
 
-#
-![BannerLogoMid](/branding/images/Banner.png?raw=true "BannerMid")
-
 ### Previous Main Page: 
 
 #### [See Here](https://github.com/mycroftwilde/portainer_templates/tree/master/Previous)
 
 #
-
-<img width="780" alt="4" src="https://raw.githubusercontent.com/mycroftwilde/portainer_templates/master/branding/images/LogoBanner2.png">
+![BannerLogoMid](/branding/images/Banner.png?raw=true "BannerMid")
 
 # Mental Health
 
@@ -37,5 +33,5 @@
  
  #### Always Remember - You Matter! 
  
-
+![BannerLogo](/branding/images/LogoBanner1.png?raw=true "Banner")
 
