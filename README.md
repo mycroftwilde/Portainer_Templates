@@ -1,6 +1,6 @@
 # Portainer Version 2 Template and Self-Hosting Cookbook
 
-# [Table of Contents](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents)
+## [Table of Contents](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents)
 
 ![BannerLogoMid](/branding/images/Banner.png?raw=true "BannerMid")
 
