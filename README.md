@@ -4,6 +4,8 @@
 
 ## Brand New Updates:
 
+#### 6/26/2022 - Added a section for alternative Self-Hosting Cookbooks
+
 #### 6/24/2022 - Added a Windows 11 section for Debloating apps, etc
 
 #### 6/15/2022 - Added Pwndrop, Authentik, and Apprise-API. All code was obtained from the already noted template lists. Xneo1 and technorabilia. Future notations additions from other templates will just feature the template list I created. If a new template was used as a source it will be added and noted, however. 
@@ -47,6 +49,10 @@ His Github Repo Page: [xneo1's Portainer Template Repo Page](https://github.com/
 * [BalenaEther](https://www.balena.io/etcher/)
 * [Rufus](http://rufus.ie/en/)
 * [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/)
+
+## Alternative Self-Hosting Cookbooks
+
+* [Tborychowski's Self-Hosted Cookbook](https://github.com/tborychowski/self-hosted-cookbook)
 
 ## Windows 11
 
