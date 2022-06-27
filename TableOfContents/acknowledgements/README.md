@@ -22,5 +22,4 @@ Other Templates that items were discovered/pulled from will be added when time a
 [xneo1](https://raw.githubusercontent.com/xneo1/portainer_templates/master/Template/template.json)
 
 #
-#### [Table of Contents](https://github.com/mycroftwilde/portainer_templates/blob/master/TableOfContents)
 #### [Main Repository Page](https://github.com/mycroftwilde/portainer_templates)
