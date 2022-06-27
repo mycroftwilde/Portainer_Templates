@@ -19,5 +19,4 @@ On the Older PC you will install Proxmox, and Proxmox will allow you to use all 
 Further notes will be added at a later time to help beginners on their path to Self-Hosting :) 
 
 #
-#### [Table of Contents](https://github.com/mycroftwilde/portainer_templates/blob/master/TableOfContents)
 #### [Main Repository Page](https://github.com/mycroftwilde/portainer_templates)
