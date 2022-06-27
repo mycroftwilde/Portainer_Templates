@@ -14,6 +14,10 @@
 
 ##
 
+[Portainer Template List](https://github.com/mycroftwilde/portainer_templates/tree/master/TemplatesList)
+
+##
+
 #### Portainer Instructions
 
 #### 1. Portainer: Updating Docker Containers
@@ -24,8 +28,7 @@ For updating Containers you can see [wundertech's instructions here](https://www
 
 To use Docker-Compose within Portainer you will use the Stack Feature. Instructions can be found here: [Portainers Blog Post](https://www.portainer.io/blog/stacks-docker-compose-the-portainer-way)
 
-##
-[Portainer Template List](https://github.com/mycroftwilde/portainer_templates/tree/master/TemplatesList)
+
 
 ##
 
