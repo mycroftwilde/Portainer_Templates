@@ -23,7 +23,7 @@ In addition to this, here is LearnLinuxTV's full Proxmox VE Video Course on YouT
    
  [Craft Computing](https://www.youtube.com/channel/UCp3yVOm6A55nx65STpm3tXQ)
  
- ## Other Helpful Links for Self-Hosting 
+ ## Other Helpful Links for Self-Hosting: 
 
   * [Dockerholics Github Page](https://github.com/petersem/dockerholics)
  
