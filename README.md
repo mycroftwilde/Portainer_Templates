@@ -42,7 +42,7 @@ To use Docker-Compose within Portainer you will use the Stack Feature. Instructi
 
 #### 2. [Useful Supplimental Software, OS Links](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/SoftwareLinks)
 
-#### 3. [Helpfuls links for Self-Hosting](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Links/SelfHosting/README.md)
+#### 3. [Quick Access List of Links for Self-Hosting](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Links/SelfHosting/README.md)
 
 #### 4. [Alternative Self-Hosting Cookbooks](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Alternative)
 
