@@ -12,13 +12,13 @@
 
 #### 6/14/2022 - I've added the Dockerholics Github Repo link to the Self-Hosting Links section. 
 
+# Sort-of New Updates: 
+
 #### June, 2022 - I have added a section for Proxmox and Thin Clients, as well as links to external resources in that section.
 
 #### June, 2022 - A number of container templates have been added -> sourced from [Xneo1's Template](https://raw.githubusercontent.com/xneo1/portainer_templates/master/Template/template.json)
 
 ### Please check out Xneo1's work and Star it! His Github Repo Page: [xneo1's Portainer Template Repo Page](https://github.com/xneo1/portainer_templates) 
-
-# Sort-of New Updates: 
 
 #### June, 2022 - I have added Audiobookshelf to the Docker Template and it seems to work, but I haven't tested extensively. 
 
