@@ -29,13 +29,15 @@ In addition to this, here is LearnLinuxTV's full Proxmox VE Video Course on YouT
  
   * [LinuxServer.io](https://www.linuxserver.io/)
 
+  * [Hotio.Dev](https://hotio.dev/)
+
+  * [Self-Hosting Weekly Roundup by: NAS HOSTED](https://noted.lol/tag/weekly-roundup/)
+
   * [Porkbun](https://porkbun.com)
 
   * [Cloudflare](https://www.cloudflare.com/)
 
   * [SiteGrounds](https://www.siteground.com/)
-
-  * [Hotio.Dev](https://hotio.dev/)
   
   * [New Proxmox Host and Home Assistant Setup, Document and Video Guide - By JaunMTech](https://www.juanmtech.com/install-proxmox-and-virtualize-home-assistant/)
 
@@ -43,7 +45,7 @@ In addition to this, here is LearnLinuxTV's full Proxmox VE Video Course on YouT
 
   * [Proxmox Helper Scripts from TTech](https://tteck.github.io/Proxmox/)
  
-  * [Self-Hosting Weekly Roundup by: NAS HOSTED](https://noted.lol/tag/weekly-roundup/)
+
 
 #
 #### [Main Repository Page](https://github.com/mycroftwilde/portainer_templates)
