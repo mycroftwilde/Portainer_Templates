@@ -21,7 +21,7 @@ All you really need to Self-Host is an extra PC that you leave turned on and con
 
 On the extra PC you will install Proxmox. 
 
-Proxmox will, basically, allow you to use all the hardware in your older machine for a number of little Servers, as Virtual Machines or Containers, instead of needing a large number segregated machines that have resources that they don't use. 
+Proxmox, basically, will allow you to use all the hardware in your older machine for a number of little Servers, as Virtual Machines or Containers, instead of needing a large number segregated machines that have resources that they don't use. 
 
 #### Roughly Speaking, the initial setup steps to self-host will generally follow the below steps. 
 
