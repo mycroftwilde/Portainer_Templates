@@ -1,5 +1,7 @@
 ## Useful Supplimental Software, OS Links: 
 
+### Software 
+
 * [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/)
 * [mRemoteNG](https://mremoteng.org/)
 * [7zip](https://www.7-zip.org/download.html)
@@ -8,6 +10,9 @@
 * [BalenaEther](https://www.balena.io/etcher/)
 * [Rufus](http://rufus.ie/en/)
 * [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/)
+
+### OS, Images, etc
+
 * [PfSense](https://www.pfsense.org/download/)
      * Note - to help with multicast traffic accross vlans for IoT devices and servers like Home Assistant the following package can be installed, and then configured: avahi
 * [OpenMediaVault](https://www.openmediavault.org/)
