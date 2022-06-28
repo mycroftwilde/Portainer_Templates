@@ -50,6 +50,10 @@ To use Docker-Compose within Portainer you will use the Stack Feature. Instructi
 
 #### 5. [Proxmox and Thin Clients](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Proxmox/ThinClients)
 
+#### 6. 
+
+#### 7. [Lists](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Lists)
+
 #
 #### [Acknowledgements and Notes](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/acknowledgements)
 #
