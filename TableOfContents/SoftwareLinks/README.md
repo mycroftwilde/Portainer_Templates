@@ -14,6 +14,9 @@
 * [TrueNAS Core](https://www.truenas.com/)
 * [Raspberry Pi OS/Imager](https://www.raspberrypi.com/software/)
 * [Proxmox](https://www.proxmox.com/en/downloads)
+* [Open Source Media Center](https://github.com/osmc/osmc) (An Open Source Media Center OS for a Raspberry Pi, etc)
+* [Ubuntu Server](https://ubuntu.com/download/server)
+* [Ubuntu Desktop](https://ubuntu.com/download/desktop)
 
 #
 #### [Main Repository Page](https://github.com/mycroftwilde/portainer_templates)
