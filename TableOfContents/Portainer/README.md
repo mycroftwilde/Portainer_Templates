@@ -2,16 +2,16 @@
 
   You Should now be able to navigate to the IP of the VM or Ubuntu Machine, going to the portainer port 9000  http://IPADress:9000
 
-  Do initial Portainer registration 
+  Navigate to this address and complete the initial Portainer registration 
 
-  Configure Endpoint Setting so that the IP is set to that of the Host (basically, set the IP to the same thing you used to connect) 
+  Next, Configure Endpoint Setting so that the IP is set to that of the Host (basically, set the IP to the same thing you used to connect) 
       - Click Endpoints, then click the name of your VM/Server, and adjust the IP in the noted space
 
 
 <img width="592" alt="5" src="https://user-images.githubusercontent.com/84437811/150960304-414ff5dd-c586-4837-a689-c462807435b1.png">
 
 
-  Adjust your app template list to: https://raw.githubusercontent.com/mycroftwilde/portainer_templates/master/Template/template.json
+  After the Above, Adjust your app template list to: https://raw.githubusercontent.com/mycroftwilde/portainer_templates/master/Template/template.json
       - Click Settings, then adjust the App Template URL, and Apply the Changes. Afterword, navigate back to the app templates and the list should refesh to be pulling from this repository
 
 
