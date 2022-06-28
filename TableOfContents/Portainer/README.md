@@ -12,7 +12,7 @@
 
 
   After the Above, Adjust your App Template List to: https://raw.githubusercontent.com/mycroftwilde/portainer_templates/master/Template/template.json
-      - Click Settings, Adjust the App Template URL, and Then Apply the Changes. Afterword, Navigate Back to the App Templates Page, And Now the list should Be Pulling from this Repository
+      - Click Settings, Adjust the App Template URL, and Then Apply the Changes. Afterword, Navigate Back to the App Templates Page, And Now the List should Be Pulling from This Repository
 
 
 <img width="725" alt="4" src="https://user-images.githubusercontent.com/84437811/150959906-96752d7c-f49f-4d45-88e0-cfe9e99c8269.png">
