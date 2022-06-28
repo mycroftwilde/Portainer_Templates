@@ -10,5 +10,5 @@
  #
   #### Always Remember - You Matter! 
   #
-#### [Table of Contents](https://github.com/mycroftwilde/portainer_templates/blob/master/TableOfContents)
+
 #### [Main Repository Page](https://github.com/mycroftwilde/portainer_templates)
