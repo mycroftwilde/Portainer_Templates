@@ -11,6 +11,8 @@
  * After doing all of the install steps, reboot the machine at the noted time in the install instructions, and then navigate to your management interface. Often times, it's:
   
     * https://IPAddress:8006/  
+    
+      * Please Note: This is done from your Main PC and not from the machine you just installed Proxmox on and Rebooted.  
 
 #
 #### [Main Repository Page](https://github.com/mycroftwilde/portainer_templates)
