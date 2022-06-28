@@ -4,7 +4,7 @@
  
  * Prep the hardware -> Clean it, if needed. 
  
- * Flash a USB stick with an image from the Proxmox website: [Proxox Website](https://www.proxmox.com/en/downloads)
+ * Flash a USB stick with an image from the Proxmox website: [Proxmox Website](https://www.proxmox.com/en/downloads)
  
  * Image your old computer -> Have the computer boot from the USB stick, instead of it's internal harddrive, and then install Proxmox
  
