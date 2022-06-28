@@ -10,6 +10,7 @@
 * [BalenaEther](https://www.balena.io/etcher/)
 * [Rufus](http://rufus.ie/en/)
 * [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/)
+* [Cdisplayex - (CBR/CBZ Reader](https://www.cdisplayex.com/)
 
 ### OS, Images, etc
 
