@@ -17,7 +17,7 @@
 
 <img width="725" alt="4" src="https://user-images.githubusercontent.com/84437811/150959906-96752d7c-f49f-4d45-88e0-cfe9e99c8269.png">
 
-  Afterword, Navigate Back to the App Templates Page, And Now the List should Be Pulling from This Repository
+  Afterword, Navigate Back to the App Templates Page, And Now its List should Be Pulling from This Repository
   
 <img width="725" alt="4" src="https://github.com/mycroftwilde/portainer_templates/blob/2de1b2bce42d5c8f2adab86242aa8e24f2a35528/Images/example.png">
 
