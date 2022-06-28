@@ -2,7 +2,7 @@
 
 ![BannerLogoMid](/branding/images/Banner.png?raw=true "BannerMid")
 
-###  [What Do I Need to Self-Host?](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Intro)
+###  [What is Self-Hosting and What Do I Need to Self-Host?](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Intro)
 
 ##
 
