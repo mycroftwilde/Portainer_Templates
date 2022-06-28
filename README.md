@@ -16,7 +16,7 @@
 
 2. [Proxmox: Ubuntu VM Setup](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Proxmox/UbuntuVM)
 
-3. [Portainer: Intial Setup](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Portainer)
+3. [Portainer: Initial Setup](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Portainer)
 
 ##
 
