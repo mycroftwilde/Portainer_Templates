@@ -16,9 +16,7 @@
 
 #### June, 2022 - A number of container templates have been added -> sourced from [Xneo1's Template](https://raw.githubusercontent.com/xneo1/portainer_templates/master/Template/template.json)
 
-#### * His Github Repo Page: [xneo1's Portainer Template Repo Page](https://github.com/xneo1/portainer_templates) 
-
-### Please check out Xneo1's work and Star it! 
+### Please check out Xneo1's work and Star it! His Github Repo Page: [xneo1's Portainer Template Repo Page](https://github.com/xneo1/portainer_templates) 
 
 # Sort-of New Updates: 
 
