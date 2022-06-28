@@ -10,7 +10,7 @@ First, let's define *Externally*-Hosted Services by looking at a few examples:
 * A Friend's Media Server
 * Steam
 
-Okay, Next, let's add in the idea of self hosted:
+Okay, Second, let's add in the idea of self hosted:
 
 Instead of using services run by other people, or corperate groups, which you may even *Pay* for, you have a computer at home that *Serves* up these services for you. 
 This Computer acts as your *Server* and instead of other groups controlling your data, or charging you for hosting, etc, you control how things are used and accessed, along with miniminal cost (comparatively speaking).
