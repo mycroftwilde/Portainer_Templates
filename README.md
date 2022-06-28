@@ -50,7 +50,7 @@ To use Docker-Compose within Portainer you will use the Stack Feature. Instructi
 
 #### 6. [Home Signage Server](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/SignageServer)
 
-#### 7. [Lists](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Lists)
+#### 7. [A List of Lists](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Lists)
 
 #
 #### [Acknowledgements and Notes](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/acknowledgements)
