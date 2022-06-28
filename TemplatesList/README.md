@@ -36,6 +36,10 @@ OliverCullimore: https://raw.githubusercontent.com/OliverCullimore/portainer-tem
 
 - https://github.com/OliverCullimore/portainer-templates
 
+mediapot: https://raw.githubusercontent.com/mediadepot/templates/master/portainer.json
+
+- https://github.com/mediadepot/templates
+
 Default Portainer Template: https://raw.githubusercontent.com/portainer/templates/master/templates-2.0.json
 
 ## Note: 
