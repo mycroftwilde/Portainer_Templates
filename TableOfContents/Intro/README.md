@@ -25,7 +25,7 @@ Proxmox, basically, will allow you to use all the hardware in your older machine
 
 #### Roughly Speaking, the initial setup steps to self-host will generally follow the below steps. 
 
-I like to call this - "PC, Proxmox to Portainer" ... I think this helps it ... MMMmmm, Phonetically Nest, let's say ;) 
+I like to call this - "PC, Proxmox to Portainer" ... I think this helps it ... MMMmmm, Phonetically Nest, let's say ;)
 
 - Install Proxmox on your extra PC
 - Configure Proxmox during the installation process 
