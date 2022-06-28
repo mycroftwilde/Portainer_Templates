@@ -40,7 +40,7 @@ To use Docker-Compose within Portainer you will use the Stack Feature. Instructi
 
 #### 1. [Useful Windows 11 Client Setup Tools](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Windows/README.md)
 
-#### 2. [Useful Supplimental Software Links](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/SoftwareLinks)
+#### 2. [Useful Supplimental Software, OS Links](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/SoftwareLinks)
 
 #### 3. [Helpfuls links for Self-Hosting](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Links/SelfHosting/README.md)
 
