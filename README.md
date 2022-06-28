@@ -6,7 +6,7 @@
 
 ##
 
-### [Updates Log](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Updates/Previous)
+### [Update Log](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Updates/Previous)
 
 ##
 
