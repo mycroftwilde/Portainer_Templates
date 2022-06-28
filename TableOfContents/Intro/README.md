@@ -1,3 +1,19 @@
+# What is Self-Hosting? 
+
+We are going to look at the definition in two steps to make it easier ;) 
+
+First, let's define *Externally*-Hosted Services by looking at a few examples: 
+
+* Google's Search Engine
+* Microsoft Teams
+* Skype
+* A Friend's Media Server
+* Steam
+
+Okay, Next, let's add in the idea of self hosted: 
+Instead of using services run by other people, or corperate groups, which you may even *Pay* for, you have a computer at home that *Serves* up these services for you. 
+This Computer acts as your *Server* and instead of other groups controlling your data, or charging you for hosting, etc, you control how things are used and accessed, along with miniminal cost (comparatively speaking).
+
 # What do I need and how do I Self-Host?
 
 All you really need to Self-Host is an extra PC that you leave turned on and connected to your nextwork at home. 
