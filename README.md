@@ -10,7 +10,7 @@
 
 ##
 
-### General Setup Steps to Self-Host: PC, Proxmox, To Portainer
+### General Setup Steps to Self-Host: PC, Proxmox To Portainer
 
 1. [Proxmox: New Host Setup](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Proxmox/NewHost)
 
