@@ -1,4 +1,4 @@
-## Useful Supplimental Software Links: 
+## Useful Supplimental Software, OS Links: 
 
 * [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/)
 * [mRemoteNG](https://mremoteng.org/)
@@ -8,6 +8,12 @@
 * [BalenaEther](https://www.balena.io/etcher/)
 * [Rufus](http://rufus.ie/en/)
 * [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/)
+* [PfSense](https://www.pfsense.org/download/)
+     * Note - to help with multicast traffic accross vlans for IoT devices and servers like Home Assistant the following package can be installed, and then configured: avahi
+* [OpenMediaVault](https://www.openmediavault.org/)
+* [TrueNAS Core](https://www.truenas.com/)
+* [Raspberry Pi OS/Imager](https://www.raspberrypi.com/software/)
+* [Proxmox](https://www.proxmox.com/en/downloads)
 
 #
 #### [Main Repository Page](https://github.com/mycroftwilde/portainer_templates)
