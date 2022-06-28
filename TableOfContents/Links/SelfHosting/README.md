@@ -39,8 +39,6 @@ In addition to this, here is LearnLinuxTV's full Proxmox VE Video Course on YouT
 
   * [PfSense](https://www.pfsense.org/download/)
      * Note - to help with multicast traffic accross vlans for IoT devices and servers like Home Assistant the following package can be installed, and then configured: avahi
-
-  * [Awesome Self-Hosted's Git Page](https://github.com/awesome-selfhosted/awesome-selfhosted)
   
   * [New Proxmox Host and Home Assistant Setup, Document and Video Guide - By JaunMTech](https://www.juanmtech.com/install-proxmox-and-virtualize-home-assistant/)
 
