@@ -4,7 +4,7 @@
 
 #### [Awesome Self-Hosted's Git Page](https://github.com/awesome-selfhosted/awesome-selfhosted) (List of Self-Hosted Resources/Projects, etc)
 
-#### [My Portainer App Template List](https://github.com/mycroftwilde/portainer_templates/tree/master/TemplatesList)
+#### [My Portainer App Template List](https://github.com/mycroftwilde/portainer_templates/tree/master/TemplatesList) (List of Various Portainer Templates)
 
 #
 #### [Main Repository Page](https://github.com/mycroftwilde/portainer_templates)
