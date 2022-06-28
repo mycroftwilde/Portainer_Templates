@@ -12,11 +12,11 @@
 
 ### General Setup Steps to Self-Host: PC, Proxmox to Portainer
 
-1. [Proxmox: New Host Setup](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Proxmox/NewHost)
+1. [PC: Proxmox Host Setup](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Proxmox/NewHost)
 
 2. [Proxmox: Ubuntu VM Setup](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Proxmox/UbuntuVM)
 
-3. [Portainer: In the Browser Setup](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Portainer)
+3. [Portainer: Intial Setup](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Portainer)
 
 ##
 
