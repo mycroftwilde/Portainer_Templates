@@ -1,6 +1,6 @@
 # Newer Updates:
 
-#### 6/27/2022 - Moving the Main Page over to the Table of Contents Format. A link to the previous Main Page has been added on the main page, for now. 
+#### 6/27/2022 - Moving the Main Page over to the Table of Contents Format. A link to the previous Main Page has been added on the main page, for now. I have also added a few various resource links in a few places. 
 
 #### 6/26/2022 - Added a section for alternative Self-Hosting Cookbooks
 
