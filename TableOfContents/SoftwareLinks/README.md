@@ -1,4 +1,4 @@
-## Useful Supplimental OS, Software Links: 
+## Useful Supplimental OS Images, Software Links: 
 
 ### OS, Images, etc
 
