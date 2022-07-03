@@ -72,9 +72,23 @@ VirtIO Drivers can be [Found Here](https://github.com/virtio-win/virtio-win-pkg-
 
 ##
 
-### Further Resources: Various
+### Further Resources: Lists
 
-#### 1. [A List of Lists](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Lists)
+#### My Lists
+
+#### 1. [Quick Access List of Links for Self-Hosting](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Links/SelfHosting/README.md)
+
+#### 2. [Alternative Self-Hosting Cookbooks](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Alternative)
+
+## External Lists
+
+#### 1. [Sindresorhus's "Awesome" List](https://github.com/sindresorhus/awesome#books) ("Awesome lists about all kinds of interesting topics")
+
+#### 2. [Awesome Self-Hosted's Git Page](https://github.com/awesome-selfhosted/awesome-selfhosted) (List of Self-Hosted Resources/Projects, etc)
+
+##
+
+### Further Resources: Various
 
 #### 2. [Home Signage Server](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/SignageServer)
 
