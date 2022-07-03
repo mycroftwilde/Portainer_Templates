@@ -8,9 +8,9 @@
 
 #### [Portainer App Template List](https://github.com/mycroftwilde/portainer_templates/tree/master/TemplatesList) (List of Various Portainer Templates)
 
-#### [Quick Access List of Links for Self-Hosting](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Links/SelfHosting/README.md)
+#### [Useful Supplimental OS Images, Software Links List](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/SoftwareLinks)
 
-#### [Useful Supplimental Software, OS Links List](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/SoftwareLinks)
+#### [Quick Access List of Links for Self-Hosting](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Links/SelfHosting/README.md)
 
 #
 #### [Main Repository Page](https://github.com/mycroftwilde/portainer_templates)
