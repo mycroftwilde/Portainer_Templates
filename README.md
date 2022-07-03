@@ -66,17 +66,21 @@ VirtIO Drivers can be [Found Here](https://github.com/virtio-win/virtio-win-pkg-
 
 ##
 
-### Further Resources: Various
+### Further Resources: OS Images and Software
 
 #### 1. [Useful Supplimental OS Images, Software Links](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/SoftwareLinks)
 
-#### 2. [Quick Access List of Links for Self-Hosting](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Links/SelfHosting/README.md)
+##
 
-#### 3. [Alternative Self-Hosting Cookbooks](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Alternative)
+### Further Resources: Various
 
-#### 4. [Home Signage Server](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/SignageServer)
+#### 1. [Quick Access List of Links for Self-Hosting](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Links/SelfHosting/README.md)
 
-#### 5. [A List of Lists](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Lists)
+#### 2. [A List of Lists](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Lists)
+
+#### 3. [Home Signage Server](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/SignageServer)
+
+#### 4. [Alternative Self-Hosting Cookbooks](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Alternative)
 
 #
 #### [Acknowledgements and Notes](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/acknowledgements)
