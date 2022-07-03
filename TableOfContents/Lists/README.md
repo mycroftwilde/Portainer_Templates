@@ -6,13 +6,16 @@
 
 ## My Lists
 
-#### [Portainer App Template List](https://github.com/mycroftwilde/portainer_templates/tree/master/TemplatesList) (List of Various Portainer Templates)
-
-#### [Useful Supplimental OS Images, Software Links List](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/SoftwareLinks)
-
 #### [Quick Access List of Links for Self-Hosting](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Links/SelfHosting/README.md)
 
 #### [Alternative Self-Hosting Cookbooks](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Alternative)
+
+## My Lists 
+*Also found linked on the Main Page*
+
+#### [Portainer App Template List](https://github.com/mycroftwilde/portainer_templates/tree/master/TemplatesList) (List of Various Portainer Templates)
+
+#### [Useful Supplimental OS Images, Software Links List](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/SoftwareLinks)
 
 #
 #### [Main Repository Page](https://github.com/mycroftwilde/portainer_templates)
