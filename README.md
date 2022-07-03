@@ -78,13 +78,13 @@ VirtIO Drivers can be [Found Here](https://github.com/virtio-win/virtio-win-pkg-
 
 #### 2. [An Alternative Self-Hosting Cookbooks List](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Alternative)
 
-#### 3. [Sindresorhus's "Awesome" List](https://github.com/sindresorhus/awesome#books) 
+#### 3. Sindresorhus's "Awesome" List
 
-"Awesome lists about all kinds of interesting topics"
+"Awesome lists about all kinds of interesting topics" which can be [Found Here](https://github.com/sindresorhus/awesome#books)
 
-#### 4. [Awesome Self-Hosted's Git Page](https://github.com/awesome-selfhosted/awesome-selfhosted) 
+#### 4. Awesome Self-Hosted's Git Page 
 
-A Large List of Self-Hosted Resources and Projects
+A Large List of Self-Hosted Resources and Projects which can be [Found Here](https://github.com/awesome-selfhosted/awesome-selfhosted)
 
 ##
 
