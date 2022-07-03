@@ -42,6 +42,8 @@ To use Docker-Compose within Portainer you will use the Stack Feature. Instructi
 
 See the scripts by [tteck here](https://github.com/tteck/Proxmox) for help with setting up Proxmox LXC's
 
+#### 2. [New Proxmox Host and Home Assistant Setup, Document and Video Guide - By JaunMTech](https://www.juanmtech.com/install-proxmox-and-virtualize-home-assistant/)
+
 ##
 
 ### Further Resources
