@@ -46,6 +46,10 @@ See the scripts by [tteck here](https://github.com/tteck/Proxmox) for help with 
 
 New Proxmox Host and Home Assistant Setup, Document and Video Guide - By JaunMTech can be [Found Here](https://www.juanmtech.com/install-proxmox-and-virtualize-home-assistant/)
 
+#### 3. Proxmox: Thin Clients
+
+For information regarding Proxmox and Thin Clients please see my page [Here](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Proxmox/ThinClients) with some external resource links
+
 ##
 
 ### Further Resources
@@ -58,11 +62,9 @@ New Proxmox Host and Home Assistant Setup, Document and Video Guide - By JaunMTe
 
 #### 4. [Alternative Self-Hosting Cookbooks](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Alternative)
 
-#### 5. [Proxmox and Thin Clients](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Proxmox/ThinClients)
+#### 5. [Home Signage Server](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/SignageServer)
 
-#### 6. [Home Signage Server](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/SignageServer)
-
-#### 7. [A List of Lists](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Lists)
+#### 6. [A List of Lists](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Lists)
 
 #
 #### [Acknowledgements and Notes](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/acknowledgements)
