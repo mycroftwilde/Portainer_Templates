@@ -54,6 +54,8 @@ For information regarding Proxmox and Thin Clients please see [My Page Here](htt
 
 For instructions setting up a Windows 11 VM inside of Proxmox please see TechoTim's [Video Tutorial Here](https://www.youtube.com/watch?v=fupuTkkKPDU)
 
+Microsoft's Windows 11 ISO Download page can be [Found Here](https://www.microsoft.com/en-ca/software-download/windows11)
+
 VirtIO Drivers can be [Found Here](https://github.com/virtio-win/virtio-win-pkg-scripts)
 
 ##
