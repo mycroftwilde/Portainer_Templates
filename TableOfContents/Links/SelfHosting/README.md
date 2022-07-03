@@ -11,7 +11,7 @@ In addition to this, here is LearnLinuxTV's full Proxmox VE Video Course on YouT
 
 ## Proxmox LXC
 
-[Proxmox Helper Scripts from TTech](https://tteck.github.io/Proxmox/)
+[Proxmox Helper Scripts from TTech](https://github.com/tteck/Proxmox)
 
  ## Helpful Youtube Channels for Self-Hosting:
  
