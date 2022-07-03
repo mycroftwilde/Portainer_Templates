@@ -74,13 +74,9 @@ VirtIO Drivers can be [Found Here](https://github.com/virtio-win/virtio-win-pkg-
 
 ### Further Resources: Various
 
-#### 1. [Quick Access List of Links for Self-Hosting](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Links/SelfHosting/README.md)
+#### 1. [Home Signage Server](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/SignageServer)
 
 #### 2. [A List of Lists](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Lists)
-
-#### 3. [Home Signage Server](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/SignageServer)
-
-
 
 #
 #### [Acknowledgements and Notes](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/acknowledgements)
