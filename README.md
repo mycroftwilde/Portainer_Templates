@@ -40,7 +40,7 @@ To use Docker-Compose within Portainer you will use the Stack Feature. Instructi
 
 #### 1. Proxmox: LXC
 
-See the scripts by [tteck here](https://github.com/tteck/Proxmox) for help with setting up Proxmox LXC's
+See the scripts by [TTeck Here](https://github.com/tteck/Proxmox) for help with setting up Proxmox LXC's
 
 #### 2. Proxmox: New Host and Home Assistant Setup
 
@@ -48,7 +48,7 @@ New Proxmox Host and Home Assistant Setup, Document and Video Guide - By JaunMTe
 
 #### 3. Proxmox: Thin Clients
 
-For information regarding Proxmox and Thin Clients please see my page [Here](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Proxmox/ThinClients) with some external resource links
+For information regarding Proxmox and Thin Clients please see [My Page Here](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Proxmox/ThinClients) with some external resource links
 
 ##
 
