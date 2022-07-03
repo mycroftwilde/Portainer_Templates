@@ -64,7 +64,7 @@ VirtIO Drivers can be [Found Here](https://github.com/virtio-win/virtio-win-pkg-
 
 #### 1. [Useful Windows 11 Client Setup Tools](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Windows/README.md)
 
-#### 2. [Useful Supplimental Software, OS Links List](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/SoftwareLinks)
+#### 2. [Useful Supplimental OS Images, Software Links](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/SoftwareLinks)
 
 #### 3. [Quick Access List of Links for Self-Hosting](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Links/SelfHosting/README.md)
 
