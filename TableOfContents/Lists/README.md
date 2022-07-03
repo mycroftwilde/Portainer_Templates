@@ -12,5 +12,7 @@
 
 #### [Quick Access List of Links for Self-Hosting](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Links/SelfHosting/README.md)
 
+#### [Alternative Self-Hosting Cookbooks](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Alternative)
+
 #
 #### [Main Repository Page](https://github.com/mycroftwilde/portainer_templates)
