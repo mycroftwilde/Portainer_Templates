@@ -50,6 +50,12 @@ New Proxmox Host and Home Assistant Setup, Document and Video Guide - By JaunMTe
 
 For information regarding Proxmox and Thin Clients please see [My Page Here](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Proxmox/ThinClients) with some external resource links
 
+#### 4. Proxmox: Windows 11 VM
+
+For instructions setting up a Windows 11 VM inside of Proxmox please see TechoTim's [Video Tutorial Here](https://www.youtube.com/watch?v=fupuTkkKPDU)
+
+VirtIO Drivers can be [Found Here](https://github.com/virtio-win/virtio-win-pkg-scripts)
+
 ##
 
 ### Further Resources
