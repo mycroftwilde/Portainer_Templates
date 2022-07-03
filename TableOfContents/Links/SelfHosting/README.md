@@ -9,6 +9,10 @@ In addition to this, here is LearnLinuxTV's full Proxmox VE Video Course on YouT
 
 [Course](https://youtube.com/playlist?list=PLT98CRl2KxKHnlbYhtABg6cF50bYa8Ulo)
 
+## Proxmox LXC
+
+[Proxmox Helper Scripts from TTech](https://tteck.github.io/Proxmox/)
+
  ## Helpful Youtube Channels for Self-Hosting:
  
  [DBTech](https://www.youtube.com/c/DBTechYT)
@@ -42,10 +46,6 @@ In addition to this, here is LearnLinuxTV's full Proxmox VE Video Course on YouT
   * [New Proxmox Host and Home Assistant Setup, Document and Video Guide - By JaunMTech](https://www.juanmtech.com/install-proxmox-and-virtualize-home-assistant/)
 
   * [Local Habitica Docker Sever Setup Instructions](https://habitica.fandom.com/wiki/Setting_up_Habitica_Locally_on_Docker)
-
-  * [Proxmox Helper Scripts from TTech](https://tteck.github.io/Proxmox/)
- 
-
 
 #
 #### [Main Repository Page](https://github.com/mycroftwilde/portainer_templates)
