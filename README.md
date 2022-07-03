@@ -80,7 +80,7 @@ VirtIO Drivers can be [Found Here](https://github.com/virtio-win/virtio-win-pkg-
 
 #### 3. [Home Signage Server](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/SignageServer)
 
-#### 4. [Alternative Self-Hosting Cookbooks](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Alternative)
+
 
 #
 #### [Acknowledgements and Notes](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/acknowledgements)
