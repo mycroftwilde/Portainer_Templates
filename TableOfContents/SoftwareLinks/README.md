@@ -21,7 +21,7 @@
 * [PfSense](https://www.pfsense.org/download/)
      * Note - to help with multicast traffic accross vlans for IoT devices and servers like Home Assistant the following package can be installed, and then configured: avahi
 * [OpenWrt](https://openwrt.org/downloads)
-* [DD-WRT(https://dd-wrt.com/support/router-database/)
+* [DD-WRT](https://dd-wrt.com/support/router-database/)
 
 * [OpenMediaVault](https://www.openmediavault.org/)
 * [TrueNAS Core](https://www.truenas.com/)
