@@ -1,5 +1,5 @@
 ## My Lists
-*NOT found linked on the Main Page*
+(*Lists NOT found linked on the Main Repository Page*)
 
 #### [Quick Access List of Links for Self-Hosting](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Links/SelfHosting/README.md)
 
