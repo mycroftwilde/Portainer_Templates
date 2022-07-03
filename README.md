@@ -80,11 +80,11 @@ VirtIO Drivers can be [Found Here](https://github.com/virtio-win/virtio-win-pkg-
 
 #### 3. [Sindresorhus's "Awesome" List](https://github.com/sindresorhus/awesome#books) 
 
-("Awesome lists about all kinds of interesting topics")
+"Awesome lists about all kinds of interesting topics"
 
 #### 4. [Awesome Self-Hosted's Git Page](https://github.com/awesome-selfhosted/awesome-selfhosted) 
 
-(List of Self-Hosted Resources/Projects, etc)
+A Large List of Self-Hosted Resources and Projects
 
 ##
 
