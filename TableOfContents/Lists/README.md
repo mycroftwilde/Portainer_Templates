@@ -1,14 +1,15 @@
+## My Lists
+*NOT found linked on the Main Page*
+
+#### [Quick Access List of Links for Self-Hosting](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Links/SelfHosting/README.md)
+
+#### [Alternative Self-Hosting Cookbooks](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Alternative)
+
 ## External Lists
 
 #### [Sindresorhus's "Awesome" List](https://github.com/sindresorhus/awesome#books) ("Awesome lists about all kinds of interesting topics")
 
 #### [Awesome Self-Hosted's Git Page](https://github.com/awesome-selfhosted/awesome-selfhosted) (List of Self-Hosted Resources/Projects, etc)
-
-## My Lists
-
-#### [Quick Access List of Links for Self-Hosting](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Links/SelfHosting/README.md)
-
-#### [Alternative Self-Hosting Cookbooks](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Alternative)
 
 ## My Lists 
 *Also found linked on the Main Page*
