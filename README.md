@@ -44,7 +44,7 @@ See the scripts by [tteck here](https://github.com/tteck/Proxmox) for help with 
 
 #### 2. Proxmox: New Host and Home Assistant Setup
 
-[New Proxmox Host and Home Assistant Setup, Document and Video Guide - By JaunMTech](https://www.juanmtech.com/install-proxmox-and-virtualize-home-assistant/)
+New Proxmox Host and Home Assistant Setup, Document and Video Guide - By JaunMTech can be [Found Here](https://www.juanmtech.com/install-proxmox-and-virtualize-home-assistant/)
 
 ##
 
