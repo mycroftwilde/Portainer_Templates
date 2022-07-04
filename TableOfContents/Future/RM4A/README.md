@@ -78,3 +78,6 @@
 #### 4. Using an Interal Proxy (See Nginx Proxy Manager) 
 
 #### 5. A DMZ, Network Segrigation, HunnyPots, Firewall Rules and Intrusion Alerts 
+
+#### [Main Repository Page](https://github.com/mycroftwilde/portainer_templates)
+
