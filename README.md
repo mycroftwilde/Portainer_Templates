@@ -82,7 +82,7 @@ VirtIO Drivers can be [Found Here](https://github.com/virtio-win/virtio-win-pkg-
 
 A Large List of Self-Hosted Resources and Projects which can be [Found Here](https://github.com/awesome-selfhosted/awesome-selfhosted)
 
-#### 3. [Quick Access List of Links for Self-Hosting](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Links/SelfHosting/README.md)
+#### 3. [Helpful Links for Self-Hosting](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Links/SelfHosting/README.md)
 
 #### 4. [An Alternative Self-Hosting Cookbooks List](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Alternative)
 
