@@ -88,6 +88,10 @@ VirtIO Drivers can be [Found Here](https://github.com/virtio-win/virtio-win-pkg-
 
 A Large List of Self-Hosted Resources and Projects which can be [Found Here](https://github.com/awesome-selfhosted/awesome-selfhosted)
 
+#### 3. Dockerholics Application List 
+
+A list of tried and verified docker containers by the Dockerholics Community, which can be [Found here](https://github.com/petersem/dockerholics) 
+
 #### 3. [An Alternative Self-Hosting Cookbooks List](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Alternative)
 
 ##
