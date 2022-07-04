@@ -82,11 +82,11 @@ VirtIO Drivers can be [Found Here](https://github.com/virtio-win/virtio-win-pkg-
 
 #### 1. Sindresorhus's "Awesome" List
 
-"Awesome lists about all kinds of interesting topics" which can be [Found Here](https://github.com/sindresorhus/awesome#books)
+"Awesome lists about all kinds of interesting topics," which can be [Found Here](https://github.com/sindresorhus/awesome#books)
 
 #### 2. Awesome Self-Hosted's Git Page 
 
-A Large List of Self-Hosted Resources and Projects which can be [Found Here](https://github.com/awesome-selfhosted/awesome-selfhosted)
+A Large List of Self-Hosted Resources and Projects, which can be [Found Here](https://github.com/awesome-selfhosted/awesome-selfhosted)
 
 #### 3. Dockerholics Application List 
 
