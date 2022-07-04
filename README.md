@@ -101,9 +101,9 @@ A list of tried and verified docker containers by the Dockerholics Community, wh
 #### 1. [Home Signage Server](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/SignageServer)
 
 #
-#### [Acknowledgements and Notes](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/acknowledgements)
+### [Acknowledgements and Notes](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/acknowledgements)
 #
-#### [Mental Health](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/MentalHealth)
+### [Mental Health](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/MentalHealth)
 #
-#### [*Previous* Main Repository Page](https://github.com/mycroftwilde/portainer_templates/tree/master/Previous)
+### [*Previous* Main Repository Page](https://github.com/mycroftwilde/portainer_templates/tree/master/Previous)
 
