@@ -1,6 +1,6 @@
 # Newer Updates:
 
-#### 7/4/2022 - a few smaller resource links/elements have been added, along with some formatting changes to the main page. 
+#### 7/4/2022 - A few smaller resource links/elements have been added, along with some formatting changes to the main page for better organization.  
 
 #### 7/3/2022 - I've added some extra resource links in a few places and added a new section to the Table of Contents.. I'm sure there is more but I can't remember the specifics 
 
