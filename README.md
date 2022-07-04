@@ -92,7 +92,7 @@ A Large List of Self-Hosted Resources and Projects, which can be [Found Here](ht
 
 A list of tried and verified docker containers by the Dockerholics Community, which can be [Found here](https://github.com/petersem/dockerholics) 
 
-#### 3. [An Alternative Self-Hosting Cookbooks List](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Alternative)
+#### 4. [An Alternative Self-Hosting Cookbooks List](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Alternative)
 
 ##
 
