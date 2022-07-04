@@ -56,7 +56,7 @@ For instructions setting up a Windows 11 VM inside of Proxmox please see TechoTi
 
 Microsoft's Windows 11 ISO Download page can be [Found Here](https://www.microsoft.com/en-ca/software-download/windows11)
 
-VirtIO Drivers can be [Found Here](https://github.com/virtio-win/virtio-win-pkg-scripts)
+VirtIO Drivers can be [Found Here](https://github.com/virtio-win/virtio-win-pkg-scripts) (These drivers are used to find your disk drive during install, and install required drivers (network, etc) afterword) 
 
 ##
 
