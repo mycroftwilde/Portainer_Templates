@@ -1,5 +1,7 @@
 # Newer Updates:
 
+### 7/4/2022 - I've added a Future Roadmap and Upcoming Additions section. I would welcome help with these future items! -> if anyone wants to do some bullet point notes, with specific details and send them over to me. I can rewrite them to a style that fits this overview and add them :) 
+
 #### 7/4/2022 - A few smaller resource links/elements have been added, along with some formatting changes to the main page for better organization.  
 
 #### 7/3/2022 - I've added some extra resource links in a few places and added a new section to the Table of Contents.. I'm sure there is more but I can't remember the specifics 
