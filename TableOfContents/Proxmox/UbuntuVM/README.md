@@ -88,7 +88,21 @@
    * sudo chown -R nobody:nogroup /mnt/*FolderNameonyourUbuntuSystem*
    * sudo chmod -R 0755 /mnt/*FolderNameonyourUbuntuSystem*
    * sudo mount.cifs //*IPAddressofNetworkShare*/*ShareName* /mnt/*FolderNameonyourUbuntuSystem* -o user=*Username*,uid=1000
-      * Enter Applicable Passwords  
+      * Enter Applicable Passwords
+      
+ Another version of this has been noted by Matthew Peterson from Dockerholics: 
+
+  * sudo apt install cifs-utils
+  * sudo mkdir /mnt/media
+  * sudo touch /etc/win-credentials
+  * sudo nano /etc/win-credentials
+username=shareusername
+password=sharepassword
+domain=domain
+  * sudo nano /etc/fstab
+  * //192.168.1.135/Multimedia /mnt/media cifs credentials=/etc/win-credentials,file_mode=0755,dir_mode=0755 0 0
+  * sudo mount -a
+  
 ##
 [Portainer: In the Browser Setup](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Portainer)
 ##
