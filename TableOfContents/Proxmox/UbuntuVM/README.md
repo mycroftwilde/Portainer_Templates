@@ -96,10 +96,14 @@
   * sudo mkdir /mnt/media
   * sudo touch /etc/win-credentials
   * sudo nano /etc/win-credentials
+
 username=shareusername
+
 password=sharepassword
+
 domain=domain
-  * sudo nano /etc/fstab
+
+* sudo nano /etc/fstab
   * //192.168.1.135/Multimedia /mnt/media cifs credentials=/etc/win-credentials,file_mode=0755,dir_mode=0755 0 0
   * sudo mount -a
   
