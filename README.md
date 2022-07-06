@@ -42,26 +42,35 @@ To use Docker-Compose within Portainer you will use the Stack Feature. Instructi
 
 ### Proxmox Instructions
 
-#### 1. Proxmox: LXC
-
-See the scripts by [TTeck Here](https://github.com/tteck/Proxmox) for help with setting up Proxmox LXC's
-
-#### 2. Proxmox: New Host and Home Assistant Setup
+#### 1. Proxmox: New Host and Home Assistant Setup
 
 New Proxmox Host and Home Assistant Setup, Document and Video Guide - By JaunMTech can be [Found Here](https://www.juanmtech.com/install-proxmox-and-virtualize-home-assistant/)
 
-#### 3. Proxmox: Thin Clients
+#### 2. Proxmox: Thin Clients
 
 For information regarding Proxmox and Thin Clients please see [My Page Here](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Proxmox/ThinClients) with some external resource links
 
-#### 4. Proxmox: Windows 11 VM
+##
+
+### Proxmox: LXCs
+
+See the scripts by [TTeck Here](https://github.com/tteck/Proxmox) for help with setting up Proxmox LXC's
+
+##
+
+### Proxmox: VMs
+
+#### 1. SteamCMD Server Using a Ubuntu VM - [Instructions](https://developer.valvesoftware.com/wiki/SteamCMD#Linux)
+
+#### 2. Home Assistant VM 
+
+#### 3. Proxmox: Windows 11 VM
 
 For instructions setting up a Windows 11 VM inside of Proxmox please see TechoTim's [Video Tutorial Here](https://www.youtube.com/watch?v=fupuTkkKPDU)
 
 Microsoft's Windows 11 ISO Download page can be [Found Here](https://www.microsoft.com/en-ca/software-download/windows11)
 
 VirtIO Drivers *(the required drivers used to find your disk drive during install, and install required drivers (network, etc) afterword)* can be [Found Here](https://github.com/virtio-win/virtio-win-pkg-scripts) 
-
 
 ##
 
