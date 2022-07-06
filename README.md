@@ -62,7 +62,9 @@ See the scripts by [TTeck Here](https://github.com/tteck/Proxmox) for help with 
 
 #### 1. SteamCMD Server Using a Ubuntu VM - [Instructions](https://developer.valvesoftware.com/wiki/SteamCMD#Linux)
 
-#### 2. Home Assistant VM - For now, please see the proxmox host setup with Home Assistant guide for the Home Assistant Specific instructions - [Found Here](https://www.juanmtech.com/install-proxmox-and-virtualize-home-assistant/)
+#### 2. Home Assistant VM
+
+For now, please see the proxmox host setup with Home Assistant guide for the Home Assistant Specific instructions - [Found Here](https://www.juanmtech.com/install-proxmox-and-virtualize-home-assistant/)
 
 #### 3. Proxmox: Windows 11 VM
 
