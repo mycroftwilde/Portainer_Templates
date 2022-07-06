@@ -84,7 +84,7 @@ VirtIO Drivers *(the required drivers used to find your disk drive during instal
 
 ### Further Resources: OS Images and Software
 
-#### 1. [Useful Supplimental OS Images, Software Links](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/SoftwareLinks)
+#### [Useful Supplimental OS Images, Software Links](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/SoftwareLinks)
 
 ##
 
