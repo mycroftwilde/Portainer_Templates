@@ -1,5 +1,7 @@
 # Useful Windows 11 Client Setup Tools/Instructions
 
+## External Resources
+
 * [ThisIsWin11](https://github.com/builtbybel/ThisIsWin11)
 
 * [LoveWindowsAgain](https://github.com/builtbybel/LoveWindowsAgain)
@@ -10,8 +12,10 @@
 
 This is noted as Windows 10, but should work for Windows 11.
 
+## Local Resources 
+
 * How To Remove the Recycling bin from the Desktop: 
- 
+
 Go to personalization in settings, then click on theme... near the bottom of that page you should see an option called "Desktop Icon Settings" - Click that. Make your required adjustments and save changes. 
 
 #
