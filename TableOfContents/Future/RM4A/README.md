@@ -47,8 +47,8 @@
 
 #### 1. PiHole Setup and Config
 
-##### * a. LXC Setup
-##### * b. Ubuntu Server, with Portainer setup 
+  * a. LXC Setup
+  * b. Ubuntu Server, with Portainer setup 
 
 #### 2. Nginx Proxy Manager Setup and Config 
 
@@ -98,9 +98,10 @@
 
 ### Part 1: Configuring User Clients
 
-#### 1. a. Windows 11
+#### 1. Windows
 
-#### 1. b. Windows 10
+  * a. Windows 11
+  * b. Windows 10
 
 #### 2. Android
 
