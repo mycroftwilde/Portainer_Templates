@@ -47,9 +47,8 @@
 
 #### 1. PiHole Setup and Config
 
-##### a. LXC Setup
-
-##### b. Ubuntu Server, with Portainer setup 
+##### * a. LXC Setup
+##### * b. Ubuntu Server, with Portainer setup 
 
 #### 2. Nginx Proxy Manager Setup and Config 
 
