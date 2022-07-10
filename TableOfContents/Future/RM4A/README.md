@@ -115,7 +115,7 @@
 
 ##
 
-#### Section A: Multimedia Devices
+### Section A: Multimedia Devices
 
 ##
 
@@ -125,7 +125,7 @@
 
 ##
 
-#### Section B: IoT Devices
+### Section B: IoT Devices
 
 ##
 
@@ -140,7 +140,7 @@
 * 9. Smart TVs
 * 10. Game Consoles
 
-#### Section C: Shared Devices 
+### Section C: Shared Devices 
 
 * 1. Kiosk PC
 * 2. Guest Tablet
