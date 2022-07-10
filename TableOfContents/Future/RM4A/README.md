@@ -140,12 +140,16 @@
 #### 9. Smart TVs
 #### 10. Game Consoles
 
+##
+
 ### Section C: Shared Devices 
+
+##
 
 #### 1. Kiosk PC
 #### 2. Guest Tablet
 
-#
+##
 
 #### [Main Repository Page](https://github.com/mycroftwilde/portainer_templates)
 
