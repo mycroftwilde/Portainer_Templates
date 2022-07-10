@@ -119,9 +119,9 @@
 
 ##
 
-* 1. Roku
-* 2. OpenSourceMediaCenter
-* 3. Kodi 
+#### 1. Roku
+#### 2. OpenSourceMediaCenter
+#### 3. Kodi 
 
 ##
 
@@ -129,21 +129,21 @@
 
 ##
 
-* 1. Lights
-* 2. Smart Switches
-* 3. Motion Sensors 
-* 4. Tablet Panels
-* 5. Air, Noise, Humidity, and Tempurature Sensors
-* 6. Cameras
-* 7. Smart Speakers
-* 8. Smart Displays
-* 9. Smart TVs
-* 10. Game Consoles
+#### 1. Lights
+#### 2. Smart Switches
+#### 3. Motion Sensors 
+#### 4. Tablet Panels
+#### 5. Air, Noise, Humidity, and Tempurature Sensors
+#### 6. Cameras
+#### 7. Smart Speakers
+#### 8. Smart Displays
+#### 9. Smart TVs
+#### 10. Game Consoles
 
 ### Section C: Shared Devices 
 
-* 1. Kiosk PC
-* 2. Guest Tablet
+#### 1. Kiosk PC
+#### 2. Guest Tablet
 
 #
 
