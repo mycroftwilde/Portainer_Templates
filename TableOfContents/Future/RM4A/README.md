@@ -1,6 +1,8 @@
-## General Roadmap for Upcoming Additions
+# General Roadmap for Upcoming Additions
 
 ### Next Planned Future Additions: Section One - The Base
+
+##
 
 ### Part 1: PfSense: Network Setup, Segrigation and Security
 
@@ -91,7 +93,7 @@
 
 ##
 
-# * Dev * Next Additions * Dev * Section Two * Dev *
+### Next Planned Future Additions: Section Two
 
 ##
 
