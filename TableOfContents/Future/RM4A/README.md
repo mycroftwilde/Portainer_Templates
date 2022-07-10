@@ -1,10 +1,8 @@
 ## General Roadmap for Upcoming Additions
 
-### Next Planned Future Additions: 
+### Next Planned Future Additions: Section One - The Base
 
-##
-
-#### Part 1: PfSense: Network Setup, Segrigation and Security
+### Part 1: PfSense: Network Setup, Segrigation and Security
 
 ##### 1. Network Setup and Configration Section for a PfSense VM within Proxmox 
 
@@ -16,7 +14,7 @@
 
 ## 
 
-#### Part 2: Network Attached Storage
+### Part 2: Network Attached Storage
 
 #### 1. Determining your Needs and Picking your Base:
 
@@ -78,6 +76,74 @@
 #### 4. Using an Interal Proxy (See Nginx Proxy Manager) 
 
 #### 5. A DMZ, Network Segrigation, HunnyPots, Firewall Rules and Intrusion Alerts 
+
+##
+
+### Part 6: Specific VM Creation
+
+#### 1. Windows 11 VM [See Here](https://github.com/mycroftwilde/Lab/tree/main/adds/VM_Windows11)
+
+##
+
+### Part 7: Specific LXC Creation
+
+#### 1. [TTeck Scripts](https://github.com/tteck/Proxmox)
+
+##
+
+# * Dev * Next Additions * Dev * Section Two * Dev *
+
+##
+
+### Part 1: Configuring User Clients
+
+#### 1. a. Windows 11
+
+#### 1. b. Windows 10
+
+#### 2. Android
+
+#### 3. iOS
+
+#### 4. Linux - Ubuntu Desktop 
+
+##
+
+### Part 2: Configuring Device Clients and IoT
+
+##
+
+#### Section A: Multimedia Devices
+
+##
+
+* 1. Roku
+* 2. OpenSourceMediaCenter
+* 3. Kodi 
+
+##
+
+#### Section B: IoT Devices
+
+##
+
+* 1. Lights
+* 2. Smart Switches
+* 3. Motion Sensors 
+* 4. Tablet Panels
+* 5. Air, Noise, Humidity, and Tempurature Sensors
+* 6. Cameras
+* 7. Smart Speakers
+* 8. Smart Displays
+* 9. Smart TVs
+* 10. Game Consoles
+
+#### Section C: Shared Devices 
+
+* 1. Kiosk PC
+* 2. Guest Tablet
+
+#
 
 #### [Main Repository Page](https://github.com/mycroftwilde/portainer_templates)
 
