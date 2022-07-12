@@ -116,6 +116,8 @@ A list of tried and verified docker containers by the Dockerholics Community, wh
 
 #### 1. [Home Signage Server](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/SignageServer)
 
+#### 2. [Proxmox Clustering info](https://pve.proxmox.com/wiki/Cluster_Manager)
+
 #
 ### [Acknowledgements and Notes](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/acknowledgements)
 #
