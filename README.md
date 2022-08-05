@@ -8,7 +8,7 @@
 
 I've been concentrating on art therapy lately, due to my mental health, so I haven't spent much time with this in the last few weeks. 
 
-I hope to get back to it in the near future. 
+I hope to get back to this in the near future. 
 
 If anyone is interested in my art, I post my art projects as I complete them here: [Instagram - Mycroft Wilde](https://www.instagram.com/mycroft_wilde/)
 
