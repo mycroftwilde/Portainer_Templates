@@ -4,7 +4,11 @@
 
 #### A Quick Note:
 
-I've been concentrating on art therapy lately, due to my mental health, so I haven't spent much time with this in the last few weeks. I hope to get back to it in the near future. If anyone is interested in the art aspect of things, I post my art projects as I complete them here: [Instagram - Mycroft Wilde](https://www.instagram.com/mycroft_wilde/)
+I've been concentrating on art therapy lately, due to my mental health, so I haven't spent much time with this in the last few weeks. 
+
+I hope to get back to it in the near future. 
+
+If anyone is interested in my art, I post my art projects as I complete them here: [Instagram - Mycroft Wilde](https://www.instagram.com/mycroft_wilde/)
 
 ###  [What is Self-Hosting? And, What Do I Need to Self-Host?](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Intro)
 
