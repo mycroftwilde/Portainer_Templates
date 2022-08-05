@@ -4,7 +4,7 @@
 
 ##
 
-#### A Quick Note:
+#### Quick Note:
 
 I've been concentrating on art therapy lately, due to my mental health, so I haven't spent much time with this in the last few weeks. 
 
