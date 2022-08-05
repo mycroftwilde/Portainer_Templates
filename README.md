@@ -12,6 +12,10 @@ I hope to get back to this in the near future.
 
 If anyone is interested in my art, I post my art projects as I complete them here: [Instagram - Mycroft Wilde](https://www.instagram.com/mycroft_wilde/)
 
+I hope your day is a wonderful one!
+
+- Mycroft
+
 ##
 
 ###  [What is Self-Hosting? And, What Do I Need to Self-Host?](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Intro)
