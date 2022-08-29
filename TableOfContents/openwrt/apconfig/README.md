@@ -23,7 +23,7 @@ Settings for Bridged mode with Vlans:
   
   - Create a Vlan Device, using the Wan as the base, so it's wan.*VLANID*
   
-    If I was usig 43, then it would be wan.43
+    If I was using 43, then it would be wan.43
     
 2. While still in the devices section, Create a Bridge and add the VLAN. IF you want more than one SSID/have a 2.4Ghz and 5Ghz, etc, you will need to create a second bridge. One bridge Per SSID. 
 
