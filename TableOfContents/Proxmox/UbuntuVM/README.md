@@ -83,13 +83,17 @@
    
    After pulling the container image, and it failing to start, make the following adjustments: 
 
-   * sudo systemctl stop systemd-resolved.service
+  Stop Command: 
+  
+    sudo systemctl stop systemd-resolved.service
 
-   * sudo systemctl disable systemd-resolved.service
+Disable Command: 
+
+    sudo systemctl disable systemd-resolved.service
 
    Next, run the below and edit the name server:
 
-   * sudo nano /etc/resolv.conf
+    sudo nano /etc/resolv.conf
 
    You can change the name server to OpenDNS normally
 
