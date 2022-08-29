@@ -47,6 +47,6 @@ You Should now be able to connect to your network via the SSIDs that you setup, 
 
 #
 
-I'll probably clean these instructions up at a later time, but they should provide a good base as written. 
+I'll probably clean these instructions up at a later time, but they should provide a good base as written, however.
 
 #### [Main Repository Page](https://github.com/mycroftwilde/portainer_templates)    
