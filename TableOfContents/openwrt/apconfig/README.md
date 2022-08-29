@@ -22,6 +22,8 @@ Settings for Bridged mode with Vlans:
   
   - Basically Click add, where applicable, and fill out ESSID field in the General Setup with your desired SSID. Under the network dropdown, on the same page, specify the bridge you created for the SSID.
   
+  <img width="592" alt="5" src="https://github.com/mycroftwilde/portainer_templates/blob/8e2dc4237e17eba91e6a81238eedf9fb450f9b39/Images/Openwrt.png">
+  
   - After this, go to the wireless security section and set a password
   
   Click Save
