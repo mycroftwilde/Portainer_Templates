@@ -14,7 +14,7 @@ Please be aware these instructions pressuppose that you have already setup:
 
 ### Rough Instructions:
 
-#
+
 
 Set Lan Network to: [IPAddress]/24
 Management Interface: http://[SameIPAddress]
