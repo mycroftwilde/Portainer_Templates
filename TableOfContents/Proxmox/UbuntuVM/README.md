@@ -45,25 +45,35 @@
   
     sudo systemctl status docker
 
-  Setup Portainer: 
+  Create Portainer Volume:
 
-  * sudo docker volume create portainer_data
+    sudo docker volume create portainer_data
 
-  * sudo docker run -d -p 8000:8000 -p 9000:9000 --name=portainer --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data portainer/portainer-ce
+  Install Portainer: 
+  
+    sudo docker run -d -p 8000:8000 -p 9000:9000 --name=portainer --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data portainer/portainer-ce
 
 ** How to Update Portainer, for when needed: **
 
-  * sudo docker stop portainer
+  Stop Portainer:
+
+    sudo docker stop portainer
   
-  * sudo docker rm portainer
+  Remove the Current Container Image (not your Data)
   
-  * sudo docker pull portainer/portainer-ce
+    sudo docker rm portainer
   
-  * sudo docker run -d -p 8000:8000 -p 9000:9000 --name=portainer --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data portainer/portainer-ce
+  Pull a New Container Image for Portainer:
+  
+    sudo docker pull portainer/portainer-ce
+    
+  Install/Update Portainer:
+  
+    sudo docker run -d -p 8000:8000 -p 9000:9000 --name=portainer --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data portainer/portainer-ce
 
 ** How to install the Portainer Agent, for when needed: **
 
-  * docker run -d -p 9001:9001 --name portainer_agent --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v /var/lib/docker/volumes:/var/lib/docker/volumes portainer/agent:2.6.3 
+    docker run -d -p 9001:9001 --name portainer_agent --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v /var/lib/docker/volumes:/var/lib/docker/volumes portainer/agent:2.6.3 
   
   [Reference for the above](https://docs.portainer.io/v/ce-2.6/start/install/agent/docker/linux)
 
