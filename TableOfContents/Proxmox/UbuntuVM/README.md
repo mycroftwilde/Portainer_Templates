@@ -12,31 +12,38 @@
   Update the system:
 
     sudo apt update
-
+    
+  Ugrade the system:
+    
     sudo apt upgrade
-
 
   If you want to Install Glances: 
 
-  * sudo glances -w
+    sudo glances -w
 
   If you want to Install CFIS Utilities to Map Network Shares: 
 
-  * sudo apt-get install cifs-utils
+    sudo apt-get install cifs-utils
 
   If you want to Install GIT: 
 
-  * sudo apt install git-all
+    sudo apt install git-all
 
-  Install and test Docker:
+  Install Docker:
 
-  * sudo apt install docker.io
+    sudo apt install docker.io
 
-  * sudo systemctl enable docker
+  Enable Docker:
 
-  * sudo systemctl start docker
+    sudo systemctl enable docker
+ 
+ Start Docker: 
 
-  * sudo systemctl status docker
+    sudo systemctl start docker
+  
+  Check Docker Status: 
+  
+    sudo systemctl status docker
 
   Setup Portainer: 
 
