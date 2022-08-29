@@ -100,7 +100,9 @@ VirtIO Drivers *(the required drivers used to find your disk drive during instal
 
 ##
 
-### Network Configuration 
+### Network
+
+#### Configuration:
 
 #### X. Configuring Open-Wrt as a Wireless AP for a PfSense Network, with Smart Switch and Vlans: 
 
