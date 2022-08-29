@@ -135,7 +135,7 @@ domain=domain
 
    1. Adding a public SSH Key to your Server 
    
-    a. Install OpenSSH Server, if you don't install it during the initial setup
+   a. Install OpenSSH Server, if you don't install it during the initial setup
     
       sudo apt-get install openssh-server
 
