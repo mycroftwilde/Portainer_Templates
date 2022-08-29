@@ -16,10 +16,12 @@ Please be aware these instructions pressuppose that you have already setup:
 
 
 
-Set Lan Network to: [IPAddress]/24
-Management Interface: http://[SameIPAddress]
+Set Lan Network to: IPAddress/24
+
+Management Interface: http://SameIPAddress
 
 Admin password set.
+
 Wireless Setup
 
 Settings for Bridged mode with Vlans:
