@@ -137,7 +137,7 @@ domain=domain
    
    a. Install OpenSSH Server, if you don't install it during the initial setup
     
-      sudo apt-get install openssh-server
+        sudo apt-get install openssh-server
 
 2. Remapping a Share at Server Boot
 
