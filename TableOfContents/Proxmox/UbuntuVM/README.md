@@ -121,7 +121,7 @@ Disable Command:
     
     sudo mount.cifs //*IPAddressofNetworkShare*/*ShareName* /mnt/*FolderNameonyourUbuntuSystem* -o user=*Username*,uid=1000
       
-      * Enter Applicable Passwords
+  Enter Applicable Passwords
       
  Another version of this has been noted by Matthew Peterson from Dockerholics: 
 
