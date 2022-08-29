@@ -4,11 +4,11 @@ After installing Open-Wrt, These are the rough steps to follow in order to confi
 
 Please be aware these instructions pressuppose that you have already setup: 
 
-   a. PfSense Network 
+   - A PfSense Network 
    
-   b. With Vlans 
+   - With vlans 
    
-   c. Have things connected to a smart switch with the applicable configuration already in place
+   - And, have things connected to a smart switch with the applicable VLAN port configuration already in place
     
 ### Rough Instructions:
 
