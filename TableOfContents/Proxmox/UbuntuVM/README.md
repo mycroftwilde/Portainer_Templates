@@ -134,6 +134,10 @@ domain=domain
    ### Further Ubuntu Setup items to be Added at a Later Time:
 
    1. Adding a public SSH Key to your Server 
+   
+    a. Install OpenSSH Server, if you don't install it during the initial setup
+    
+      sudo apt-get install openssh-server
 
    2. Remapping a Share at Server Boot
 
