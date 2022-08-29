@@ -13,7 +13,9 @@
 
     sudo apt update
 
+    
     sudo apt upgrade
+
 
   If you want to Install Glances: 
 
