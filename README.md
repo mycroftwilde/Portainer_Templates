@@ -24,6 +24,12 @@ I hope your day is a wonderful one!
 
 ### [Update Log](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Updates/Previous)
 
+### Quick Update: 
+
+I've added another section, Network, and added the follow element: 
+
+Configuring Open-Wrt as a Wireless AP for a PfSense Network, with Smart Switch and Vlans. See below for link to the resource I've written. 
+
 ##
 
 ### [Upcoming Additions and *Potential* Future Roadmap](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/Future/RM4A)
