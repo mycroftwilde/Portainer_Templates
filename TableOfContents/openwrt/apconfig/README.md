@@ -44,5 +44,8 @@ Settings for Bridged mode with Vlans:
 
 You Should now be able to connect to your network via the SSIDs that you setup, with the applicable password you set when you setup the security tab. 
 
+#
 
-    
+I'll probably clean these instructions up at a later time, but they should provide a good base as written. 
+
+#### [Main Repository Page](https://github.com/mycroftwilde/portainer_templates)    
