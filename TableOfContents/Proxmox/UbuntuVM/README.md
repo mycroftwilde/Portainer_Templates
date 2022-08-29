@@ -105,10 +105,22 @@ Disable Command:
    
    (Please note: This is from some old notes of mine, and it will probably need to be reviewed to be sure it's within best practices)
 
-   * sudo mkdir /mnt/*FolderNameonyourUbuntuSystem*
-   * sudo chown -R nobody:nogroup /mnt/*FolderNameonyourUbuntuSystem*
-   * sudo chmod -R 0755 /mnt/*FolderNameonyourUbuntuSystem*
-   * sudo mount.cifs //*IPAddressofNetworkShare*/*ShareName* /mnt/*FolderNameonyourUbuntuSystem* -o user=*Username*,uid=1000
+  Make Required Directory
+
+    sudo mkdir /mnt/*FolderNameonyourUbuntuSystem*
+    
+  Change
+    
+    sudo chown -R nobody:nogroup /mnt/*FolderNameonyourUbuntuSystem*
+    
+  Adjust
+  
+    sudo chmod -R 0755 /mnt/*FolderNameonyourUbuntuSystem*
+    
+  Mount 
+    
+    sudo mount.cifs //*IPAddressofNetworkShare*/*ShareName* /mnt/*FolderNameonyourUbuntuSystem* -o user=*Username*,uid=1000
+      
       * Enter Applicable Passwords
       
  Another version of this has been noted by Matthew Peterson from Dockerholics: 
