@@ -12,7 +12,7 @@
 
 ##### 3. Smart Switch General Configration and Security (VLAN tagging, Port Security, etc) 
 
-##### 4. Flashing a Router with DD-WRT  and Configuring the Wireless AP for your PfSense Network, Connected to either your Smart Switch or directly to your PfSense/Proxmox Host 
+##### 4. Flashing a Router with OpenWRT and Configuring the Wireless AP for your PfSense Network, Connected to either your Smart Switch or directly to your PfSense/Proxmox Host [Link]()
 
 ## 
 
