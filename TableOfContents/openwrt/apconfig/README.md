@@ -1,6 +1,12 @@
-After installing Open-Wrt, These are the rough steps to follow in order to configure the wireless router as an AP for your PfSense Network 
+After installing Open-Wrt, These are the rough steps to follow in order to configure the wireless router as an AP for your PfSense Network (With Vlan)
 
-Open-Wrt Settings
+Please be aware these instructions pressuppose that you have already setup: 
+
+    a. PfSense Network 
+    b. With Vlans 
+    c. Have things connected to a smart switch with the applicable configuration already in place
+    
+Rough Instructions:
 
 Set Lan Network to: [IPAddress]/24
 Management Interface: http://[SameIPAddress]
@@ -26,5 +32,15 @@ Settings for Bridged mode with Vlans:
   
   - After this, go to the wireless security section and set a password
   
-  Click Save
+    Click Save
+    
+4. Go back to Interfaces and Click "Add New interface"    
+   
+   - Create an Unmanaged interface for each bridge you created previously 
+
+(I can't remember if you need to do 4 before it will allow 3, just an FYI - this is all from my notes ;) ) 
+
+You Should now be able to connect to your network via the SSIDs that you setup, with the applicable password you set when you setup the security tab. 
+
+
     
