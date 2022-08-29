@@ -10,7 +10,11 @@ Please be aware these instructions pressuppose that you have already setup:
    
    - And, have things connected to a smart switch with the applicable VLAN port configuration already in place
     
+#
+
 ### Rough Instructions:
+
+#
 
 Set Lan Network to: [IPAddress]/24
 Management Interface: http://[SameIPAddress]
