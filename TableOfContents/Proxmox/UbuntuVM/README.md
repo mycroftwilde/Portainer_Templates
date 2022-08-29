@@ -11,9 +11,9 @@
 
   Update the system:
 
-  * sudo apt update
+    sudo apt update
 
-  * sudo apt upgrade
+    sudo apt upgrade
 
   If you want to Install Glances: 
 
