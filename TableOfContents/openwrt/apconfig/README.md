@@ -1,3 +1,5 @@
+#### Preface:
+
 After installing Open-Wrt, These are the rough steps to follow in order to configure the wireless router as an AP for your PfSense Network (With Vlan)
 
 Please be aware these instructions pressuppose that you have already setup: 
@@ -6,7 +8,7 @@ Please be aware these instructions pressuppose that you have already setup:
     b. With Vlans 
     c. Have things connected to a smart switch with the applicable configuration already in place
     
-Rough Instructions:
+### Rough Instructions:
 
 Set Lan Network to: [IPAddress]/24
 Management Interface: http://[SameIPAddress]
