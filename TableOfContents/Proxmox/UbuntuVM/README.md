@@ -10,10 +10,8 @@
 ### Commands to prep your system, after Install:
 
   Update the system:
-  
-  With
     sudo apt update
-  And
+
     sudo apt upgrade
 
 
