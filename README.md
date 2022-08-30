@@ -106,6 +106,8 @@ VirtIO Drivers *(the required drivers used to find your disk drive during instal
 
 #### Network Configuration:
 
+  X. Vlans and a Smart Switch, tagged vs untagged ports - Netgear provided general info that may be helpful - [see here](https://kb.netgear.com/24721/How-does-a-VLAN-work-on-a-smart-switch)
+
   X. Configuring Open-Wrt as a Wireless AP for a PfSense Network, with Smart Switch and Vlans: 
 
   Rough Instructions can be [Found Here](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/openwrt/apconfig), and will be rewritten at a later time
