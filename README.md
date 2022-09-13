@@ -156,6 +156,8 @@ A list of tried and verified docker containers by the Dockerholics Community, wh
 
 #### 2. [Proxmox Clustering info](https://pve.proxmox.com/wiki/Cluster_Manager)
 
+#### 3. [Moonlight Setup Guide](https://github.com/moonlight-stream/moonlight-docs/wiki/Setup-Guide)
+
 #
 ### [Acknowledgements and Notes](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/acknowledgements)
 #
