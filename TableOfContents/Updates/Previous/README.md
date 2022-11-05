@@ -1,5 +1,7 @@
 # Newer Updates:
 
+#### 11/05/2022 - added htpc section on main page, and link to the flex launcher
+
 #### 7/4/2022 - I've added a Future Roadmap and Upcoming Additions section. I would welcome help with these future items! -> if anyone wants to do some bullet point notes, with specific details and send them over to me. I can rewrite them to a style that fits this overview and add them :) 
 
 #### 7/4/2022 - A few smaller resource links/elements have been added, along with some formatting changes to the main page for better organization.  
