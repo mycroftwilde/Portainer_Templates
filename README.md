@@ -120,6 +120,12 @@ VirtIO Drivers *(the required drivers used to find your disk drive during instal
 
 ##
 
+### Further Resources: Home Theater PC
+
+#### 1. [Flex Launcher Linx](https://github.com/complexlogic/flex-launcher)
+
+##
+
 ### Further Resources: OS Images and Software
 
 #### [Useful Supplimental OS Images, Software Links](https://github.com/mycroftwilde/portainer_templates/tree/master/TableOfContents/SoftwareLinks)
