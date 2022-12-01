@@ -106,9 +106,13 @@ VirtIO Drivers *(the required drivers used to find your disk drive during instal
 
 ##
 
-### Further Resources: Home Theater PC
+### Further Resources: Home Theater/Console PC
 
 #### 1. [Flex Launcher Linx](https://github.com/complexlogic/flex-launcher)
+
+#### 2. [ChimeraOS Website](https://chimeraos.org/)
+
+#### 3. [RetroArch](https://www.retroarch.com/)
 
 ##
 
