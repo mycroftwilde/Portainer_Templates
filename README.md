@@ -6,15 +6,11 @@
 
 #### Quick Note:
 
-I've been concentrating on art therapy lately, due to my mental health, so I haven't spent much time with this in the last few weeks. 
+I'll be just adding little adjustments - extra links, sections, and notes, to be specific, for a while, and won't be concentrating on the template itself for a bit... 
 
-I hope to get back to this in the near future. 
+Cheers,
 
-If anyone is interested in my art, I post my art projects as I complete them here: [Instagram - Mycroft Wilde](https://www.instagram.com/mycroft_wilde/)
-
-I hope your day is a wonderful one!
-
--Mycroft
+Mycroft
 
 ##
 
