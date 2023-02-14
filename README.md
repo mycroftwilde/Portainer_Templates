@@ -6,11 +6,9 @@
 
 #### Quick Note:
 
-I'll be just adding little adjustments - extra links, sections, and notes, to be specific, for a while, and won't be concentrating on the template itself for a bit... 
+Sorry, all, I keep meaning to get back to this and add little bits here and there to build it out. I need to concentrate on an art/music/rap overlap project that I'll be releasing and I can't split my attention right now. I assume, knowing my adhd, I'll be back to finish this up fairly quickly once my other projects are complete.
 
-Cheers,
-
-Mycroft
+- Mycroft
 
 ##
 
