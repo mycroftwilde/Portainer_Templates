@@ -29,7 +29,7 @@
       },
       "title": "Authentik",
       "type": 3
-    },  
+    },
 	  {
 			"type": 1,
 			"title": "Apprise-api",
@@ -204,6 +204,36 @@
     "type": 3
   },
     {
+      "categories": ["Tools"],
+      "description": "Reactive Resume is a free and open source resume builder",
+      "logo": "https://rxresu.me/images/logos/logo.svg",
+      "name": "Reactive Resume",
+      "repository": {
+	    "stackfile": "Template/Stack/reactive-resume.yml",
+	    "url": "https://github.com/danfossi/portainer_templates"
+      },
+      "platform": "linux",
+      "ports": ["8234:80/tcp"],
+      "restart_policy": "always",
+      "title": "Reactive Resume",
+      "type": 3
+    },
+    {
+      "categories": ["Tools"],
+      "description": "ProjectSend is a free, secure and user friendly file sharing software",
+      "logo": "https://www.projectsend.org/projectsend-logo-new.png",
+      "name": "ProjectSend",
+      "repository": {
+	    "stackfile": "Template/Stack/project-send.yml",
+	    "url": "https://github.com/danfossi/portainer_templates"
+      },
+      "platform": "linux",
+      "ports": ["8080:80/tcp"],
+      "restart_policy": "always",
+      "title": "Project Send",
+      "type": 3
+    },
+    {
       "categories": ["Dashboard Server"],
       "description": "Freeboard is a turn-key HTML-based 'engine' for dashboards. Besides a nice looking layout engine, it provides a plugin architecture for creating datasources (which fetch data) and widgets (which display data)— freeboard then does all the work to connect the two together.",
       "logo": "https://raw.githubusercontent.com/xneo1/portainer_templates/master/Images/freeboard.jpg",
@@ -354,17 +384,17 @@
     },
 	      {
       "categories": ["Smart Home"],
-      "description": "A complete and local NVR designed for Home Assistant with AI object detection. Uses OpenCV and Tensorflow to perform realtime object detection locally for IP cameras.", 
+      "description": "A complete and local NVR designed for Home Assistant with AI object detection. Uses OpenCV and Tensorflow to perform realtime object detection locally for IP cameras.",
       "logo": "https://raw.githubusercontent.com/blakeblackshear/frigate/master/docs/static/img/frigate.png",
       "name": "frigatenvr",
       "platform": "linux",
       "repository": {
 	    "stackfile": "Template/Stack/frigatenvr.yml",
 	    "url": "https://github.com/xneo1/portainer_templates"
-      },    
+      },
       "title": "Frigate NVR",
       "type": 3
-    },  
+    },
     {
       "categories": ["Dashboard Server"],
       "description": "Fenrus is a Node application and requires NodeJS to run. Once NodeJS is installed you can run Fenrus",
@@ -393,7 +423,7 @@
       },
       "title": "Fenrus",
       "type": 3
-    },  
+    },
 		        {
         "categories": ["Library Server"],
         "description": "Audiobook Server",
@@ -435,12 +465,12 @@
             "container": "/metadata"
           }
         ]
-      },  
-	  
-	  
-	  
-	  
-	  
+      },
+
+
+
+
+
 	  {
     "categories": ["Family App Server"],
     "description": "Vikunja is a self hosted, open-source to-do list application",
@@ -485,7 +515,7 @@
     },
     "title": "Stash",
     "type": 3
-  },  
+  },
 		 {
     "categories": ["Chat Server"],
     "description": "Rocket.Chat Server",
@@ -498,7 +528,7 @@
     },
     "title": "Rocket Chat",
     "type": 3
-  },  
+  },
 		  {
     "categories": ["Notes Server"],
     "description": "Joplin is an open-source note-taking app",
@@ -513,11 +543,11 @@
         "label": "URL",
         "name": "URL"
       }
-	    
-	    
-	    
-	    
-	    
+
+
+
+
+
     ],
     "logo": "https://raw.githubusercontent.com/laurent22/joplin/master/Assets/SquareIcon512.png",
     "note": "Joplin is an open-source note-taking app",
@@ -528,10 +558,10 @@
     },
     "title": "Joplin",
     "type": 3
-  },  
-	  
-	  
-	  
+  },
+
+
+
 	        {
         "categories": ["Usenet Server"],
         "description": "Readarr usent server",
@@ -856,7 +886,7 @@
 			],
 			"restart_policy": "unless-stopped"
 		},
-	  
+
 	      {
       "categories": ["Task Server"],
       "description": "It is a self-hosted monitoring tool like Uptime Robot",
@@ -902,7 +932,7 @@
 				}
 			]
 		},
-	  
+
 	     {
       "categories": ["Smart Home"],
       "description": "Node-RED provides a browser-based flow editor that makes it easy to wire together flows using the wide range of nodes in the palette.",
@@ -920,7 +950,7 @@
           "container": "/data"
         }
       ]
-    }, 
+    },
 	  {
 			"categories": [
 				"Management Utility Server"
@@ -949,7 +979,7 @@
       },
       "title": "Dashy",
       "type": 3
-    },  
+    },
     {
       "categories": ["Music Server"],
       "description": "Navidrome is an open source web-based music collection server and streamer. It gives you freedom to listen to your music collection from any browser or mobile device. It's like your personal Spotify!",
@@ -978,7 +1008,7 @@
       },
       "title": "Navidrome",
       "type": 3
-    },    
+    },
     {
       "categories": ["Dashboard Server"],
       "description": "Flame is self-hosted startpage for your server. Its design is inspired (heavily) by SUI. Flame is very easy to setup and use. With built-in editors, it allows you to setup your very own application hub in no time - no file editing necessary.",
@@ -996,7 +1026,7 @@
           "container": "/app/data"
         }
       ]
-    },	  
+    },
 	  		{
 			"type": 1,
 			"categories": ["Tools"],
@@ -5264,7 +5294,7 @@
     }
     ],
     "restart_policy": "unless-stopped"
-},	
+},
 {
     "type": 1,
     "categories": ["VPN Server"],

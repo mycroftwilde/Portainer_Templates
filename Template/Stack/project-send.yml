@@ -1,0 +1,22 @@
+version: "3.0"
+services:
+  web:
+    restart: unless-stopped
+    image: lscr.io/linuxserver/projectsend:latest
+    volumes:
+      - /opt/projectsend/config:/config
+      - /opt/projectsend/data:/data
+    ports:
+      - "8080:80"
+  mysql:
+    restart: unless-stopped
+    image: mariadb:10.8
+    volumes:
+      - /opt/mariadb_data:/var/lib/mysql
+    ports:
+      - "3306:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: password
+      MYSQL_DATABASE: projectsend
+      MYSQL_USER: projectsend
+      MYSQL_PASSWORD: projectsend
