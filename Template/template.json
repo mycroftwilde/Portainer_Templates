@@ -2,7 +2,7 @@
   "version": "2",
   "templates": [
  				    {
-      "categories": ["Authentication Server"],
+      "categories": ["Authentication"],
       "description": "Authentik is an open-source Identity Provider focused on flexibility and versatility",
       "env": [
         {
@@ -37,7 +37,7 @@
 			"note": "Portainer App Templates by <a href='https://www.technorabilia.com' target='_blank'>Technorabilia</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p><p>Don't forget to create the volume directories on the host file system.</p><p>mkdir -p /volume1/docker/apprise-api/config</p>",
 			"description": "[Apprise-api](https://github.com/caronc/apprise-api) Takes advantage of [Apprise](https://github.com/caronc/apprise) through your network with a user-friendly API. * Send notifications to more then 65+ services. * An incredibly lightweight gateway to Apprise. * A production ready micro-service at your disposal. Apprise API was designed to easily fit into existing (and new) eco-systems that are looking for a simple notification solution.",
 			"categories": [
-				"Task Server"
+				"Task"
 			],
 			"platform": "linux",
 			"logo": "https://raw.githubusercontent.com/caronc/apprise-api/master/apprise_api/static/logo.png",
@@ -83,7 +83,7 @@
 			"logo": "https://raw.githubusercontent.com/kgretzky/pwndrop/master/media/pwndrop-logo-512.png",
 			"image": "linuxserver/pwndrop:latest",
 			"categories": [
-				"Task Server"
+				"Task"
 			],
 			"env": [
 				{
@@ -124,7 +124,7 @@
 		},
 	  {
 			"type": 1,
-			"categories": ["Family App Server"],
+			"categories": ["Family App"],
 			"title": "Firefox",
 			"name": "Firefox",
 			"note": "Portainer App Templates by <a href='https://www.technorabilia.com' target='_blank'>Technorabilia</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p><p>Don't forget to create the volume directories on the host file system.</p><p>mkdir -p /volume1/docker/firefox/config</p>",
@@ -164,7 +164,7 @@
 			"restart_policy": "unless-stopped"
 		},
 	   {
-    "categories": ["Management Utility Server"],
+    "categories": ["Remote Control"],
     "description": "Remote Management Server",
     "env": [
       {
@@ -204,7 +204,7 @@
     "type": 3
   },
     {
-      "categories": ["Dashboard Server"],
+      "categories": ["Dashboard"],
       "description": "Freeboard is a turn-key HTML-based 'engine' for dashboards. Besides a nice looking layout engine, it provides a plugin architecture for creating datasources (which fetch data) and widgets (which display data)— freeboard then does all the work to connect the two together.",
       "logo": "https://raw.githubusercontent.com/xneo1/portainer_templates/master/Images/freeboard.jpg",
       "name": "freeboard",
@@ -219,7 +219,7 @@
       "type": 3
     },
     {
-      "categories": ["Finance Server"],
+      "categories": ["Finance"],
       "description": "Ghostfolio is an open source wealth management software built with web technology.",
       "logo": "https://avatars.githubusercontent.com/u/82473144?s=200",
       "name": "Ghostfolio",
@@ -264,7 +264,7 @@
       "type": 3
     },
 	      {
-      "categories": ["Usenet Server"],
+      "categories": ["Usenet"],
       "description": "Prowlarr is a indexer manager/proxy built on the popular arr .net/reactjs base stack to integrate with your various PVR apps. Prowlarr supports both Torrent Trackers and Usenet Indexers. It integrates seamlessly with Sonarr, Radarr, Lidarr, and Readarr offering complete management of your indexers with no per app Indexer setup required (we do it all).",
       "env": [
         {
@@ -294,7 +294,7 @@
       ]
     },
 	      {
-      "categories": ["Network Server"],
+      "categories": ["Network"],
       "description": "WIFI / LAN intruder detector",
       "env": [
         {
@@ -324,7 +324,7 @@
       ]
     },
 	      {
-      "categories": ["Notes Server"],
+      "categories": ["Notes"],
       "description": "Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases",
        "env": [
         {
@@ -366,7 +366,7 @@
       "type": 3
     },  
     {
-      "categories": ["Dashboard Server"],
+      "categories": ["Dashboard"],
       "description": "Fenrus is a Node application and requires NodeJS to run. Once NodeJS is installed you can run Fenrus",
       "env": [
         {
@@ -395,7 +395,7 @@
       "type": 3
     },  
 		        {
-        "categories": ["Library Server"],
+        "categories": ["Library"],
         "description": "Audiobook Server",
         "env": [
           {
@@ -442,7 +442,7 @@
 	  
 	  
 	  {
-    "categories": ["Family App Server"],
+    "categories": ["Family App"],
     "description": "Vikunja is a self hosted, open-source to-do list application",
     "env": [
       {
@@ -467,7 +467,7 @@
     "type": 3
   },
 	  {
-    "categories": ["Media Server"],
+    "categories": ["Media"],
     "description": "Helps you organize your *Ahem* ...more MATURE Media material....",
     "env": [
       {
@@ -487,7 +487,7 @@
     "type": 3
   },  
 		 {
-    "categories": ["Chat Server"],
+    "categories": ["Messenger"],
     "description": "Rocket.Chat Server",
     "logo": "https://raw.githubusercontent.com/portapps/rocketchat-portable/master/res/papp.png",
     "note": "Rocket.Chat Server Container",
@@ -500,7 +500,7 @@
     "type": 3
   },  
 		  {
-    "categories": ["Notes Server"],
+    "categories": ["Notes"],
     "description": "Joplin is an open-source note-taking app",
     "env": [
       {
@@ -533,7 +533,7 @@
 	  
 	  
 	        {
-        "categories": ["Usenet Server"],
+        "categories": ["Usenet"],
         "description": "Readarr usent server",
         "env": [
           {
@@ -572,7 +572,7 @@
       },
 	 	{
 			"type": 1,
-			"categories": ["Library Server"],
+			"categories": ["Library"],
 			"title": "Calibre",
 			"name": "Calibre",
 			"note": "Portainer App Templates by <a href='https://www.technorabilia.com' target='_blank'>Technorabilia</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p><p>Don't forget to create the volume directories on the host file system.</p><p>mkdir -p /volume1/docker/calibre/config</p>",
@@ -673,7 +673,7 @@
 			"restart_policy": "unless-stopped"
 		},
 	      {
-      "categories": ["Dashboard Server"],
+      "categories": ["Dashboard"],
       "description": "MagicMirror2 Server",
       "env": [
         {
@@ -710,7 +710,7 @@
     },
 
 		      {
-      "categories": ["Library Server"],
+      "categories": ["Library"],
       "description": "Koomga Manga, Comic and E-Book Server",
       "env": [
         {
@@ -748,7 +748,7 @@
       ]
     },
 	      {
-      "categories": ["Library Server"],
+      "categories": ["Library"],
       "description": "Kavita Manga, Comic and E-Book Server",
       "env": [
         {
@@ -787,7 +787,7 @@
     },
 	  	{
 			"type": 1,
-			"categories": ["Management Utility Server"],
+			"categories": ["Management Utility"],
 			"title": "Snipe-it",
 			"name": "Snipe-it",
 			"note": "Portainer App Templates by <a href='https://www.technorabilia.com' target='_blank'>Technorabilia</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p><p>Don't forget to create the volume directories on the host file system.</p><p>mkdir -p /volume1/docker/snipe-it/config</p>",
@@ -858,7 +858,7 @@
 		},
 	  
 	      {
-      "categories": ["Task Server"],
+      "categories": ["Monitoring"],
       "description": "It is a self-hosted monitoring tool like Uptime Robot",
       "image": "louislam/uptime-kuma:latest",
       "logo": "https://images.opencollective.com/uptime-kuma/29c5113/logo/256.png",
@@ -883,7 +883,7 @@
 			"platform": "linux",
 			"restart_policy": "unless-stopped",
 			"categories": [
-				"Dashboard Server"
+				"Dashboard"
 			],
 			"image": "grafana/grafana:latest",
 			"ports": [
@@ -923,7 +923,7 @@
     }, 
 	  {
 			"categories": [
-				"Management Utility Server"
+				"Drawing"
 			],
 			"description": "draw.io (formerly Diagramly) is free online diagram software. You can use it as a flowchart maker, network diagram software, to create UML online, as an ER diagram tool, to design database schema, to build BPMN online, as a circuit diagram maker, and more. draw.io can import .vsdx, Gliffy™ and Lucidchart™ files.",
 			"image": "jgraph/drawio:latest",
@@ -938,7 +938,7 @@
 			"type": 1
 		},
 	     {
-      "categories": ["Dashboard Server"],
+      "categories": ["Dashboard"],
       "description": "Helps you organize your self-hosted services by making them accessible from a single place.",
       "logo": "https://dashy.to/img/dashy.png",
       "name": "Dashy",
@@ -951,7 +951,7 @@
       "type": 3
     },  
     {
-      "categories": ["Music Server"],
+      "categories": ["Music"],
       "description": "Navidrome is an open source web-based music collection server and streamer. It gives you freedom to listen to your music collection from any browser or mobile device. It's like your personal Spotify!",
       "env": [
         {
@@ -980,7 +980,7 @@
       "type": 3
     },    
     {
-      "categories": ["Dashboard Server"],
+      "categories": ["Dashboard"],
       "description": "Flame is self-hosted startpage for your server. Its design is inspired (heavily) by SUI. Flame is very easy to setup and use. With built-in editors, it allows you to setup your very own application hub in no time - no file editing necessary.",
       "image": "pawelmalak/flame",
       "logo": "https://raw.githubusercontent.com/xneo1/portainer_templates/master/Images/flame.png",
@@ -1040,7 +1040,7 @@
 			"restart_policy": "unless-stopped"
 		},
     {
-      "categories": ["Authentication Server"],
+      "categories": ["Authentication"],
       "description": "An open-source authentication and authorization server providing 2-factor authentication and single sign-on (SSO) for your applications via a web portal.",
       "env": [
         {
@@ -1065,7 +1065,7 @@
       ]
     },
     {
-      "categories": ["Usenet Server"],
+      "categories": ["Usenet"],
       "description": "Bazarr is a companion application to Sonarr and Radarr. It can manage and download subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everything for you.",
       "env": [
         {
@@ -1107,7 +1107,7 @@
       ]
     },
     {
-      "categories": ["Music Server"],
+      "categories": ["Music"],
       "description": "The purpose of beets is to get your music collection right once and for all. It catalogs your collection, automatically improving its metadata as it goes using the MusicBrainz database. Then it provides a bouquet of tools for manipulating and accessing your music.",
       "env": [
         {
@@ -1145,7 +1145,7 @@
       ]
     },
     {
-      "categories": ["Password Server"],
+      "categories": ["Password"],
       "description": "This is a Bitwarden server API implementation written in Rust compatible with upstream Bitwarden clients*, perfect for self-hosted deployment where running the official resource-heavy service might not be ideal.",
       "image": "vaultwarden/server:latest",
       "logo": "https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Images/bitwarden.png",
@@ -1164,7 +1164,7 @@
       ]
     },
     {
-      "categories": ["Library Server"],
+      "categories": ["Library"],
       "description": "Booksonic is a server and an app for streaming your audiobooks to any pc or android phone. Most of the functionality is also availiable on other platforms that have apps for subsonic.",
       "env": [
         {
@@ -1207,7 +1207,7 @@
       ]
     },
     {
-      "categories": ["Notes Server"],
+      "categories": ["Notes"],
       "description": "Bookstack is a free and open source Wiki designed for creating beautiful documentation. Feautring a simple, but powerful WYSIWYG editor it allows for teams to create detailed and useful documentation with ease.",
       "env": [
         {
@@ -1248,7 +1248,7 @@
       "type": 3
     },
     {
-      "categories": ["Library Server"],
+      "categories": ["Library"],
       "description": "COPS links to your Calibre library database and allows downloading and emailing of books directly from a web browser and provides a OPDS feed to connect to your devices.",
       "env": [
         {
@@ -1282,7 +1282,7 @@
       ]
     },
     {
-      "categories": ["Library Server"],
+      "categories": ["Library"],
       "description": "Calibre Web is a web app providing a clean interface for browsing, reading and downloading eBooks using an existing Calibre database.",
       "env": [
         {
@@ -1371,7 +1371,7 @@
       ]
     },
     {
-      "categories": ["Family App Server"],
+      "categories": ["Family App"],
       "description": "ave recipes in seconds with plain text formatting and create beatiful recipe pages with automated ease.",
       "image": "gregyankovoy/chowdown:latest",
       "logo": "https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Images/chowdown.png",
@@ -1389,7 +1389,7 @@
       ]
     },
     {
-      "categories": ["Code Server"],
+      "categories": ["Development"],
       "description": "Code-server is VS Code running on a remote server, accessible through the browser.",
       "env": [
         {
@@ -1436,7 +1436,7 @@
       ]
     },
     {
-      "categories": ["Code Server"],
+      "categories": ["Development"],
       "description": "Codiad is a web-based IDE framework with a small footprint and minimal requirements.",
       "env": [
         {
@@ -1466,7 +1466,7 @@
       ]
     },
     {
-      "categories": ["Usenet Server"],
+      "categories": ["Usenet"],
       "description": "CouchPotato (CP) is an automatic NZB and torrent downloader. You can keep a \"movies I want\"-list and it will search for NZBs/torrents of these movies every X hours. Once a movie is found, it will send it to SABnzbd or download the torrent to a specified directory.",
       "env": [
         {
@@ -1504,7 +1504,7 @@
       ]
     },
     {
-      "categories": ["Music Server"],
+      "categories": ["Music"],
       "description": "DAAP (iTunes) media server with support for AirPlay devices, Apple Remote (and compatibles), MPD and internet radio.",
       "env": [
         {
@@ -1537,7 +1537,7 @@
       ]
     },
     {
-      "categories": ["Dashboard Server"],
+      "categories": ["Dashboard"],
       "description": "Another application bookmark dashboard, with fun features.",
       "image": "rmountjoy/dashmachine:latest",
       "logo": "https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Images/dashmachine_logo.png",
@@ -1555,7 +1555,7 @@
       ]
     },
     {
-      "categories": ["FTP Server"],
+      "categories": ["FTP"],
       "description": "davos is an FTP automation tool that periodically scans given host locations for new files. It can be configured for various purposes, including listening for specific files to appear in the host location, ready for it to download and then move, if required. It also supports completion notifications as well as downstream API calls, to further the workflow.",
       "env": [
         {
@@ -1590,7 +1590,7 @@
       ]
     },
     {
-      "categories": ["Torrent Server"],
+      "categories": ["Torrent"],
       "description": "Deluge is a lightweight, Free Software, cross-platform BitTorrent client providing: Full Encryption, WebUI, Plugin System, Much more...",
       "env": [
         {
@@ -1692,7 +1692,7 @@
       "type": 1
     },
     {
-      "categories": ["Backup and Sync Server"],
+      "categories": ["Backup and Sync"],
       "description": "Free backup software to store encrypted backups online, Duplicati works with standard protocols like FTP, SSH, WebDAV as well as popular services like Microsoft OneDrive, Amazon Cloud Drive and S3, Google Drive, box.com, Mega, hubiC and many others.",
       "env": [
         {
@@ -1731,7 +1731,7 @@
       ]
     },
     {
-      "categories": ["Media Server"],
+      "categories": ["Media"],
       "description": "Emby organizes video, music, live TV, and photos from personal media libraries and streams them to smart TVs, streaming boxes and mobile devices. This container is packaged as a standalone emby Media Server.",
       "env": [
         {
@@ -1773,7 +1773,7 @@
       ]
     },
     {
-      "categories": ["Media Server"],
+      "categories": ["Media"],
       "description": "Embystat is a personal web server that can calculate all kinds of statistics from your (local) Emby server. Just install this on your server and let him calculate all kinds of fun stuff.",
       "image": "linuxserver/embystat:latest",
       "logo": "https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Images/embystat.png",
@@ -1792,7 +1792,7 @@
       ]
     },
     {
-      "categories": ["Management Utility Server"],
+      "categories": ["Files"],
       "description": "Web File Browser which can be used as a middleware or standalone app.",
       "image": "80x86/filebrowser:latest",
       "logo": "https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Images/filebrowser.png",
@@ -1845,7 +1845,7 @@
       ]
     },
     {
-      "categories": ["Library Server"],
+      "categories": ["Library"],
       "description": "A WebApp Comic Reader for your favorite digital comics. Reach and read your comic library from any web connected device with a modern web browser.",
       "env": [
         {
@@ -1882,7 +1882,7 @@
       ]
     },
     {
-      "categories": ["Management Utility Server"],
+      "categories": ["Remote Control"],
       "description": "A clientless remote desktop gateway.",
       "image": "oznu/guacamole:latest",
       "logo": "https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Images/guacamole.png",
@@ -1901,7 +1901,7 @@
       ]
     },
     {
-      "categories": ["Family App Server"],
+      "categories": ["Family App"],
       "description": "Grocy is an ERP system for your kitchen! Cut down on food waste, and manage your chores with this brilliant utility.",
       "env": [
         {
@@ -1935,7 +1935,7 @@
       ]
     },
     {
-      "categories": ["Usenet Server"],
+      "categories": ["Usenet"],
       "description": "Headphones is an automated music downloader for NZB and Torrent, written in Python. It supports SABnzbd, NZBget, Transmission, µTorrent and Blackhole.",
       "env": [
         {
@@ -1973,7 +1973,7 @@
       ]
     },
     {
-      "categories": ["Dashboard Server"],
+      "categories": ["Dashboard"],
       "description": "Heimdall is a way to organise all those links to your most used web sites and web applications in a simple way.",
       "env": [
         {
@@ -2003,7 +2003,7 @@
       ]
     },
     {
-      "categories": ["Dashboard Server"],
+      "categories": ["Dashboard"],
       "description": "A dead simple static HOMepage for your servER to keep your s ervices on hand, from a simple yaml configuration file.",
       "image": "b4bz/homer:latest",
       "logo": "https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Images/homer.png",
@@ -2026,7 +2026,7 @@
       ]
     },
     {
-      "categories": ["Task Server"],
+      "categories": ["Task"],
       "description": "Create agents that monitor and act on your behalf.",
       "image": "huginn/huginn:latest",
       "logo": "https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Images/huginn.png",
@@ -2044,7 +2044,7 @@
       ]
     },
     {
-      "categories": ["Proxy Server"],
+      "categories": ["Proxy"],
       "description": "Jackett works as a proxy server it translates queries from apps like Sonarr etc into tracker-site-specific http queries and parses the html response sending results back to the requesting software.",
       "env": [
         {
@@ -2078,7 +2078,7 @@
       ]
     },
     {
-      "categories": ["Media Server"],
+      "categories": ["Media"],
       "description": "Jellyfin is a Free Software Media System that puts you in control of managing and streaming your media. It is an alternative to the proprietary Emby and Plex, to provide media from a dedicated server to end-user devices via multiple apps.",
       "env": [
         {
@@ -2120,7 +2120,7 @@
       ]
     },
     {
-      "categories": ["Media Server"],
+      "categories": ["Media"],
       "description": "Headless installation of Kodi™ (formerly known as XBMC™), to enable library updates.",
       "env": [
         {
@@ -2150,7 +2150,7 @@
       ]
     },
     {
-      "categories": ["Library Server"],
+      "categories": ["Library"],
       "description": "LazyLibrarian is a program to follow authors and grab metadata for all your digital reading needs.",
       "env": [
         {
@@ -2185,7 +2185,7 @@
       ]
     },
     {
-      "categories": ["Proxy Server"],
+      "categories": ["Proxy"],
       "description": "This container sets up an Nginx webserver and reverse proxy with php support and a built-in letsencrypt client that automates free SSL server certificate generation and renewal processes. It also contains fail2ban for intrusion prevention.",
       "env": [
         {
@@ -2251,7 +2251,7 @@
       ]
     },
     {
-      "categories": ["Task Server"],
+      "categories": ["Task"],
       "description": "A Free and Open Source Speedtest for HTML5 and more.",
       "image": "linuxserver/librespeed:latest",
       "logo": "https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Images/speedtest.png",
@@ -2269,7 +2269,7 @@
       ]
     },
     {
-      "categories": ["Usenet Server"],
+      "categories": ["Usenet"],
       "description": "Lidarr is a music collection manager for Usenet and BitTorrent users.",
       "env": [
         {
@@ -2341,7 +2341,7 @@
       ]
     },
     {
-      "categories": ["Database Server"],
+      "categories": ["Database"],
       "description": "An Enhanced drop in replacement for Mysql.",
       "env": [
         {
@@ -2376,7 +2376,7 @@
       ]
     },
     {
-      "categories": ["Music Server"],
+      "categories": ["Music"],
       "description": "Mstream is a personal music streaming server. You can use mStream to stream your music from your home computer to any device, anywhere. There are mobile apps available for both Android and iPhone.",
       "image": "linuxserver/mstream:latest",
       "logo": "https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Images/mstream.png",
@@ -2398,7 +2398,7 @@
       ]
     },
     {
-      "categories": ["Chat Server"],
+      "categories": ["Chat"],
       "description": "Mumble is a voicechat program for gamers written on top of Qt and Opus. Murmur is the server backend for Mumble.",
       "env": [
         {
@@ -2444,7 +2444,7 @@
       ]
     },
     {
-      "categories": ["Music Server"],
+      "categories": ["Music"],
       "description": "MusicBrainz is an open music encyclopedia that collects music metadata and makes it available to the public.",
       "env": [
         {
@@ -2483,7 +2483,7 @@
       ]
     },
     {
-      "categories": ["Dashboard Server"],
+      "categories": ["Dashboard"],
       "description": "A lightweight portal to view, manage your HTPC apps without having to run anything more than a PHP enabled webserver. With Muximux you don't need to keep multiple tabs open, or bookmark the URL to all of your apps.",
       "env": [
         {
@@ -2513,7 +2513,7 @@
       ]
     },
     {
-      "categories": ["Usenet Server"],
+      "categories": ["Usenet"],
       "description": "An automated Comic Book downloader (cbr/cbz) for use with SABnzbd, NZBGet and torrents.",
       "env": [
         {
@@ -2551,7 +2551,7 @@
       ]
     },
     {
-      "categories": ["Usenet Server"],
+      "categories": ["Usenet"],
       "description": "NZBGet is a usenet downloader, written in C++ and designed with performance in mind to achieve maximum download speed by using very little system resources. It supports all platforms including Windows, Mac, Linux and works on all devices including PC, NAS, WLAN routers and media players.",
       "env": [
         {
@@ -2585,7 +2585,7 @@
       ]
     },
     {
-      "categories": ["Proxy Server"],
+      "categories": ["Proxy"],
       "description": "NZBHydra is a meta search for NZB indexers and the \"spiritual successor\" to NZBmegasearcH. It provides easy access to a number of raw and newznab based indexers.",
       "env": [
         {
@@ -2619,7 +2619,7 @@
       ]
     },
     {
-      "categories": ["Family App Server"],
+      "categories": ["Family App"],
       "description": "Where are your photos and documents? With Nextcloud you pick a server of your choice, at home, in a data center or at a provider. And that is where your files will be. Nextcloud runs on that server, protecting your data and giving you access from your desktop or mobile devices.",
       "env": [
         {
@@ -2661,7 +2661,7 @@
       "type": 3
     },
     {
-      "categories": ["Proxy Server"],
+      "categories": ["Proxy"],
       "description": "Nginx is a web server with a strong focus on high concurrency, performance and low memory usage. It can also act as a reverse proxy server for HTTP, HTTPS, SMTP, POP3, and IMAP protocols, as well as a load balancer and an HTTP cache.",
       "env": [
         {
@@ -2691,7 +2691,7 @@
       ]
     },
     {
-      "categories": ["Proxy Server"],
+      "categories": ["Proxy"],
       "description": "Nginx Proxy Manager enables you to easily forward to your websites running at home or otherwise, including free SSL, without having to know too much about Nginx or Letsencrypt.",
       "image": "jc21/nginx-proxy-manager",
       "logo": "https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Images/proxy_mgr.png",
@@ -2720,7 +2720,7 @@
       ]
     },
     {
-      "categories": ["Media Server"],
+      "categories": ["Media"],
       "description": "Ombi allows you to host your own Plex Request and user management system.",
       "env": [
         {
@@ -2750,7 +2750,7 @@
       ]
     },
     {
-      "categories": ["VPN Server"],
+      "categories": ["VPN"],
       "description": "OpenVPN Access Server is a full featured secure network tunneling VPN software solution that integrates OpenVPN server capabilities, enterprise management capabilities, simplified OpenVPN Connect UI, and OpenVPN Client software packages that accommodate Windows, MAC, Linux, Android, and iOS environments.",
       "env": [
         {
@@ -2785,7 +2785,7 @@
       ]
     },
     {
-      "categories": ["Dashboard Server"],
+      "categories": ["Dashboard"],
       "description": "Organizr allows you to setup Tabs that will be loaded all in one webpage. You can then work on your server with ease.",
       "env": [
         {
@@ -2815,7 +2815,7 @@
       ]
     },
     {
-      "categories": ["Media Server"],
+      "categories": ["Media"],
       "description": "Overseerr is a free and open source software application for managing requests for your media library.",
       "env": [
         {
@@ -2845,7 +2845,7 @@
       ]
     },
     {
-      "categories": ["Family App Server"],
+      "categories": ["Family App"],
       "description": "ownCloud is a self-hosted file sync and share server. It provides access to your data through a web interface, sync clients or WebDAV while providing a platform to view, sync and share across devices easily—all under your control. ownCloud’s open architecture is extensible via a simple but powerful API for applications and plugins and it works with any storage.",
       "env": [
         {
@@ -2895,7 +2895,7 @@
       "type": 3
     },
     {
-      "categories": ["Media Server"],
+      "categories": ["Media"],
       "description": "Petio is a third party companion app available to Plex server owners to allow their users to request, review and discover content.",
       "env": [
         {
@@ -3025,7 +3025,7 @@
       ]
     },
     {
-      "categories": ["Media Server"],
+      "categories": ["Media"],
       "description": "Your favorite movies, TV, music, web shows, podcasts, and more, all streamed to your favorite screens.",
       "env": [
         {
@@ -3068,7 +3068,7 @@
       ]
     },
     {
-      "categories": ["Media Server"],
+      "categories": ["Media"],
       "description": "Simple automated way for users to request new content for Plex.",
       "env": [
         {
@@ -3122,7 +3122,7 @@
       ]
     },
     {
-      "categories": ["Torrent Server"],
+      "categories": ["Torrent"],
       "description": "The qBittorrent project aims to provide an open-source software alternative to µTorrent. qBittorrent is based on the Qt toolkit and libtorrent-rasterbar library.",
       "env": [
         {
@@ -3156,7 +3156,7 @@
       ]
     },
     {
-      "categories": ["Usenet Server"],
+      "categories": ["Usenet"],
       "description": "Radarr - A fork of Sonarr to work with movies à la Couchpotato.",
       "env": [
         {
@@ -3194,7 +3194,7 @@
       ]
     },
     {
-      "categories": ["Backup and Sync Server"],
+      "categories": ["Backup and Sync"],
       "description": "Resilio Sync (formerly BitTorrent Sync) uses the BitTorrent protocol to sync files and folders between all of your devices. There are both free and paid versions, this container supports both.",
       "env": [
         {
@@ -3230,7 +3230,7 @@
       ]
     },
     {
-      "categories": ["Torrent Server"],
+      "categories": ["Torrent"],
       "description": "Popular torrent client with a webui for ease of use.",
       "env": [
         {
@@ -3264,7 +3264,7 @@
       ]
     },
     {
-      "categories": ["Usenet Server"],
+      "categories": ["Usenet"],
       "description": "SABnzbd makes Usenet as simple and streamlined as possible by automating everything we can. All you have to do is add an .nzb. SABnzbd takes over from there, where it will be automatically downloaded, verified, repaired, extracted and filed away with zero human interaction.",
       "env": [
         {
@@ -3302,7 +3302,7 @@
       ]
     },
     {
-      "categories": ["Family App Server"],
+      "categories": ["Family App"],
       "description": "Shiori is a simple bookmarks manager written in Go language. Intended as a simple clone of Pocket. You can use it as command line application or as web application.",
       "image": "radhifadlillah/shiori:latest",
       "logo": "https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Images/shiori-icon.png",
@@ -3320,7 +3320,7 @@
       ]
     },
     {
-      "categories": ["Task Server"],
+      "categories": ["Task"],
       "description": "SmokePing is a latency logging and graphing and alerting system. It consists of a daemon process which organizes the latency measurements and a CGI which presents the graphs.",
       "env": [
         {
@@ -3354,7 +3354,7 @@
       ]
     },
     {
-      "categories": ["Code Server"],
+      "categories": ["Notes"],
       "description": "Self-hosted snippet manager.",
       "image": "snowmean/snibox-sqlite:latest",
       "logo": "https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Images/snibox.png",
@@ -3373,7 +3373,7 @@
       ]
     },
     {
-      "categories": ["Usenet Server"],
+      "categories": ["Usenet"],
       "description": "Sonarr (formerly NZBdrone) is a PVR for usenet and bittorrent users. It can monitor multiple RSS feeds for new episodes of your favorite shows and will grab, sort and rename them. It can also be configured to automatically upgrade the quality of files already downloaded when a better quality format becomes available.",
       "env": [
         {
@@ -3415,7 +3415,7 @@
       ]
     },
     {
-      "categories": ["Backup and Sync Server"],
+      "categories": ["Backup and Sync"],
       "description": "Syncthing is a continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes.",
       "env": [
         {
@@ -3448,7 +3448,7 @@
       ]
     },
     {
-      "categories": ["Media Server"],
+      "categories": ["Media"],
       "description": "Tautulli is a 3rd party application that you can run along side your Plex Media Server to monitor activity and track various statistics. Most importantly, these statistics include what has been watched, who watched it, when and where they watched it, and how it was watched. All statistics are presented in a nice and clean interface with many tables and graphs, which makes it easy to brag about your server to everyone else.",
       "env": [
         {
@@ -3483,7 +3483,7 @@
       ]
     },
     {
-      "categories": ["Notes Server"],
+      "categories": ["Notes"],
       "description": "A unique, non-linear notebook wiki.",
       "image": "mazzolino/tiddlywiki:latest",
       "logo": "https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Images/tiddlywiki.png",
@@ -3531,7 +3531,7 @@
       ]
     },
     {
-      "categories": ["Torrent Server"],
+      "categories": ["Torrent"],
       "description": "Transmission is designed for easy, powerful use. Transmission has the features you want from a BitTorrent client: encryption, a web interface, peer exchange, magnet links, DHT, µTP, UPnP and NAT-PMP port forwarding, webseed support, watch directories, tracker editing, global and per-torrent speed limits, and more.",
       "env": [
         {
@@ -3568,7 +3568,7 @@
       ]
     },
     {
-      "categories": ["Torrent Server"],
+      "categories": ["Torrent"],
       "description": "This container contains OpenVPN and Transmission with a configuration where Transmission is running only when OpenVPN has an active tunnel. It bundles configuration files for many popular VPN providers to make the setup easier.",
       "env": [
         {
@@ -3624,7 +3624,7 @@
       ]
     },
     {
-      "categories": ["Library Server"],
+      "categories": ["Library"],
       "description": "Ubooquity is a free, lightweight and easy-to-use home server for your comics and ebooks. Use it to access your files from anywhere, with a tablet, an e-reader, a phone or a computer.",
       "env": [
         {
@@ -3703,7 +3703,7 @@
       ]
     },
     {
-      "categories": ["Task Server"],
+      "categories": ["Task"],
       "description": "With watchtower you can update the running version of your containerized app simply by pushing a new image to the Docker Hub or your own image registry. Watchtower will pull down your new image, gracefully shut down your existing container and restart it with the same options that were used when it was deployed initially.",
       "image": "containrrr/watchtower:latest",
       "logo": "https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Images/watchtower.png",
@@ -3755,7 +3755,7 @@
       ]
     },
     {
-      "categories": ["Family App Server"],
+      "categories": ["Family App"],
       "description": "Self-hosted, ad-free, privacy-respecting Google metasearch engine.",
       "image": "benbusby/whoogle-search:latest",
       "logo": "https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Images/whoogle.png",
@@ -3773,7 +3773,7 @@
       ]
     },
     {
-      "categories": ["Notes Server"],
+      "categories": ["Notes"],
       "description": "Wikijs A modern, lightweight and powerful wiki app built on NodeJS.",
       "image": "linuxserver/wikijs:latest",
       "logo": "https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Images/wikijs.png",
@@ -3795,7 +3795,7 @@
       ]
     },
     {
-      "categories": ["Dashboard Server"],
+      "categories": ["Dashboard"],
       "description": "A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.",
       "image": "selfhostedpro/yacht:latest",
       "logo": "https://raw.githubusercontent.com/SelfhostedPro/Yacht/master/readme_media/Yacht_logo_1_dark.png",
@@ -3859,7 +3859,7 @@
 },
 {
     "type": 1,
-    "categories": ["Library Server"],
+    "categories": ["Library"],
     "title": "Booksonic-air",
     "name": "Booksonic-air",
     "note": "Portainer App Templates by <a href='https://www.technorabilia.com' target='_blank'>Technorabilia</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p><p>Don't forget to create the volume directories on the host file system.</p><p>mkdir -p /volume1/docker/booksonic-air/config<br>mkdir -p /volume1/docker/booksonic-air/audiobooks<br>mkdir -p /volume1/docker/booksonic-air/podcasts<br>mkdir -p /volume1/docker/booksonic-air/othermedia</p>",
@@ -3918,7 +3918,7 @@
 },
 {
     "type": 1,
-    "categories": ["Code Server"],
+    "categories": ["Development"],
     "title": "Cloud9",
     "name": "Cloud9",
     "note": "Portainer App Templates by <a href='https://www.technorabilia.com' target='_blank'>Technorabilia</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p><p>Don't forget to create the volume directories on the host file system.</p><p>mkdir -p /volume1/docker/cloud9/config<br>mkdir -p /volume1/docker/cloud9/code<br></p>",
@@ -3985,7 +3985,7 @@
 },
 {
     "type": 1,
-    "categories": ["Notes Server"],
+    "categories": ["Notes"],
     "title": "Dokuwiki",
     "name": "Dokuwiki",
     "note": "Portainer App Templates by <a href='https://www.technorabilia.com' target='_blank'>Technorabilia</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p><p>Don't forget to create the volume directories on the host file system.</p><p>mkdir -p /volume1/docker/dokuwiki/config</p>",
@@ -4027,7 +4027,7 @@
 },
 {
     "type": 1,
-    "categories": ["Gaming Server"],
+    "categories": ["Gaming"],
     "title": "Emulatorjs",
     "name": "Emulatorjs",
     "note": "Portainer App Templates by <a href='https://www.technorabilia.com' target='_blank'>Technorabilia</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p><p>Don't forget to create the volume directories on the host file system.</p><p>mkdir -p /volume1/docker/emulatorjs/config<br>mkdir -p /volume1/docker/emulatorjs/data</p>",
@@ -4151,7 +4151,7 @@
 },
 {
     "type": 1,
-    "categories": ["Media Server"],
+    "categories": ["Media"],
     "title": "Ffmpeg",
     "name": "Ffmpeg",
     "note": "Portainer App Templates by <a href='https://www.technorabilia.com' target='_blank'>Technorabilia</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p><p>Don't forget to create the volume directories on the host file system.</p><p>mkdir -p /volume1/docker/ffmpeg/config</p>",
@@ -4192,7 +4192,7 @@
 },
 {
     "type": 1,
-    "categories": ["FTP Server"],
+    "categories": ["FTP"],
     "title": "Filezilla",
     "name": "Filezilla",
     "note": "Portainer App Templates by <a href='https://www.technorabilia.com' target='_blank'>Technorabilia</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p><p>Don't forget to create the volume directories on the host file system.</p><p>mkdir -p /volume1/docker/filezilla/config</p>",
@@ -4233,7 +4233,7 @@
 },
 {
     "type": 1,
-    "categories": ["Task Server"],
+    "categories": ["Task"],
     "title": "Healthchecks",
     "name": "Healthchecks",
     "note": "Portainer App Templates by <a href='https://www.technorabilia.com' target='_blank'>Technorabilia</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p><p>Don't forget to create the volume directories on the host file system.</p><p>mkdir -p /volume1/docker/healthchecks/config</p>",
@@ -4400,7 +4400,7 @@
 },
 {
     "type": 1,
-    "categories": ["Media Server"],
+    "categories": ["Media"],
     "title": "Kanzi",
     "name": "Kanzi",
     "note": "Portainer App Templates by <a href='https://www.technorabilia.com' target='_blank'>Technorabilia</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p><p>Don't forget to create the volume directories on the host file system.</p><p>mkdir -p /volume1/docker/kanzi/config</p>",
@@ -4453,7 +4453,7 @@
 },
 {
     "type": 1,
-    "categories": ["Proxy Server"],
+    "categories": ["Proxy"],
     "title": "Ldap-auth",
     "name": "Ldap-auth",
     "note": "Portainer App Templates by <a href='https://www.technorabilia.com' target='_blank'>Technorabilia</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p><p>Don't forget to create the volume directories on the host file system.</p>",
@@ -4495,7 +4495,7 @@
 },
 {
     "type": 1,
-    "categories": ["Family App Server"],
+    "categories": ["Family App"],
     "title": "Libreoffice",
     "name": "Libreoffice",
     "note": "Portainer App Templates by <a href='https://www.technorabilia.com' target='_blank'>Technorabilia</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p><p>Don't forget to create the volume directories on the host file system.</p><p>mkdir -p /volume1/docker/libreoffice/config</p>",
@@ -4536,7 +4536,7 @@
 },
 {
     "type": 1,
-    "categories": ["Code Server"],
+    "categories": ["Chat"],
     "title": "Limnoria",
     "name": "Limnoria",
     "note": "Portainer App Templates by <a href='https://www.technorabilia.com' target='_blank'>Technorabilia</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p><p>Don't forget to create the volume directories on the host file system.</p><p>mkdir -p /volume1/docker/limnoria/config</p>",
@@ -4677,7 +4677,7 @@
 },
 {
     "type": 1,
-    "categories": ["Management Utility Server"],
+    "categories": ["Management Utility"],
     "title": "Netbox",
     "name": "Netbox",
     "note": "Portainer App Templates by <a href='https://www.technorabilia.com' target='_blank'>Technorabilia</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p><p>Don't forget to create the volume directories on the host file system.</p><p>mkdir -p /volume1/docker/netbox/config</p>",
@@ -4838,7 +4838,7 @@
 },
 {
     "type": 1,
-    "categories": ["Management Utility Server"],
+    "categories": ["Management Utility"],
     "title": "Openssh-server",
     "name": "Openssh-server",
     "note": "Portainer App Templates by <a href='https://www.technorabilia.com' target='_blank'>Technorabilia</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p><p>Don't forget to create the volume directories on the host file system.</p><p>mkdir -p /volume1/docker/openssh-server/config</p>",
@@ -4933,7 +4933,7 @@
 },
 {
     "type": 1,
-    "categories": ["Family App Server"],
+    "categories": ["Family App"],
     "title": "Paperless-ng",
     "name": "Paperless-ng",
     "note": "Portainer App Templates by <a href='https://www.technorabilia.com' target='_blank'>Technorabilia</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p><p>Don't forget to create the volume directories on the host file system.</p><p>mkdir -p /volume1/docker/paperless-ng/config<br>mkdir -p /volume1/docker/paperless-ng/data</p>",
@@ -4984,7 +4984,7 @@
 },
 {
     "type": 1,
-    "categories": ["Family App Server"],
+    "categories": ["Family App"],
     "title": "Papermerge",
     "name": "Papermerge",
     "note": "Portainer App Templates by <a href='https://www.technorabilia.com' target='_blank'>Technorabilia</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p><p>Don't forget to create the volume directories on the host file system.</p><p>mkdir -p /volume1/docker/papermerge/config<br>mkdir -p /volume1/docker/papermerge/data</p>",
@@ -5035,7 +5035,7 @@
 },
 {
     "type": 1,
-    "categories": ["Chat Server"],
+    "categories": ["Chat"],
     "title": "Pidgin",
     "name": "Pidgin",
     "note": "Portainer App Templates by <a href='https://www.technorabilia.com' target='_blank'>Technorabilia</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p><p>Don't forget to create the volume directories on the host file system.</p><p>mkdir -p /volume1/docker/pidgin/config</p>",
@@ -5076,7 +5076,7 @@
 },
 {
     "type": 1,
-    "categories": ["Management Utility Server"],
+    "categories": ["Remote Control"],
     "title": "Rdesktop",
     "name": "Rdesktop",
     "note": "Portainer App Templates by <a href='https://www.technorabilia.com' target='_blank'>Technorabilia</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p><p>Don't forget to create the volume directories on the host file system.</p><p><br>mkdir -p /volume1/docker/rdesktop/config</p>",
@@ -5122,7 +5122,7 @@
 },
 {
     "type": 1,
-    "categories": ["Backup and Sync Server"],
+    "categories": ["Backup and Sync"],
     "title": "Rsnapshot",
     "name": "Rsnapshot",
     "note": "Portainer App Templates by <a href='https://www.technorabilia.com' target='_blank'>Technorabilia</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p><p>Don't forget to create the volume directories on the host file system.</p><p>mkdir -p /volume1/docker/rsnapshot/config<br>mkdir -p /volume1/docker/rsnapshot/.snapshots<br>mkdir -p /volume1/docker/rsnapshot/data</p>",
@@ -5171,7 +5171,7 @@
 },
 {
     "type": 1,
-    "categories": ["Family App Server"],
+    "categories": ["Family App"],
     "title": "Snapdrop",
     "name": "Snapdrop",
     "note": "Portainer App Templates by <a href='https://www.technorabilia.com' target='_blank'>Technorabilia</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p><p>Don't forget to create the volume directories on the host file system.</p><p>mkdir -p /volume1/docker/snapdrop/config</p>",
@@ -5218,7 +5218,7 @@
     "note": "Portainer App Templates by <a href='https://www.technorabilia.com' target='_blank'>Technorabilia</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p><p>Don't forget to create the volume directories on the host file system.</p><p>mkdir -p /volume1/docker/webtop/config<br></p>",
     "description": "[Webtop](https://github.com/linuxserver/docker-webtop) - Alpine, Ubuntu, Fedora, and Arch based containers containing full desktop environments in officially supported flavors accessible via any modern web browser.",
     "categories": [
-        "Management Utility Server"
+        "Management Utility"
     ],
     "platform": "linux",
     "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/webtop-logo.png",
@@ -5267,7 +5267,7 @@
 },	
 {
     "type": 1,
-    "categories": ["VPN Server"],
+    "categories": ["VPN"],
     "title": "Wireguard",
     "name": "Wireguard",
     "note": "Portainer App Templates by <a href='https://www.technorabilia.com' target='_blank'>Technorabilia</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p><p>Don't forget to create the volume directories on the host file system.</p><p>mkdir -p /volume1/docker/wireguard/config<br></p>",
@@ -5347,7 +5347,7 @@
     "restart_policy": "unless-stopped"
 },
 {
-    "categories": ["Management Utility Server"],
+    "categories": ["Management Utility"],
     "type": 1,
     "title": "Wireshark",
     "name": "Wireshark",
@@ -5392,7 +5392,7 @@
     "type": 1,
     "title": "Airsonic-advanced",
     "name": "Airsonic-advanced",
-    "categories": ["Music Server"],
+    "categories": ["Music"],
     "note": "Portainer App Templates by <a href='https://www.technorabilia.com' target='_blank'>Technorabilia</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p><p>Don't forget to create the volume directories on the host file system.</p><p>mkdir -p /volume1/docker/airsonic-advanced/config<br>mkdir -p /volume1/docker/airsonic-advanced/music<br>mkdir -p /volume1/docker/airsonic-advanced/playlists<br>mkdir -p /volume1/docker/airsonic-advanced/podcasts<br>mkdir -p /volume1/docker/airsonic-advanced/media</p>",
     "description": "[Airsonic-advanced](https://github.com/airsonic-advanced/airsonic-advanced) is a free, web-based media streamer, providing ubiquitious access to your music. Use it to share your music with friends, or to listen to your own music while at work. You can stream to multiple players simultaneously, for instance to one player in your kitchen and another in your living room.",
     "platform": "linux",
@@ -5464,7 +5464,7 @@
     "note": "Portainer App Templates by <a href='https://www.technorabilia.com' target='_blank'>Technorabilia</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p><p>Don't forget to create the volume directories on the host file system.</p><p>mkdir -p /volume1/docker/phpmyadmin/config</p>",
     "description": "[Phpmyadmin](https://github.com/phpmyadmin/phpmyadmin/) is a free software tool written in PHP, intended to handle the administration of MySQL over the Web. phpMyAdmin supports a wide range of operations on MySQL and MariaDB.",
     "categories": [
-        "Database Server"
+        "Database"
     ],
     "platform": "linux",
     "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/phpmyadmin-logo.png",
@@ -5578,7 +5578,7 @@
     "note": "Portainer App Templates by <a href='https://www.technorabilia.com' target='_blank'>Technorabilia</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p><p>Don't forget to create the volume directories on the host file system.</p><p>mkdir -p /volume1/docker/syslog-ng/config<br></p>",
     "description": "[syslog-ng](https://www.syslog-ng.com/products/open-source-log-management/) allows you to flexibly collect, parse, classify, rewrite and correlate logs from across your infrastructure and store or route them to log analysis tools.",
     "categories": [
-        "Task Server"
+        "Task"
     ],
     "platform": "linux",
     "logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/syslog-ng-logo.png",
@@ -5625,7 +5625,7 @@
     "title": "Wowza",
     "description": "Streaming media server",
     "categories": [
-            "Media Server"
+            "Media"
     ],
     "platform": "linux",
     "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/wowza.png",
@@ -5655,7 +5655,7 @@
     "title": "MySQL",
     "description": "The most popular open-source database",
     "categories": [
-            "Database Server"
+            "Database"
     ],
     "platform": "linux",
     "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/mysql.png",
@@ -5678,7 +5678,7 @@
     "description": "Open-source end-to-end software development platform",
     "note": "Default username is <b>root</b>. Check the <a href=\"https://docs.gitlab.com/omnibus/docker/README.html#after-starting-a-container\" target=\"_blank\">Gitlab documentation</a> to get started.",
     "categories": [
-            "Code Server"
+            "Development"
     ],
     "platform": "linux",
     "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/gitlab_ce.png",
